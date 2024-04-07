@@ -183,11 +183,13 @@ def create_output_file(funds_list, funds_holdings_dict):
                     if holding.is_equal_by_ticker(holding_tuple[0], holding_tuple[1]):
                         found = True
                         row.append(str(holding.weight) + '%')
+                        break
                 # 0% weight if not found
                 if not found:
                     row.append('0%')
             if len(row) != expected_row_size:
                 print(f"ERROR: Row size is {len(row)}. Expected {expected_row_size}")
+                print(row)
                 return
 
             writer.writerow(row)

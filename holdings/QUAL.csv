@@ -1,0 +1,302 @@
+Number,Security name,Ticker,Shares,Market Value,% of Net Assets
+1,Nvidia Corp,NVDA US,"310,276","$402,754,128.10",7.43%
+2,Microsoft Corp,MSFT US,"414,393","$261,660,020.44",4.82%
+3,Meta Platforms Inc,META US,"336,223","$259,569,521.62",4.79%
+4,Apple Inc,AAPL US,"816,964","$208,401,187.72",3.84%
+5,Eli Lilly & Co,LLY US,"155,199","$180,122,824.97",3.32%
+6,Novo Nordisk A/S,NOVOB DC,"755,866","$143,212,265.91",2.64%
+7,Broadcom Inc,AVGO US,"71,581","$142,502,262.44",2.63%
+8,Visa Inc,V US,"337,047","$139,545,039.54",2.57%
+9,Alphabet Inc,GOOGL US,"607,135","$138,096,192.83",2.55%
+10,Asml Holding Nv,ASML NA,"90,687","$134,226,308.46",2.48%
+11,Alphabet Inc,GOOG US,"534,263","$122,659,331.91",2.26%
+12,Unitedhealth Group Inc,UNH US,"145,615","$100,196,705.41",1.85%
+13,Mastercard Inc,MA US,"138,108","$98,034,172.94",1.81%
+14,Johnson & Johnson,JNJ US,"412,777","$95,117,123.57",1.75%
+15,Procter & Gamble Co/The,PG US,"340,204","$79,910,438.96",1.47%
+16,Costco Wholesale Corp,COST US,"72,941","$77,689,133.15",1.43%
+17,Nestle Sa,NESN SW,"403,494","$63,873,772.84",1.18%
+18,Coca-Cola Co/The,KO US,"689,103","$61,746,480.52",1.14%
+19,Adobe Inc,ADBE US,"82,500","$60,723,160.61",1.12%
+20,Accenture Plc,ACN US,"120,244","$60,043,891.25",1.11%
+21,Pepsico Inc,PEP US,"222,006","$56,910,440.91",1.05%
+22,Lvmh Moet Hennessy Louis Vuitton Se,MC FP,"41,778","$56,216,893.74",1.04%
+23,Roche Holding Ag,ROG SW,"148,768","$55,881,462.52",1.03%
+24,Cisco Systems Inc,CSCO US,"744,558","$54,126,166.05",1.00%
+25,Qualcomm Inc,QCOM US,"208,851","$53,572,917.73",0.99%
+26,Astrazeneca Plc,AZN LN,"255,433","$52,495,045.49",0.97%
+27,Applied Materials Inc,AMAT US,"167,463","$51,466,168.52",0.95%
+28,Texas Instruments Inc,TXN US,"196,305","$49,989,864.16",0.92%
+29,Caterpillar Inc,CAT US,"80,278","$44,856,468.71",0.83%
+30,Novartis Ag,NOVN SW,"303,229","$44,689,450.75",0.82%
+31,Lam Research Corp,LRCX US,"28,663","$41,215,743.89",0.76%
+32,Pfizer Inc,PFE US,"843,760","$33,977,351.32",0.63%
+33,Tokyo Electron Ltd,8035 JP,"85,438","$33,605,953.52",0.62%
+34,Conocophillips,COP US,"163,465","$32,542,339.91",0.60%
+35,Automatic Data Processing Inc,ADP US,"86,940","$31,724,308.30",0.59%
+36,Unilever Plc,ULVR LN,"420,692","$31,181,601.11",0.58%
+37,Union Pacific Corp,UNP US,"84,344","$30,675,073.69",0.57%
+38,Honeywell International Inc,HON US,"99,088","$29,353,594.04",0.54%
+39,Lockheed Martin Corp,LMT US,"41,079","$28,183,008.54",0.52%
+40,Intuitive Surgical Inc,ISRG US,"49,028","$28,071,465.14",0.52%
+41,Nike Inc,NKE US,"202,603","$27,267,837.58",0.50%
+42,L'Oreal Sa,OR FP,"39,178","$27,050,784.12",0.50%
+43,United Parcel Service Inc,UPS US,"113,010","$25,614,242.00",0.47%
+44,Blackrock Inc,BLK US,"21,085","$25,236,057.61",0.47%
+45,Vertex Pharmaceuticals Inc,VRTX US,"40,024","$24,433,516.69",0.45%
+46,Kla Corp,KLAC US,"23,305","$23,690,606.98",0.44%
+47,Tjx Cos Inc/The,TJX US,"161,461","$23,360,374.18",0.43%
+48,Cadence Design Systems Inc,CDNS US,"49,561","$22,951,737.80",0.42%
+49,Gsk Plc,GSK LN,"731,042","$22,915,136.42",0.42%
+50,Marsh & Mclennan Cos Inc,MMC US,"74,580","$22,623,057.92",0.42%
+51,Relx Plc,REL LN,"348,576","$22,106,384.90",0.41%
+52,Hermes International,RMS FP,"5,634","$22,056,994.43",0.41%
+53,Regeneron Pharmaceuticals Inc,REGN US,"15,419","$21,831,241.98",0.40%
+54,Arista Networks Inc,ANET US,"47,881","$20,892,415.74",0.39%
+55,Diageo Plc,DGE LN,"368,275","$20,514,646.45",0.38%
+56,Zoetis Inc,ZTS US,"80,124","$20,039,481.22",0.37%
+57,Synopsys Inc,SNPS US,"23,371","$20,027,095.79",0.37%
+58,Chipotle Mexican Grill Inc,CMG US,"4,595","$19,829,951.64",0.37%
+59,Canadian Pacific Railway Ltd,CP CN,"147,831","$19,513,108.07",0.36%
+60,Keyence Corp,6861 JP,"28,510","$19,400,187.43",0.36%
+61,Illinois Tool Works Inc,ITW US,"48,005","$18,988,747.16",0.35%
+62,Abb Ltd,ABBN SW,"261,430","$18,483,000.50",0.34%
+63,Fortinet Inc,FTNT US,"171,166","$17,905,448.66",0.33%
+64,Shin-Etsu Chemical Co Ltd,4063 JP,"277,175","$17,579,588.11",0.32%
+65,Rio Tinto Plc,RIO LN,"175,744","$17,137,136.54",0.32%
+66,Zurich Insurance Group Ag,ZURN SW,"21,115","$16,892,556.62",0.31%
+67,Canadian National Railway Co,CNR CN,"85,843","$16,816,564.50",0.31%
+68,Trane Technologies Plc,TT US,"37,383","$16,805,409.25",0.31%
+69,Cintas Corp,CTAS US,"16,431","$16,498,288.39",0.30%
+70,Cencora Inc,COR US,"44,808","$16,387,627.30",0.30%
+71,Amphenol Corp,APH US,"93,143","$16,199,399.65",0.30%
+72,Csx Corp,CSX US,"289,917","$15,823,217.51",0.29%
+73,3m Co,MMM US,"113,603","$15,541,884.06",0.29%
+74,Northrop Grumman Corp,NOC US,"21,753","$15,102,858.26",0.28%
+75,Edwards Lifesciences Corp,EW US,"105,078","$14,480,381.73",0.27%
+76,Ferrari Nv,RACE IM,"22,407","$14,243,939.66",0.26%
+77,General Dynamics Corp,GD US,"32,085","$14,215,724.80",0.26%
+78,Industria De Diseno Textil Sa,ITX SM,"187,864","$14,194,465.32",0.26%
+79,Ww Grainger Inc,GWW US,"9,202","$13,809,539.48",0.25%
+80,Recruit Holdings Co Ltd,6098 JP,"199,020","$13,227,435.96",0.24%
+81,Nintendo Co Ltd,7974 JP,"166,713","$13,101,601.13",0.24%
+82,Paychex Inc,PAYX US,"71,700","$12,999,827.31",0.24%
+83,Ferguson Plc,FERG US,"38,535","$12,887,510.19",0.24%
+84,Lululemon Athletica Inc,LULU US,"23,632","$12,767,997.26",0.24%
+85,Glencore Plc,GLEN LN,"1,425,588","$12,649,967.96",0.23%
+86,Old Dominion Freight Line Inc,ODFL US,"38,210","$12,590,019.99",0.23%
+87,Super Micro Computer Inc,SMCI US,"8,587","$12,430,134.07",0.23%
+88,Atlas Copco Ab,ATCOA SS,"476,056","$12,405,795.27",0.23%
+89,Fastenal Co,FAST US,"108,726","$12,349,555.76",0.23%
+90,Copart Inc,CPRT US,"143,204","$12,061,337.99",0.22%
+91,Public Storage,PSA US,"28,210","$11,962,612.42",0.22%
+92,Ameriprise Financial Inc,AMP US,"18,279","$11,845,999.98",0.22%
+93,Microchip Technology Inc,MCHP US,"88,710","$11,562,597.49",0.21%
+94,Aflac Inc,AFL US,"90,505","$11,536,724.40",0.21%
+95,Dr Horton Inc,DHI US,"47,686","$11,249,950.94",0.21%
+96,Wolters Kluwer Nv,WKL NA,"47,286","$10,813,119.97",0.20%
+97,Idexx Laboratories Inc,IDXX US,"13,554","$10,610,954.39",0.20%
+98,Partners Group Holding Ag,PGHN SW,"4,963","$10,560,451.52",0.19%
+99,Hoya Corp,7741 JP,"56,900","$10,481,831.70",0.19%
+100,Monster Beverage Corp,MNST US,"124,313","$10,472,124.42",0.19%
+101,Sika Ag,SIKA SW,"22,304","$10,017,107.69",0.18%
+102,Agilent Technologies Inc,A US,"46,543","$9,940,147.62",0.18%
+103,Te Connectivity Ltd,TEL US,"45,111","$9,848,351.98",0.18%
+104,Alimentation Couche-Tard Inc,ATD CN,"114,108","$9,482,980.10",0.17%
+105,Cummins Inc,CMI US,"20,705","$9,221,518.10",0.17%
+106,Volvo Ab,VOLVB SS,"221,193","$9,185,386.05",0.17%
+107,Reckitt Benckiser Group Plc,RKT LN,"108,416","$8,988,358.24",0.17%
+108,Lennar Corp,LEN US,"36,251","$8,963,607.61",0.17%
+109,Kddi Corp,9433 JP,"203,127","$8,948,997.72",0.17%
+110,Hong Kong Exchanges & Clearing Ltd,388 HK,"202,950","$8,947,052.25",0.17%
+111,Adyen Nv,ADYEN NA,"3,429","$8,688,736.99",0.16%
+112,Advantest Corp,6857 JP,"134,501","$8,509,170.85",0.16%
+113,Disco Corp,6146 JP,"14,923","$8,437,426.64",0.16%
+114,Cognizant Technology Solutions Corp,CTSH US,"77,094","$8,341,950.87",0.15%
+115,Ge Healthcare Technologies Inc,GEHC US,"61,873","$8,223,558.17",0.15%
+116,Verisk Analytics Inc,VRSK US,"23,700","$8,112,006.19",0.15%
+117,Hershey Co/The,HSY US,"27,139","$8,035,492.19",0.15%
+118,Rockwell Automation Inc,ROK US,"19,196","$8,015,159.19",0.15%
+119,Nvr Inc,NVR US,661,"$7,780,585.71",0.14%
+120,Monolithic Power Systems Inc,MPWR US,"7,865","$7,643,242.21",0.14%
+121,Stmicroelectronics Nv,STMPA FP,"113,279","$7,333,128.01",0.14%
+122,Veeva Systems Inc,VEEV US,"22,484","$7,295,581.27",0.13%
+123,Tractor Supply Co,TSCO US,"18,736","$7,148,729.00",0.13%
+124,Asm International Nv,ASM NA,"7,489","$7,071,554.86",0.13%
+125,Devon Energy Corp,DVN US,"88,545","$7,029,549.36",0.13%
+126,Dsv A/S,DSV DC,"27,040","$6,929,369.68",0.13%
+127,West Pharmaceutical Services Inc,WST US,"11,480","$6,697,883.05",0.12%
+128,Lasertec Corp,6920 JP,"16,381","$6,697,855.40",0.12%
+129,Builders Firstsource Inc,BLDR US,"21,778","$6,606,127.05",0.12%
+130,Universal Music Group Nv,UMG NA,"144,174","$6,574,853.30",0.12%
+131,Keysight Technologies Inc,KEYS US,"28,072","$6,568,375.00",0.12%
+132,Kering Sa,KER FP,"10,828","$6,566,754.72",0.12%
+133,Pultegroup Inc,PHM US,"38,102","$6,554,144.83",0.12%
+134,Geberit Ag,GEBN SW,"7,343","$6,419,127.92",0.12%
+135,Deckers Outdoor Corp,DECK US,"4,814","$6,385,353.30",0.12%
+136,Atlas Copco Ab,ATCOB SS,"276,639","$6,307,452.54",0.12%
+137,Resmed Inc,RMD US,"22,523","$6,296,095.97",0.12%
+138,Ulta Beauty Inc,ULTA US,"9,037","$6,126,263.16",0.11%
+139,Chugai Pharmaceutical Co Ltd,4519 JP,"110,278","$6,120,826.15",0.11%
+140,T Rowe Price Group Inc,TROW US,"34,694","$6,094,780.47",0.11%
+141,Evolution Ab,EVO SS,"32,567","$6,052,029.06",0.11%
+142,Equinor Asa,EQNR NO,"138,767","$5,878,308.02",0.11%
+143,Lennox International Inc,LII US,"8,202","$5,775,236.00",0.11%
+144,Lpl Financial Holdings Inc,LPLA US,"14,696","$5,693,869.07",0.11%
+145,Rheinmetall Ag,RHM GR,"6,287","$5,544,226.78",0.10%
+146,Imperial Brands Plc,IMB LN,"164,379","$5,522,328.84",0.10%
+147,Molina Healthcare Inc,MOH US,"9,665","$5,480,924.22",0.10%
+148,Netapp Inc,NTAP US,"34,103","$5,400,416.33",0.10%
+149,Manhattan Associates Inc,MANH US,"14,612","$5,343,825.14",0.10%
+150,Veralto Corp,VLTO US,"40,526","$5,308,552.51",0.10%
+151,Kone Oyj,KNEBV FH,"74,366","$5,276,937.23",0.10%
+152,Hubbell Inc,HUBB US,"8,426","$5,252,692.14",0.10%
+153,Church & Dwight Co Inc,CHD US,"33,784","$5,212,069.34",0.10%
+154,Dover Corp,DOV US,"19,898","$5,207,516.91",0.10%
+155,Expeditors International Of Washington,EXPD US,"29,659","$5,205,339.89",0.10%
+156,Kuehne + Nagel International Ag,KNIN SW,"11,875","$5,130,962.39",0.09%
+157,Garmin Ltd,GRMN US,"23,400","$5,123,392.37",0.09%
+158,Sandvik Ab,SAND SS,"147,396","$5,090,524.43",0.09%
+159,Cgi Inc,GIB/A CN,"30,979","$5,021,666.05",0.09%
+160,Steel Dynamics Inc,STLD US,"22,333","$4,950,854.43",0.09%
+161,Omnicom Group Inc,OMC US,"32,292","$4,544,693.00",0.08%
+162,Cf Industries Holdings Inc,CF US,"34,305","$4,467,219.45",0.08%
+163,Genmab A/S,GMAB DC,"9,539","$4,376,577.54",0.08%
+164,Best Buy Co Inc,BBY US,"36,224","$4,324,111.37",0.08%
+165,Check Point Software Technologies Ltd,CHKP US,"17,402","$4,279,242.03",0.08%
+166,Carlisle Cos Inc,CSL US,"7,065","$4,167,796.19",0.08%
+167,Reliance Steel & Aluminum Co,RS US,"8,194","$4,163,613.16",0.08%
+168,Vat Group Ag,VACN SW,"5,149","$4,092,676.15",0.08%
+169,Teradyne Inc,TER US,"25,391","$4,064,940.01",0.08%
+170,Straumann Holding Ag,STMN SW,"17,305","$4,050,731.80",0.07%
+171,Pool Corp,POOL US,"6,775","$4,045,550.54",0.07%
+172,Graco Inc,GGG US,"29,324","$4,040,580.85",0.07%
+173,Pandora A/S,PNDORA DC,"16,692","$4,035,011.53",0.07%
+174,Idex Corp,IEX US,"11,177","$3,999,097.41",0.07%
+175,Be Semiconductor Industries Nv,BESI NA,"15,966","$3,960,409.51",0.07%
+176,Factset Research Systems Inc,FDS US,"6,012","$3,936,144.31",0.07%
+177,Tourmaline Oil Corp,TOU CN,"54,425","$3,926,076.70",0.07%
+178,Watsco Inc,WSO US,"5,937","$3,877,441.75",0.07%
+179,Texas Pacific Land Corp,TPL US,"4,137","$3,732,927.92",0.07%
+180,Jb Hunt Transport Services Inc,JBHT US,"12,680","$3,726,978.51",0.07%
+181,Snap-On Inc,SNA US,"8,307","$3,680,411.36",0.07%
+182,Packaging Corp Of America,PKG US,"12,979","$3,680,326.25",0.07%
+183,Next Plc,NXT LN,"21,163","$3,624,949.97",0.07%
+184,Sonova Holding Ag,SOON SW,"8,435","$3,599,521.53",0.07%
+185,Arc Resources Ltd,ARX CN,"126,345","$3,585,379.79",0.07%
+186,Epam Systems Inc,EPAM US,"8,901","$3,575,733.77",0.07%
+187,Skyworks Solutions Inc,SWKS US,"22,583","$3,574,107.23",0.07%
+188,Epiroc Ab,EPIA SS,"116,556","$3,530,575.39",0.07%
+189,Sage Group Plc/The,SGE LN,"147,812","$3,529,791.53",0.07%
+190,Rollins Inc,ROL US,"52,209","$3,516,101.34",0.06%
+191,Brown-Forman Corp,BF/B US,"44,462","$3,454,573.53",0.06%
+192,Owens Corning,OC US,"12,915","$3,297,053.40",0.06%
+193,Logitech International Sa,LOGN SW,"24,289","$3,271,364.51",0.06%
+194,Eqt Corp,EQT US,"58,764","$3,264,075.74",0.06%
+195,Moncler Spa,MONC IM,"29,662","$3,258,740.58",0.06%
+196,Carlsberg As,CARLB DC,"15,303","$3,201,294.79",0.06%
+197,Japan Exchange Group Inc,8697 JP,"76,640","$3,186,338.31",0.06%
+198,Zebra Technologies Corp,ZBRA US,"7,181","$3,178,825.06",0.06%
+199,Albemarle Corp,ALB US,"17,225","$3,152,451.89",0.06%
+200,Nordson Corp,NDSN US,"7,675","$3,140,511.72",0.06%
+201,Jack Henry & Associates Inc,JKHY US,"12,107","$3,099,195.40",0.06%
+202,Beiersdorf Ag,BEI GR,"14,124","$3,036,131.62",0.06%
+203,Dick's Sporting Goods Inc,DKS US,"9,427","$2,973,679.57",0.05%
+204,Shionogi & Co Ltd,4507 JP,"39,171","$2,962,064.01",0.05%
+205,Dr Ing Hc F Porsche Ag,P911 GR,"18,807","$2,929,100.75",0.05%
+206,Solventum Corp,SOLV US,"28,401","$2,875,265.72",0.05%
+207,Allegion Plc,ALLE US,"14,514","$2,873,413.24",0.05%
+208,Neste Oyj,NESTE FH,"69,641","$2,864,810.95",0.05%
+209,Novozymes A/S,NSISB DC,"33,053","$2,840,892.21",0.05%
+210,Tfi International Inc,TFII CN,"11,502","$2,760,678.54",0.05%
+211,Auto Trader Group Plc,AUTO LN,"202,797","$2,720,535.70",0.05%
+212,Paycom Software Inc,PAYC US,"9,035","$2,699,715.65",0.05%
+213,Roche Holding Ag,RO SW,"6,775","$2,688,589.63",0.05%
+214,Interpublic Group Of Cos Inc/The,IPG US,"55,757","$2,688,435.22",0.05%
+215,Erie Indemnity Co,ERIE US,"4,427","$2,653,926.47",0.05%
+216,F5 Inc,FFIV US,"9,302","$2,649,201.44",0.05%
+217,Unicharm Corp,8113 JP,"55,819","$2,594,309.01",0.05%
+218,United Therapeutics Corp,UTHR US,"6,987","$2,469,733.19",0.05%
+219,Halma Plc,HLMA LN,"55,337","$2,452,253.80",0.05%
+220,Sandoz Group Ag,SDZ SW,"55,717","$2,428,829.43",0.04%
+221,Shimano Inc,7309 JP,"10,892","$2,400,384.20",0.04%
+222,Toro Co/The,TTC US,"18,065","$2,380,824.72",0.04%
+223,Schindler Holding Ag,SCHP SW,"6,324","$2,378,641.72",0.04%
+224,Obic Co Ltd,4684 JP,"10,539","$2,334,139.84",0.04%
+225,A O Smith Corp,AOS US,"17,686","$2,328,737.57",0.04%
+226,Bandai Namco Holdings Inc,7832 JP,"83,350","$2,325,153.56",0.04%
+227,Intertek Group Plc,ITRK LN,"24,622","$2,310,443.98",0.04%
+228,Globe Life Inc,GL US,"13,724","$2,283,393.95",0.04%
+229,Nomura Research Institute Ltd,4307 JP,"54,694","$2,282,643.30",0.04%
+230,Robert Half Inc,RHI US,"18,976","$2,162,255.38",0.04%
+231,Marketaxess Holdings Inc,MKTX US,"6,183","$2,100,146.58",0.04%
+232,Admiral Group Plc,ADM LN,"41,323","$2,085,935.05",0.04%
+233,American Financial Group Inc/Oh,AFG US,"10,400","$2,079,057.77",0.04%
+234,Henry Schein Inc,HSIC US,"18,546","$2,042,638.81",0.04%
+235,Spirax-Sarco Engineering Plc,SPX LN,"10,640","$1,991,953.94",0.04%
+236,Sei Investments Co,SEIC US,"18,198","$1,924,841.95",0.04%
+237,Toromont Industries Ltd,TIH CN,"12,813","$1,901,130.44",0.04%
+238,Sartorius Stedim Biotech,DIM FP,"4,493","$1,897,713.39",0.04%
+239,Ch Robinson Worldwide Inc,CHRW US,"17,504","$1,895,870.53",0.04%
+240,Fisher & Paykel Healthcare Corp Ltd,FPH NZ,"81,248","$1,883,773.25",0.03%
+241,Epiroc Ab,EPIB SS,"68,975","$1,883,236.98",0.03%
+242,Sysmex Corp,6869 JP,"70,766","$1,798,904.99",0.03%
+243,Boliden Ab,BOL SS,"37,132","$1,732,520.53",0.03%
+244,Paylocity Holding Corp,PCTY US,"6,871","$1,719,100.24",0.03%
+245,Mondi Plc,MNDI LN,"63,211","$1,718,829.15",0.03%
+246,Croda International Plc,CRDA LN,"18,983","$1,697,358.28",0.03%
+247,Capcom Co Ltd,9697 JP,"61,726","$1,680,721.56",0.03%
+248,Singapore Exchange Ltd,SGX SP,"159,865","$1,656,038.74",0.03%
+249,Indutrade Ab,INDT SS,"39,177","$1,631,926.60",0.03%
+250,Ap Moller - Maersk A/S,MAERSKB DC,766,"$1,617,265.94",0.03%
+251,Elisa Oyj,ELISA FH,"23,044","$1,604,526.75",0.03%
+252,Daito Trust Construction Co Ltd,1878 JP,"9,342","$1,590,167.42",0.03%
+253,Daifuku Co Ltd,6383 JP,"43,765","$1,521,303.65",0.03%
+254,Nibe Industrier Ab,NIBEB SS,"217,243","$1,515,463.61",0.03%
+255,Gea Group Ag,G1A GR,"23,752","$1,514,185.06",0.03%
+256,Fortum Oyj,FORTUM FH,"77,062","$1,507,215.24",0.03%
+257,Ems-Chemie Holding Ag,EMSN SW,"1,220","$1,448,765.90",0.03%
+258,Kongsberg Gruppen Asa,KOG NO,"13,796","$1,443,715.84",0.03%
+259,Ono Pharmaceutical Co Ltd,4528 JP,"59,101","$1,439,077.01",0.03%
+260,Shimadzu Corp,7701 JP,"34,146","$1,405,345.27",0.03%
+261,M3 Inc,2413 JP,"65,306","$1,383,261.69",0.03%
+262,Lifco Ab,LIFCOB SS,"34,328","$1,380,869.04",0.03%
+263,Spark New Zealand Ltd,SPK NZ,"310,658","$1,352,642.88",0.02%
+264,Randstad Nv,RAND NA,"16,903","$1,348,480.10",0.02%
+265,Berkeley Group Holdings Plc,BKG LN,"14,969","$1,341,026.78",0.02%
+266,Ia Financial Corp Inc,IAG CN,"14,016","$1,334,546.88",0.02%
+267,Schindler Holding Ag,SCHN SW,"3,645","$1,330,202.49",0.02%
+268,Burberry Group Plc,BRBY LN,"58,146","$1,315,637.16",0.02%
+269,Nemetschek Se,NEM GR,"9,016","$1,310,329.18",0.02%
+270,Rational Ag,RAA GR,994,"$1,309,949.84",0.02%
+271,Jeronimo Martins Sgps Sa,JMT PL,"42,332","$1,267,993.02",0.02%
+272,Volvo Ab,VOLVA SS,"29,349","$1,256,102.28",0.02%
+273,Recordati Industria Chimica E Farmaceut,REC IM,"15,217","$1,244,961.74",0.02%
+274,Persimmon Plc,PSN LN,"49,682","$1,230,167.68",0.02%
+275,La Francaise Des Jeux Saem,FDJ FP,"19,658","$1,222,848.18",0.02%
+276,Hargreaves Lansdown Plc,HL/ LN,"84,099","$1,191,944.56",0.02%
+277,Orion Oyj,ORNBV FH,"21,748","$1,177,858.76",0.02%
+278,Zozo Inc,3092 JP,"31,997","$1,177,590.13",0.02%
+279,Verbund Ag,VER AV,"10,744","$1,174,187.09",0.02%
+280,Nissan Chemical Corp,4021 JP,"19,814","$1,128,767.03",0.02%
+281,Otsuka Corp,4768 JP,"33,374","$1,048,383.64",0.02%
+282,Ap Moller - Maersk A/S,MAERSKA DC,483,"$997,965.37",0.02%
+283,Jd Sports Fashion Plc,JD/ LN,"382,971","$964,396.33",0.02%
+284,Ipsen Sa,IPN FP,"5,401","$962,336.94",0.02%
+285,Bechtle Ag,BC8 GR,"11,927","$962,083.61",0.02%
+286,Lotus Bakeries Nv,LOTB BB,60,"$879,885.07",0.02%
+287,Oracle Corp Japan,4716 JP,"7,929","$873,303.44",0.02%
+288,Sg Holdings Co Ltd,9143 JP,"45,509","$855,346.55",0.02%
+289,St James's Place Plc,STJ LN,"97,950","$841,128.83",0.02%
+290,Sitc International Holdings Co Ltd,1308 HK,"293,358","$814,238.51",0.02%
+291,Kobe Bussan Co Ltd,3038 JP,"22,837","$806,344.76",0.01%
+292,Hikma Pharmaceuticals Plc,HIK LN,"22,503","$805,959.13",0.01%
+293,Mcdonald's Holdings Co Japan Ltd,2702 JP,"11,926","$805,587.10",0.01%
+294,Monotaro Co Ltd,3064 JP,"44,376","$777,681.91",0.01%
+295,Uss Co Ltd,4732 JP,"62,900","$770,176.98",0.01%
+296,Gjensidige Forsikring Asa,GJF NO,"30,755","$695,877.08",0.01%
+297,Clariant Ag,CLN SW,"32,506","$693,846.13",0.01%
+298,Rockwool International A/S,ROCKB DC,"1,317","$680,797.47",0.01%
+299,Scsk Corp,9719 JP,"22,442","$627,389.48",0.01%
+300,Constellation Software Inc/Canada,2299955D CN,"2,676",$.00,0.00%
+301,Other/Cash, -- , -- ,"$6,050,270.73",0.11%

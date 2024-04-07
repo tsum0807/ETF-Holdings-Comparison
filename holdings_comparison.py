@@ -179,7 +179,8 @@ def warn(message):
     print(f"{Fore.YELLOW}{message}{Style.RESET_ALL}")
 
 print("\n===== COMPARING FUNDS =====")
-print(f"CREATING OUTPUT FILE: {CREATE_OUTPUT_FILE}")
+print(f"CREATE OUTPUT FILE: {CREATE_OUTPUT_FILE}")
+print(f"SUPPRESS WARNINGS: {SUPPRESS_WARNINGS}")
 
 read_cmd_args()
 for fund in funds_list:
@@ -188,3 +189,5 @@ for fund in funds_list:
 find_overlap(funds_holdings_dict[funds_list[0]], funds_holdings_dict[funds_list[1]])
 if CREATE_OUTPUT_FILE:
     create_output_file(funds_list, funds_holdings_dict)
+
+print("\n===== END =====")

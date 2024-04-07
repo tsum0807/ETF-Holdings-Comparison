@@ -15,7 +15,10 @@ WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)"]
 
 AU_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
 
-CREATE_OUTPUT_FILE = True
+# SOME CONFIG.. TODO: DO THIS SOMEWHERE ELSE
+
+CREATE_OUTPUT_FILE = False
+SUPRESS_WARNINGS = True
 
 funds_list = []
 csv_list = []
@@ -80,7 +83,7 @@ def extract_csv(csv_reader):
             if(ticker_code[1] in AU_EXCHANGE_ALIAS):
                 holding.exchange = "ASX"
             else:
-                print(f"{Fore.YELLOW}WARNING - Unrecognised exchange code: \"{ticker_code[1]}\" for ticker \"{ticker_code[0]}\"{Style.RESET_ALL}")
+                warn("WARNING - Unrecognised exchange code: \""+ticker_code[1]+"\" for ticker \""+ticker_code[0]+"\"")
 
         holding.name = row[name_index]
         holding.weight = float(row[weight_index].strip('%')) if row[weight_index] != '' else 0
@@ -168,6 +171,12 @@ def create_output_file(funds_list, funds_holdings_dict):
             writer.writerow(row)
 
 # MAIN
+
+# TODO: MOVE SOMEWHERE ELSE. NEW LIB FILE
+def warn(message):
+    if SUPRESS_WARNINGS: 
+        return
+    print(f"{Fore.YELLOW}{message}{Style.RESET_ALL}")
 
 print("\n===== COMPARING FUNDS =====")
 print(f"CREATING OUTPUT FILE: {CREATE_OUTPUT_FILE}")

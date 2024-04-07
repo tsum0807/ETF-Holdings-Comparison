@@ -15,7 +15,7 @@ WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)"]
 
 AU_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
 
-CREATE_OUTPUT_FILE = False
+CREATE_OUTPUT_FILE = True
 
 funds_list = []
 csv_list = []
@@ -132,7 +132,7 @@ def create_output_file(funds_list, funds_holdings_dict):
     output_filename = ""
     for fund_name in funds_list:
         output_filename += fund_name + '_'
-    output_filename = output_filename.strip('_') + ".csv"
+    output_filename = "output_files/" + output_filename.strip('_') + ".csv"
 
     with open(output_filename, 'w', newline='') as csv_file:
         writer = csv.writer(csv_file)

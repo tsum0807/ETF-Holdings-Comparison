@@ -186,8 +186,9 @@ read_cmd_args()
 for fund in funds_list:
     funds_holdings_dict[fund] = open_file(fund)
 
-find_overlap(funds_holdings_dict[funds_list[0]], funds_holdings_dict[funds_list[1]])
 if CREATE_OUTPUT_FILE:
     create_output_file(funds_list, funds_holdings_dict)
+else:
+    find_overlap(funds_holdings_dict[funds_list[0]], funds_holdings_dict[funds_list[1]])
 
 print("\n===== END =====")

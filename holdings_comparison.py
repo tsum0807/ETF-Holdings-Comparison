@@ -8,12 +8,20 @@ from colorama import init, Fore, Style
 
 from holding import Holding
 
-TICKER_ALIAS = ["TICKER", "ASX CODE"]
+TICKER_ALIAS = ["TICKER", "ASX CODE", "SYMBOL"]
 EXCHANGE_ALIAS = ["EXCHANGE"]
-NAME_ALIAS = ["NAME", "SECURITY NAME"]
-WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)"]
+NAME_ALIAS = ["NAME", "SECURITY NAME", "HOLDING"]
+WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)", "WEIGHTING"]
 
-AU_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
+ASX_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
+NASDAQ_EXCHANGE_ALIAS = ["NASDAQ", "UW"]
+NYSE_EXCHANGE_ALIAS = ["New York Stock Exchange Inc.", "NYSE", "UN"]
+JPX_EXCHANGE_ALIAS = ["JP", "JT"]
+DKK_EXCHANGE_ALIAS = ["DC"]
+DKK_EXCHANGE_ALIAS = ["FP"]
+
+EXCHANGE_ALIAS_LIST = [ASX_EXCHANGE_ALIAS, NASDAQ_EXCHANGE_ALIAS, NYSE_EXCHANGE_ALIAS, JPX_EXCHANGE_ALIAS, DKK_EXCHANGE_ALIAS]
+EXCHANGE_ALIAS_NAMES = ["ASX", "NASDAQ", "NYSE", "JPX", "DKK"]
 
 CREATE_OUTPUT_FILE = True
 
@@ -65,7 +73,7 @@ def extract_csv(csv_reader):
             weight_index = i
     
     if ticker_index == -1 or name_index == -1 or weight_index == -1:
-        print(f"ERROR - Couldn't find index for something:\nticker: {ticker_index} \nname: {name_index} \nweight: {weight_index}")
+        print(f"ERROR - Could not find index for something:\nticker: {ticker_index} \nname: {name_index} \nweight: {weight_index}")
         exit()
 
     for i, row in enumerate(csv_reader):
@@ -74,18 +82,23 @@ def extract_csv(csv_reader):
         holding.ticker = ticker_code[0]
         
         if(exchange_index != -1):
-            if(row[exchange_index] in AU_EXCHANGE_ALIAS):
-                holding.exchange = "ASX"
+            holding.exchange = get_exchange(row[exchange_index])
         elif(len(ticker_code) > 1):
-            if(ticker_code[1] in AU_EXCHANGE_ALIAS):
-                holding.exchange = "ASX"
-            else:
-                print(f"{Fore.YELLOW}WARNING - Unrecognised exchange code: \"{ticker_code[1]}\" for ticker \"{ticker_code[0]}\"{Style.RESET_ALL}")
+            holding.exchange = get_exchange(ticker_code[1])
+        else:
+            print(f"{Fore.YELLOW}WARNING - Unrecognised exchange code: for ticker \"{ticker_code[0]}\"{Style.RESET_ALL}")
 
         holding.name = row[name_index]
         holding.weight = float(row[weight_index].strip('%')) if row[weight_index] != '' else 0
         holdings_list.append(holding)
     return holdings_list
+
+def get_exchange(exchange_alias):
+    for i, alias_list in enumerate(EXCHANGE_ALIAS_LIST):
+        if exchange_alias in alias_list:
+            return EXCHANGE_ALIAS_NAMES[i]
+    print(f"{Fore.YELLOW}WARNING - Could not find exchange for \"{exchange_alias}\"{Style.RESET_ALL}")
+    return exchange_alias
 
 # COMPARISONS
 

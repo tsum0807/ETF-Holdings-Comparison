@@ -18,7 +18,7 @@ AU_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
 # SOME CONFIG.. TODO: DO THIS SOMEWHERE ELSE
 
 CREATE_OUTPUT_FILE = False
-SUPRESS_WARNINGS = True
+SUPPRESS_WARNINGS = True
 
 funds_list = []
 csv_list = []
@@ -174,7 +174,7 @@ def create_output_file(funds_list, funds_holdings_dict):
 
 # TODO: MOVE SOMEWHERE ELSE. NEW LIB FILE
 def warn(message):
-    if SUPRESS_WARNINGS: 
+    if SUPPRESS_WARNINGS: 
         return
     print(f"{Fore.YELLOW}{message}{Style.RESET_ALL}")
 

@@ -3,6 +3,7 @@ import csv
 import os.path
 import time
 
+import traceback
 from typing import List
 from colorama import init, Fore, Style
 
@@ -25,8 +26,9 @@ EXCHANGE_ALIAS_NAMES = ["ASX", "NASDAQ", "NYSE", "JPX", "DKK"]
 
 # SOME CONFIG.. TODO: DO THIS SOMEWHERE ELSE
 
-CREATE_OUTPUT_FILE = False
+CREATE_OUTPUT_FILE = True
 SUPPRESS_WARNINGS = True
+HOLDINGS_DIRECTORY = "holdings/"
 
 funds_list = []
 csv_list = []
@@ -44,13 +46,18 @@ def read_cmd_args():
         print("USAGE: python holdings_comparison.py [fund_name] [fund_name] [etc.]")
         return
     for i in range(1, len(sys.argv)):
-        creation_time = os.path.getctime("holdings/" + sys.argv[i].upper() + ".csv")
+        if sys.argv[i].upper() == "ALL":
+            print("ALL FUNDS")
+            for file in os.listdir(HOLDINGS_DIRECTORY):
+                funds_list.append(file.strip(".csv"))
+            return
+
+        creation_time = os.path.getctime(HOLDINGS_DIRECTORY + sys.argv[i].upper() + ".csv")
         # Convert the modification time to a readable format
         creation_date = time.strftime('%Y-%m-%d', time.localtime(creation_time))
 
         print(f"Fund  {i} : {sys.argv[i].upper()} as of {creation_date}")
         funds_list.append(sys.argv[i])
-
 
 def open_file(fund_name):
     try:
@@ -59,6 +66,7 @@ def open_file(fund_name):
             return extract_csv(csv_reader)
     except Exception as e:
         print(f"ERROR - Fail to open file: holdings/{fund_name.upper()}.csv\nMessage: {e}")
+        traceback.print_exc()
         exit()
 
 def extract_csv(csv_reader):
@@ -89,7 +97,7 @@ def extract_csv(csv_reader):
         elif(len(ticker_code) > 1):
             holding.exchange = get_exchange(ticker_code[1])
         else:
-            warn("WARNING - Unrecognised exchange code: \""+ticker_code[1]+"\" for ticker \""+ticker_code[0]+"\"")
+            warn("WARNING - Unrecognised exchange code: for ticker \""+ticker_code[0]+"\"")
 
         holding.name = row[name_index]
         holding.weight = float(row[weight_index].strip('%')) if row[weight_index] != '' else 0
@@ -100,7 +108,7 @@ def get_exchange(exchange_alias):
     for i, alias_list in enumerate(EXCHANGE_ALIAS_LIST):
         if exchange_alias in alias_list:
             return EXCHANGE_ALIAS_NAMES[i]
-    print(f"{Fore.YELLOW}WARNING - Could not find exchange for \"{exchange_alias}\"{Style.RESET_ALL}")
+    warn("WARNING - Could not find exchange for \""+exchange_alias+"\"")
     return exchange_alias
 
 # COMPARISONS
@@ -160,7 +168,7 @@ def create_output_file(funds_list, funds_holdings_dict):
 
         total_holdings_set = set()
         for i in range(0, len(funds_holdings_dict) - 1):
-            total_holdings_set.update(get_holding_set(funds_holdings_dict[funds_list[i]], funds_holdings_dict[funds_list[i + 1]]))
+            total_holdings_set.update(get_holding_set(funds_holdings_dict[funds_list[i]], funds_holdings_dict[funds_list[i + 1]], False))
 
         for holding_tuple in total_holdings_set:
             row = []
@@ -180,6 +188,7 @@ def create_output_file(funds_list, funds_holdings_dict):
                     row.append('0%')
             if len(row) != expected_row_size:
                 print(f"ERROR: Row size is {len(row)}. Expected {expected_row_size}")
+                return
 
             writer.writerow(row)
 

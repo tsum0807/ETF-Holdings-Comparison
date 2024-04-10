@@ -12,10 +12,10 @@ from holding import Holding
 TICKER_ALIAS = ["TICKER", "ASX CODE", "SYMBOL"]
 EXCHANGE_ALIAS = ["EXCHANGE", "COUNTRY CODE"]
 NAME_ALIAS = ["NAME", "SECURITY NAME", "HOLDING", "HOLDING NAME"]
-WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)", "WEIGHTING"]
+WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)", "WEIGHTING", "PERCENT OF ASSETS"]
 
 ASX_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
-US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US"]
+US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US", "XNYS"]
 LSE_EXCHANGE_ALIAS = ["London Stock Exchange"]
 JPX_EXCHANGE_ALIAS = ["JP", "JT", "Tokyo Stock Exchange"]
 DKK_EXCHANGE_ALIAS = ["DC"]
@@ -26,9 +26,10 @@ EXCHANGE_ALIAS_NAMES = ["ASX", "US", "JPX", "DKK", "FP", "LSE"]
 
 # SOME CONFIG.. TODO: DO THIS SOMEWHERE ELSE
 
-CREATE_OUTPUT_FILE = True
 SUPPRESS_WARNINGS = True
 HOLDINGS_DIRECTORY = "holdings/"
+
+create_output_file_flag = False
 
 funds_list = []
 csv_list = []
@@ -41,11 +42,36 @@ init()
 
 # SETUP AND FILE EXTRACTION
 
+def show_help():
+    print("""
+          ====================== COMPARE ETF HOLDINGS ======================
+
+          USAGE: python holdings_comparison.py [flags] [fund_name] [...]
+          
+          FLAGS:
+            -create: outputs a csv file with all holdings and funds given
+          
+          FUND NAMES:
+            Check in holdings/ directory
+
+          ==================================================================
+          """)
+
+def check_for_flag(arg):
+    if arg == "-create" or arg == "-c":
+        print("Create output file flag: TRUE")
+        global create_output_file_flag
+        create_output_file_flag = True
+        return True
+    return False
+
 def read_cmd_args():
     if len(sys.argv) <= 1:
-        print("USAGE: python holdings_comparison.py [fund_name] [fund_name] [etc.]")
+        show_help()
         return
     for i in range(1, len(sys.argv)):
+        if check_for_flag(sys.argv[i]):
+            continue
         if sys.argv[i].upper() == "ALL":
             print("ALL FUNDS")
             for file in os.listdir(HOLDINGS_DIRECTORY):
@@ -153,6 +179,7 @@ def get_holding_name_by_ticker(exchange, ticker):
     exit()
 
 def create_output_file(funds_list, funds_holdings_dict):
+    print("\n===== CREATING OUTPUT FILE =====")
     output_filename = ""
     for fund_name in funds_list:
         output_filename += fund_name + '_'
@@ -203,14 +230,13 @@ def warn(message):
     print(f"{Fore.YELLOW}{message}{Style.RESET_ALL}")
 
 print("\n===== COMPARING FUNDS =====")
-print(f"CREATE OUTPUT FILE: {CREATE_OUTPUT_FILE}")
 print(f"SUPPRESS WARNINGS: {SUPPRESS_WARNINGS}")
 
 read_cmd_args()
 for fund in funds_list:
     funds_holdings_dict[fund] = open_file(fund)
 
-if CREATE_OUTPUT_FILE:
+if create_output_file_flag:
     create_output_file(funds_list, funds_holdings_dict)
 else:
     find_overlap(funds_holdings_dict[funds_list[0]], funds_holdings_dict[funds_list[1]])

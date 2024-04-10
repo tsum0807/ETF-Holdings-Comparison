@@ -15,7 +15,7 @@ NAME_ALIAS = ["NAME", "SECURITY NAME", "HOLDING", "HOLDING NAME"]
 WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)", "WEIGHTING", "PERCENT OF ASSETS"]
 
 ASX_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
-US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US"]
+US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US", "XNYS"]
 LSE_EXCHANGE_ALIAS = ["London Stock Exchange"]
 JPX_EXCHANGE_ALIAS = ["JP", "JT", "Tokyo Stock Exchange"]
 DKK_EXCHANGE_ALIAS = ["DC"]

@@ -1,0 +1,94 @@
+ISIN,SEDOL,Ticker,Name,Local Currency,Number of Shares,Weight (%),Trade Country Name,Local Price,Sector Classification,Industry Classification
+AU000000BHP4,6144690,BHP AU,Bhp Group Ltd,AUD,123724,12.476853,Australia,45.13,Materials,Metals & Mining
+AU000000CBA7,6215035,CBA AU,Cmnwlth Bk Of Aust,AUD,40911,10.892308,Australia,119.15,Financials,Banks
+AU000000CSL8,6185495,CSL AU,Csl Ltd,AUD,11756,7.357452,Australia,280.08,Health Care,Biotechnology
+AU000000NAB4,6624608,NAB AU,Natl Australia Bk,AUD,76449,5.915753,Australia,34.63,Financials,Banks
+AU000000ANZ3,6065586,ANZ AU,Anz Group Hldgs Li,AUD,73330,4.819061,Australia,29.41,Financials,Banks
+AU000000WES1,6948836,WES AU,Wesfarmers Ltd,AUD,27700,4.160677,Australia,67.22,Consumer Discretionary,Broadline Retail
+AU000000MQG1,B28YTC2,MQG AU,Macquarie Gp Ltd,AUD,8768,3.750757,Australia,191.44,Financials,Capital Markets
+AU0000224040,BMGT167,WDS AU,Woodside Energy Gr,AUD,46316,3.129670,Australia,30.24,Energy,Oil Gas & Consumable Fuels
+AU000000GMG2,B03FYZ4,GMG AU,Goodman Group,AUD,41705,2.964405,Australia,31.81,Real Estate,Industrial Reits
+AU000000RIO1,6220103,RIO AU,Rio Tinto Limited,AUD,9037,2.531448,Australia,125.36,Materials,Metals & Mining
+AU000000TLS2,6087289,TLS AU,Telstra Group Ltd,AUD,281960,2.387880,Australia,3.79,Communication Services,Diversified Telecommunication Services
+AU000000FMG4,6086253,FMG AU,Fortescue Ltd,AUD,41126,2.321323,Australia,25.26,Materials,Metals & Mining
+AU000000TCL6,6200882,TCL AU,Transurban Group,AUD,75127,2.241109,Australia,13.35,Industrials,Transportation Infrastructure
+AU000000WOW2,6981239,WOW AU,Woolworths Grp Ltd,AUD,29874,2.156163,Australia,32.3,Consumer Staples,Consumer Staples Distribution & Retail
+AU000000ALL7,6253983,ALL AU,Aristocrat Leisure,AUD,15836,1.491165,Australia,42.14,Consumer Discretionary,Hotels Restaurants & Leisure
+AU000000QBE9,6715740,QBE AU,Qbe Ins Group,AUD,36271,1.449959,Australia,17.89,Financials,Insurance
+AU000000STO6,6776703,STO AU,Santos Limited,AUD,79171,1.360436,Australia,7.69,Energy,Oil Gas & Consumable Fuels
+AU000000BXB1,B1FJ0C0,BXB AU,Brambles Ltd,AUD,34443,1.223725,Australia,15.9,Industrials,Commercial Services & Supplies
+AU0000030678,BYWR0T5,COL AU,Coles Group Ltd,AUD,33005,1.191072,Australia,16.15,Consumer Staples,Consumer Staples Distribution & Retail
+AU000000COH5,6211798,COH AU,Cochlear Ltd,AUD,1622,1.156439,Australia,319.07,Health Care,Health Care Equipment & Supplies
+AU000000SUN6,6585084,SUN AU,Suncorp Group Ltd,AUD,31277,1.147583,Australia,16.42,Financials,Insurance
+AU000000NST8,6717456,NST AU,Nthn Star Res Ltd,AUD,28209,0.960005,Australia,15.23,Materials,Metals & Mining
+AU000000SCG8,BLZH0Z7,SCG AU,Scentre Group Ltd,AUD,127715,0.941763,Australia,3.3,Real Estate,Retail Reits
+NZXROE0001S2,B8P4LP4,XRO AU,Xero Limited,AUD,3398,0.939093,Australia,123.68,Information Technology,Software
+AU000000WTC3,BZ8GX83,WTC AU,Wisetech Global Lt,AUD,4481,0.920087,Australia,91.89,Information Technology,Software
+AU000000IAG3,6271026,IAG AU,Insurance Aust Grp,AUD,60314,0.874679,Australia,6.49,Financials,Insurance
+AU000000S320,BWSW5D9,S32 AU,South32 Ltd,AUD,112338,0.815823,Australia,3.25,Materials,Metals & Mining
+AU000000SHL7,6821120,SHL AU,Sonic Healthcare,AUD,11589,0.745026,Australia,28.77,Health Care,Health Care Providers & Services
+AU000000CAR3,BW0BGZ3,CAR AU,Car Group Ltd,AUD,9205,0.709625,Australia,34.5,Communication Services,Interactive Media & Services
+AU000000MIN4,B17ZL56,MIN AU,Mineral Res Ltd,AUD,4190,0.667465,Australia,71.29,Materials,Metals & Mining
+AU000000SGP0,6850856,SGP AU,Stockland,AUD,58818,0.615095,Australia,4.68,Real Estate,Diversified Reits
+AU000000APA1,6247306,APA AU,Apa Group,AUD,31400,0.599202,Australia,8.54,Utilities,Gas Utilities
+AU0000297962,BRDVMB3,NEM AU,Newmont Corporatio,AUD,4429,0.589548,Australia,59.57,Materials,Metals & Mining
+AU000000BSL0,6533232,BSL AU,Bluescope Steel,AUD,10991,0.581819,Australia,23.69,Materials,Metals & Mining
+AU000000TWE9,B61JC67,TWE AU,Treasury Wine Esta,AUD,19754,0.566769,Australia,12.84,Consumer Staples,Beverages
+AU000000RHC8,6041995,RHC AU,Ramsay Health Care,AUD,4640,0.554803,Australia,53.51,Health Care,Health Care Providers & Services
+AU000000REA9,6198578,REA AU,Rea Group Limited,AUD,1274,0.518343,Australia,182.08,Communication Services,Interactive Media & Services
+AU000000MGR9,6161978,MGR AU,Mirvac Group,AUD,97083,0.496780,Australia,2.29,Real Estate,Diversified Reits
+AU000000SEK6,B0767Y3,SEK AU,Seek Limited,AUD,8741,0.481464,Australia,24.65,Communication Services,Interactive Media & Services
+AU000000NXT8,B5LMKP4,NXT AU,Nextdc Ltd,AUD,12708,0.476775,Australia,16.79,Information Technology,It Services
+AU000000AMC4,6066608,AMC AU,Amcor Plc,AUD,15081,0.468078,Australia,13.89,Materials,Containers & Packaging
+AU000000GPT8,6365866,GPT AU,Gpt Group,AUD,46821,0.457202,Australia,4.37,Real Estate,Diversified Reits
+AU000000ORI1,6458001,ORI AU,Orica Limited,AUD,11305,0.450662,Australia,17.84,Materials,Chemicals
+AU000000DXS1,B033YN6,DXS AU,Dexus,AUD,26423,0.444593,Australia,7.53,Real Estate,Office Reits
+AU000000VCX7,BY7QXS7,VCX AU,Vicinity Centres,AUD,95657,0.427496,Australia,2,Real Estate,Retail Reits
+AU000000EVN4,B3X0F91,EVN AU,Evolution Mining,AUD,47923,0.422987,Australia,3.95,Materials,Metals & Mining
+AU000000AZJ1,B87CVM3,AZJ AU,Aurizon Holdings,AUD,45757,0.411026,Australia,4.02,Industrials,Ground Transportation
+AU000000ALQ6,B86SZR5,ALQ AU,Als Limited,AUD,11392,0.341871,Australia,13.43,Industrials,Professional Services
+AU000000SVW5,B432QW4,SVW AU,Seven Group Hldgs,AUD,3831,0.338139,Australia,39.5,Industrials,Trading Companies & Distributors
+AU000000CWY3,BYQ8KW7,CWY AU,Cleanaway Waste Mg,AUD,55593,0.336647,Australia,2.71,Industrials,Commercial Services & Supplies
+AU000000WOR2,6562474,WOR AU,Worley Limited,AUD,8683,0.327125,Australia,16.86,Industrials,Construction & Engineering
+AU000000CHC0,B15F6S6,CHC AU,Charter Hall Group,AUD,10978,0.316200,Australia,12.89,Real Estate,Diversified Reits
+AU000000QUB5,B1L4BC6,QUB AU,Qube Hldgs Ltd,AUD,40545,0.303506,Australia,3.35,Industrials,Transportation Infrastructure
+AU000000IPL1,6673042,IPL AU,Incitec Pivot,AUD,48461,0.299956,Australia,2.77,Materials,Chemicals
+AU000000IGO4,6439567,IGO AU,Igo Ltd,AUD,16675,0.283927,Australia,7.62,Materials,Metals & Mining
+AU000000TNE8,6302410,TNE AU,Technology One,AUD,7251,0.271393,Australia,16.75,Information Technology,Software
+AU000000IEL5,BDB6DD1,IEL AU,Idp Education Ltd,AUD,6833,0.259260,Australia,16.98,Consumer Discretionary,Diversified Consumer Services
+AU000000LLC3,6512004,LLC AU,Lendlease Corp Ltd,AUD,16673,0.238813,Australia,6.41,Real Estate,Real Estate Management & Development
+AU000000SFR8,6739739,SFR AU,Sandfire Resource,AUD,11134,0.223913,Australia,9,Materials,Metals & Mining
+AU0000305724,BS715X9,LTM AU,Arcadium Lithium,AUD,14626,0.215703,Australia,6.6,Materials,Chemicals
+NZFAPE0001S2,6423968,FPH AU,Fisher & Paykel He,AUD,4012,0.211841,Australia,23.63,Health Care,Health Care Equipment & Supplies
+AU000000CSR5,6238645,CSR AU,Csr Limited,AUD,10457,0.206326,Australia,8.83,Materials,Construction Materials
+AU000000WEB7,6015815,WEB AU,Webjet Ltd,AUD,9959,0.190269,Australia,8.55,Consumer Discretionary,Hotels Restaurants & Leisure
+AU000000NHF0,B28ZM60,NHF AU,Nib Holdings Ltd,AUD,10808,0.188859,Australia,7.82,Financials,Insurance
+AU000000AMP6,6709958,AMP AU,Amp Limited,AUD,69882,0.185042,Australia,1.185,Financials,Financial Services
+AU000000FLT9,6352147,FLT AU,Flight Centre Trav,AUD,3780,0.179573,Australia,21.26,Consumer Discretionary,Hotels Restaurants & Leisure
+AU000000PRU3,B02FBC1,PRU AU,Perseus Mining Ltd,AUD,33332,0.173541,Australia,2.33,Materials,Metals & Mining
+AU000000CGF5,6726300,CGF AU,Challenger Limited,AUD,11071,0.171685,Australia,6.94,Financials,Financial Services
+AU000000ILU1,6957575,ILU AU,Iluka Resources,AUD,10245,0.165057,Australia,7.21,Materials,Metals & Mining
+AU000000DOW2,6465573,DOW AU,Downer Edi Ltd,AUD,14568,0.158857,Australia,4.88,Industrials,Commercial Services & Supplies
+AU000000DMP0,B07SFG7,DMP AU,Dominos Pizza Ent,AUD,1655,0.157985,Australia,42.72,Consumer Discretionary,Hotels Restaurants & Leisure
+AU0000253502,BPBMY63,RGN AU,Region Group,AUD,29296,0.149255,Australia,2.28,Real Estate,Retail Reits
+AU000000BPT9,6088204,BPT AU,Beach Energy Ltd,AUD,40737,0.147010,Australia,1.615,Energy,Oil Gas & Consumable Fuels
+AU000000BRG2,6158709,BRG AU,Breville Group Ltd,AUD,2452,0.145524,Australia,26.56,Consumer Discretionary,Household Durables
+AU000000CLW0,BDB46J2,CLW AU,Charter Hall Long,AUD,16665,0.135548,Australia,3.64,Real Estate,Diversified Reits
+AU000000SGM7,B0LCW75,SGM AU,Sims Ltd,AUD,4075,0.112820,Australia,12.39,Materials,Metals & Mining
+AU000000CQR9,6225595,CQR AU,Charter Hall Retai,AUD,14065,0.109686,Australia,3.49,Real Estate,Retail Reits
+AU000000GOR5,B15F5K1,GOR AU,Gold Road Res Ltd,AUD,26509,0.103365,Australia,1.745,Materials,Metals & Mining
+NZAIAE0002S6,BLRZSS8,AIA AU,Auckland Intl,AUD,5977,0.100435,Australia,7.52,Industrials,Transportation Infrastructure
+AU000000NUF3,6335331,NUF AU,Nufarm Ltd,AUD,8654,0.099589,Australia,5.15,Materials,Chemicals
+AU000000GUD2,6358004,GUD AU,G.U.D. Holdings,AUD,3860,0.096431,Australia,11.18,Consumer Discretionary,Automobile Components
+AU000000IRE2,6297497,IRE AU,Iress Limited,AUD,4787,0.090708,Australia,8.48,Information Technology,Software
+AU000000TAH8,6873262,TAH AU,Tabcorp Holdings L,AUD,50493,0.084621,Australia,0.75,Consumer Discretionary,Hotels Restaurants & Leisure
+AU0000158594,BMD0WJ3,PXA AU,Pexa Group Ltd,AUD,2836,0.076426,Australia,12.06,Real Estate,Real Estate Management & Development
+AU000000ELD6,6357852,ELD AU,Elders Limited,AUD,4135,0.073918,Australia,8,Consumer Staples,Food Products
+AU000000NWS2,BD7SZP7,NWS AU,News Corp New,AUD,807,0.072834,Australia,40.39,Communication Services,Media
+AU0000088064,BLBQ285,WPR AU,Waypoint Reit,AUD,13255,0.071677,Australia,2.42,Real Estate,Retail Reits
+AU000000BGA8,B56CQJ5,BGA AU,Bega Cheese Ltd,AUD,7580,0.069445,Australia,4.1,Consumer Staples,Food Products
+AU000000MND5,6600471,MND AU,Monadelphous Group,AUD,2233,0.068359,Australia,13.7,Industrials,Construction & Engineering
+AU000000CKF7,B6QCFP1,CKF AU,Collins Food Ltd,AUD,2619,0.059693,Australia,10.2,Consumer Discretionary,Hotels Restaurants & Leisure
+NZFBUE0001S0,6341617,FBU AU,Fletcher Building,AUD,6804,0.055342,Australia,3.64,Industrials,Building Products
+AU000000NAN9,B1WF979,NAN AU,Nanosonics Ltd,AUD,6358,0.038359,Australia,2.7,Health Care,Health Care Equipment & Supplies
+NZTELE0001S4,6881500,SPK AU,Spark New Zealand,AUD,3333,0.032025,Australia,4.3,Communication Services,Diversified Telecommunication Services

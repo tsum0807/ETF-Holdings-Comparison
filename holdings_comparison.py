@@ -10,12 +10,12 @@ from colorama import init, Fore, Style
 from holding import Holding
 
 TICKER_ALIAS = ["TICKER", "ASX CODE", "SYMBOL"]
-EXCHANGE_ALIAS = ["EXCHANGE", "COUNTRY CODE"]
+EXCHANGE_ALIAS = ["EXCHANGE", "COUNTRY CODE", "LOCAL CURRENCY"]
 NAME_ALIAS = ["NAME", "SECURITY NAME", "HOLDING", "HOLDING NAME"]
 WEIGHT_ALIAS = ["% OF NET ASSETS", "WEIGHT (%)", "WEIGHTING", "PERCENT OF ASSETS"]
 
-ASX_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets"]
-US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US", "XNYS"]
+ASX_EXCHANGE_ALIAS = ["AU", "AT", "ASX - All Markets", "AUD"]
+US_EXCHANGE_ALIAS = ["NASDAQ", "UW", "New York Stock Exchange Inc.", "NYSE", "UN", "US", "XNYS", "USD"]
 LSE_EXCHANGE_ALIAS = ["London Stock Exchange"]
 JPX_EXCHANGE_ALIAS = ["JP", "JT", "Tokyo Stock Exchange"]
 DKK_EXCHANGE_ALIAS = ["DC"]
@@ -118,10 +118,10 @@ def extract_csv(csv_reader):
         ticker_code = row[ticker_index].split(' ')
         holding.ticker = ticker_code[0]
         
-        if(exchange_index != -1):
-            holding.exchange = get_exchange(row[exchange_index])
-        elif(len(ticker_code) > 1):
+        if(len(ticker_code) > 1):
             holding.exchange = get_exchange(ticker_code[1])
+        elif(exchange_index != -1):
+            holding.exchange = get_exchange(row[exchange_index])
         else:
             warn("WARNING - Unrecognised exchange code: for ticker \""+ticker_code[0]+"\"")
 

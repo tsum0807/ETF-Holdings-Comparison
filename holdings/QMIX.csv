@@ -1,0 +1,927 @@
+ISIN,SEDOL,Ticker,Name,Local Currency,Number of Shares,Weight (%),Trade Country Name,Local Price,Sector Classification,Industry Classification
+US67066G1040,2379504,NVDA,Nvidia Corporation,USD,1196,2.589763,United States,843.3,Information Technology,Semiconductors & Semiconductor Equipment
+US5949181045,2588173,MSFT,Microsoft Corp,USD,2166,2.351863,United States,422.87,Information Technology,Software
+US30303M1027,B7TL820,META,Meta Platforms Inc,USD,1475,1.943024,United States,513.026,Communication Services,Interactive Media & Services
+US0378331005,2046251,AAPL,Apple Inc,USD,4432,1.917605,United States,168.505,Information Technology,Technology Hardware Storage & Peripherals
+US11135F1012,BDZ78H9,AVGO,Broadcom Inc,USD,371,1.262815,United States,1325.62,Information Technology,Semiconductors & Semiconductor Equipment
+US5324571083,2516152,LLY,Eli Lilly & Co,USD,647,1.250353,United States,752.63,Health Care,Pharmaceuticals
+US02079K3059,BYVY8G0,GOOGL,Alphabet Inc,USD,2890,1.154066,United States,155.52,Communication Services,Interactive Media & Services
+US4781601046,2475833,JNJ,Johnson & Johnson,USD,2890,1.127537,United States,151.945,Health Care,Pharmaceuticals
+US92826C8394,B2PZN04,V,Visa Inc,USD,1545,1.092465,United States,275.38,Financials,Financial Services
+US91324P1021,2917766,UNH,Unitedhealth Group Inc,USD,909,1.064981,United States,456.28,Health Care,Health Care Providers & Services
+US02079K1079,BYY88Y7,GOOG,Alphabet Inc,USD,2513,1.013004,United States,156.99,Communication Services,Interactive Media & Services
+DK0062498333,BP6KMJ1,NOVO.B DK,Novo Nordisk A/S,DKK,3011,0.965214,Denmark,857.7,Health Care,Pharmaceuticals
+NL0010273215,B929F46,ASML NL,Asml Holding Nv,EUR,359,0.900068,Netherlands,899.3,Information Technology,Semiconductors & Semiconductor Equipment
+US7427181091,2704407,PG,Procter And Gamble Co,USD,2103,0.843432,United States,156.194,Consumer Staples,Household Products
+US7134481081,2681511,PEP,Pepsico Inc,USD,1724,0.752391,United States,169.965,Consumer Staples,Beverages
+US0846707026,2073390,BRK.B,Berkshire Hathaway Inc Del,USD,667,0.707451,United States,413.07,Financials,Financial Services
+US46625H1005,2190385,JPM,Jpmorgan Chase & Co,USD,1377,0.694491,United States,196.42,Financials,Banks
+US17275R1023,2198163,CSCO,Cisco Sys Inc,USD,5292,0.676224,United States,49.765,Information Technology,Communications Equipment
+US57636Q1040,B121557,MA,Mastercard Incorporated,USD,542,0.652931,United States,469.16,Financials,Financial Services
+CH0038863350,7123870,NESN CH,Nestle Sa,CHF,2425,0.644309,Switzerland,93.5,Consumer Staples,Food Products
+US22160K1051,2701271,COST,Costco Whsl Corp New,USD,328,0.601671,United States,714.395,Consumer Staples,Consumer Staples Distribution & Retail
+US1912161007,2206657,KO,Coca Cola Co,USD,3905,0.596552,United States,59.495,Consumer Staples,Beverages
+IE00B4BNMY34,B4BNMY3,ACN,Accenture Plc Ireland,USD,697,0.593678,United States,331.72,Information Technology,It Services
+US8825081040,2885409,TXN,Texas Instrs Inc,USD,1311,0.576777,United States,171.34,Information Technology,Semiconductors & Semiconductor Equipment
+CH0012032048,7110388,ROG CH,Roche Hldgs Ag,CHF,912,0.574813,Switzerland,221.8,Health Care,Pharmaceuticals
+US58933Y1055,2778844,MRK,Merck & Co Inc,USD,1611,0.520755,United States,125.89,Health Care,Pharmaceuticals
+CH0012005267,7103065,NOVN CH,Novartis Ag,CHF,1982,0.486449,Switzerland,86.37,Health Care,Pharmaceuticals
+US9311421039,2936921,WMT,Walmart Inc,USD,3099,0.474517,United States,59.633,Consumer Staples,Consumer Staples Distribution & Retail
+AU000000BHP4,6144690,BHP AU,Bhp Group Ltd,AUD,6098,0.468009,Australia,45.13,Materials,Metals & Mining
+US7170811035,2684703,PFE,Pfizer Inc,USD,6755,0.462849,United States,26.685,Health Care,Pharmaceuticals
+US7475251036,2714923,QCOM,Qualcomm Inc,USD,999,0.447977,United States,174.64,Information Technology,Semiconductors & Semiconductor Equipment
+US0605051046,2295677,BAC,Bank Of America,USD,4531,0.437217,United States,37.58,Financials,Banks
+FR0000121014,4061412,MC FR,Lvmh Moet Hennessy,EUR,191,0.423434,France,795.2,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US30231G1022,2326618,XOM,Exxon Mobil Corp,USD,1353,0.419048,United States,120.62,Energy,Oil Gas & Consumable Fuels
+US0320951017,2145084,APH,Amphenol Corp New,USD,1418,0.416715,United States,114.45,Information Technology,Electronic Equipment Instruments & Components
+GB0009895292,0989529,AZN GB,Astrazeneca,GBP,1189,0.414383,United Kingdom,107.08,Health Care,Pharmaceuticals
+US00724F1012,2008154,ADBE,Adobe Inc,USD,327,0.410543,United States,488.95,Information Technology,Software
+US92343V1044,2090571,VZ,Verizon Communications Inc,USD,3805,0.397645,United States,40.7,Communication Services,Diversified Telecommunication Services
+US03073E1055,2795393,COR,Cencora Inc,USD,644,0.393410,United States,237.91,Health Care,Health Care Providers & Services
+GB0007188757,0718875,RIO GB,Rio Tinto,GBP,2288,0.391030,United Kingdom,52.51,Materials,Metals & Mining
+US0382221051,2046552,AMAT,Applied Matls Inc,USD,722,0.387352,United States,208.94,Information Technology,Semiconductors & Semiconductor Equipment
+US0231351067,2000019,AMZN,Amazon Com Inc,USD,801,0.379211,United States,184.375,Consumer Discretionary,Broadline Retail
+US1491231015,2180201,CAT,Caterpillar Inc,USD,395,0.376164,United States,370.88,Industrials,Machinery
+US26441C2044,B7VD3F2,DUK,Duke Energy Corp New,USD,1494,0.372645,United States,97.14,Utilities,Electric Utilities
+US4592001014,2005973,IBM,International Business Mach,USD,767,0.369860,United States,187.8,Information Technology,It Services
+US92532F1003,2931034,VRTX,Vertex Pharmaceuticals Inc,USD,332,0.343435,United States,402.865,Health Care,Biotechnology
+US5398301094,2522096,LMT,Lockheed Martin Corp,USD,298,0.341557,United States,446.375,Industrials,Aerospace & Defense
+US1729674242,2297907,C,Citigroup Inc,USD,2092,0.330169,United States,61.465,Financials,Banks
+US5717481023,2567741,MMC,Marsh & Mclennan Cos Inc,USD,631,0.329724,United States,203.505,Financials,Insurance
+US20825C1045,2685717,COP,Conocophillips,USD,955,0.322766,United States,131.625,Energy,Oil Gas & Consumable Fuels
+US00206R1023,2831811,T,At&T Inc,USD,7422,0.320811,United States,16.834,Communication Services,Diversified Telecommunication Services
+AU000000RIO1,6220103,RIO AU,Rio Tinto Limited,AUD,1493,0.318288,Australia,125.36,Materials,Metals & Mining
+US7766961061,2749602,ROP,Roper Technologies Inc,USD,228,0.317115,United States,541.67,Information Technology,Software
+US4385161066,2020459,HON,Honeywell Intl Inc,USD,624,0.316575,United States,197.581,Industrials,Industrial Conglomerates
+JP3732000009,BF5M0K5,9434 JP,Softbank Corp,JPY,9600,0.308603,Japan,1898.5,Communication Services,Wireless Telecommunication Services
+US1255231003,BHJ0775,CI,The Cigna Group,USD,331,0.303351,United States,356.92,Health Care,Health Care Providers & Services
+US58155Q1031,2378534,MCK,Mckesson Corp,USD,220,0.296435,United States,524.76,Health Care,Health Care Providers & Services
+US5128071082,2502247,LRCX,Lam Research Corp,USD,118,0.292813,United States,966.41,Information Technology,Semiconductors & Semiconductor Equipment
+US75886F1075,2730190,REGN,Regeneron Pharmaceuticals,USD,121,0.291819,United States,939.25,Health Care,Biotechnology
+US1667641005,2838555,CVX,Chevron Corp New,USD,702,0.290244,United States,161.02,Energy,Oil Gas & Consumable Fuels
+US5801351017,2550707,MCD,Mcdonalds Corp,USD,416,0.286739,United States,268.44,Consumer Discretionary,Hotels Restaurants & Leisure
+US00287Y1091,B92SR70,ABBV,Abbvie Inc,USD,650,0.282731,United States,169.4,Health Care,Biotechnology
+DE0007164600,4846288,SAP DE,Sap Se,EUR,587,0.282164,Germany,172.42,Information Technology,Software
+JP3633400001,6900643,7203 JP,Toyota Motor Corp,JPY,4400,0.281322,Japan,3776,Consumer Discretionary,Automobiles
+US6200763075,B5BKPQ4,MSI,Motorola Solutions Inc,USD,306,0.275513,United States,350.65,Information Technology,Communications Equipment
+AU000000WES1,6948836,WES AU,Wesfarmers Ltd,AUD,2402,0.274583,Australia,67.22,Consumer Discretionary,Broadline Retail
+US8725901040,B94Q9V0,TMUS,T Mobile Us Inc,USD,664,0.273808,United States,160.595,Communication Services,Wireless Telecommunication Services
+US9497461015,2649100,WFC,Wells Fargo Co New,USD,1847,0.272034,United States,57.36,Financials,Banks
+GB00BP6MXD84,BP6MXD8,SHEL GB,Shell Plc,GBP,2885,0.265591,United Kingdom,28.285,Energy,Oil Gas & Consumable Fuels
+JP3571400005,6895675,8035 JP,Tokyo Electron,JPY,400,0.264078,Japan,38990,Information Technology,Semiconductors & Semiconductor Equipment
+CA0679011084,2024644,ABX CA,Barrick Gold Corp,CAD,5683,0.262163,Canada,24.42,Materials,Metals & Mining
+US4278661081,2422806,HSY,Hershey Co,USD,526,0.260858,United States,193.14,Consumer Staples,Food Products
+US8725401090,2989301,TJX,Tjx Cos Inc New,USD,1044,0.259518,United States,96.81,Consumer Discretionary,Specialty Retail
+US1266501006,2577609,CVS,Cvs Health Corp,USD,1376,0.258505,United States,73.165,Health Care,Health Care Providers & Services
+JP3735400008,6641373,9432 JP,Nippon Tel&Tel Cp,JPY,86300,0.258352,Japan,176.8,Communication Services,Diversified Telecommunication Services
+US0530151036,2065308,ADP,Automatic Data Processing I,USD,401,0.255725,United States,248.36,Industrials,Professional Services
+DE0005557508,5842359,DTE DE,Deutsche Telekom,EUR,4105,0.254178,Germany,22.21,Communication Services,Diversified Telecommunication Services
+GB00B10RZP78,B10RZP7,ULVR GB,Unilever Plc,GBP,2030,0.252456,United Kingdom,38.21,Consumer Staples,Personal Care Products
+US3703341046,2367026,GIS,General Mls Inc,USD,1395,0.249788,United States,69.735,Consumer Staples,Food Products
+US94106L1098,2937667,WM,Waste Mgmt Inc Del,USD,471,0.249280,United States,206.12,Industrials,Commercial Services & Supplies
+GB00BN7SWP63,BN7SWP6,GSK GB,Gsk Plc,GBP,4718,0.248148,United Kingdom,16.16,Health Care,Pharmaceuticals
+US4370761029,2434209,HD,Home Depot Inc,USD,263,0.243137,United States,360.038,Consumer Discretionary,Specialty Retail
+US9078181081,2914734,UNP,Union Pac Corp,USD,394,0.242763,United States,239.96,Industrials,Ground Transportation
+US1941621039,2209106,CL,Colgate Palmolive Co,USD,1080,0.242663,United States,87.505,Consumer Staples,Household Products
+FR0000133308,5176177,ORA FR,Orange,EUR,8201,0.241553,France,10.565,Communication Services,Diversified Telecommunication Services
+CA9628791027,BF13KN5,WPM CA,Wheaton Precious Metals Cor,CAD,1850,0.240336,Canada,68.77,Materials,Metals & Mining
+JE00BJVNSS43,BKB0C57,FERG,Ferguson Plc,USD,422,0.239904,United States,221.4,Industrials,Trading Companies & Distributors
+US20030N1019,2044545,CMCSA,Comcast Corp New,USD,2312,0.237729,United States,40.045,Communication Services,Media
+US8425871071,2829601,SO,Southern Co,USD,1311,0.237070,United States,70.425,Utilities,Electric Utilities
+US7607591002,2262530,RSG,Republic Svcs Inc,USD,488,0.236324,United States,188.6,Industrials,Commercial Services & Supplies
+JP3242800005,6172323,7751 JP,Canon Inc,JPY,3100,0.233897,Japan,4456,Information Technology,Technology Hardware Storage & Peripherals
+US2091151041,2216850,ED,Consolidated Edison Inc,USD,1002,0.233666,United States,90.82,Utilities,Multi Utilities
+ES0148396007,BP9DL90,ITX ES,Inditex,EUR,1891,0.233018,Spain,44.2,Consumer Discretionary,Specialty Retail
+CA0084741085,2009823,AEM CA,Agnico Eagle Mines Ltd,CAD,1444,0.229600,Canada,84.17,Materials,Metals & Mining
+US4523081093,2457552,ITW,Illinois Tool Wks Inc,USD,342,0.229599,United States,261.455,Industrials,Machinery
+US1101221083,2126335,BMY,Bristol Myers Squibb Co,USD,1739,0.228867,United States,51.255,Health Care,Pharmaceuticals
+US9113121068,2517382,UPS,United Parcel Service Inc,USD,587,0.226668,United States,150.385,Industrials,Air Freight & Logistics
+US37045V1008,B665KZ5,GM,General Mtrs Co,USD,1954,0.223597,United States,44.565,Consumer Discretionary,Automobiles
+CA94106B1013,BYQFRK5,WCN CA,Waste Connections Inc,USD,511,0.220120,Canada,228.03,Industrials,Commercial Services & Supplies
+JP3236200006,6490995,6861 JP,Keyence Corp,JPY,200,0.219681,Japan,64870,Information Technology,Electronic Equipment Instruments & Components
+US0367521038,BSPHGL4,ELV,Elevance Health Inc,USD,166,0.217455,United States,510.17,Health Care,Health Care Providers & Services
+US09247X1019,2494504,BLK,Blackrock Inc,USD,105,0.214976,United States,797.36,Financials,Capital Markets
+US3755581036,2369174,GILD,Gilead Sciences Inc,USD,1199,0.213938,United States,69.49,Health Care,Biotechnology
+US6541061031,2640147,NKE,Nike Inc,USD,893,0.208305,United States,90.845,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US0028241000,2002305,ABT,Abbott Labs,USD,720,0.206913,United States,111.92,Health Care,Health Care Equipment & Supplies
+CH0102993182,B62B7C3,TEL,Te Connectivity Ltd,USD,531,0.200101,United States,146.76,Information Technology,Electronic Equipment Instruments & Components
+CH0008742519,5533976,SCMN CH,Swisscom Ag,CHF,135,0.199484,Switzerland,520,Communication Services,Diversified Telecommunication Services
+FR0000120321,4057808,OR FR,L'oreal,EUR,172,0.199240,France,415.5,Consumer Staples,Personal Care Products
+US6668071029,2648806,NOC,Northrop Grumman Corp,USD,171,0.198984,United States,453.185,Industrials,Aerospace & Defense
+JP3885780001,6591014,8411 JP,Mizuho Finl Gp,JPY,3920,0.198196,Japan,2986,Financials,Banks
+US46120E6023,2871301,ISRG,Intuitive Surgical Inc,USD,199,0.197482,United States,386.48,Health Care,Health Care Equipment & Supplies
+CA3518581051,B29NF31,FNV CA,Franco Nev Corp,CAD,629,0.195879,Canada,164.85,Materials,Metals & Mining
+JE00B4T3BW64,B4T3BW6,GLEN GB,Glencore Plc,GBP,12683,0.195252,United Kingdom,4.73,Materials,Metals & Mining
+US56585A1025,B3K3L40,MPC,Marathon Pete Corp,USD,359,0.195073,United States,211.62,Energy,Oil Gas & Consumable Fuels
+US7185461040,B78C4Y8,PSX,Phillips 66,USD,461,0.195053,United States,164.78,Energy,Oil Gas & Consumable Fuels
+JP3496400007,6248990,9433 JP,Kddi Corp,JPY,2600,0.194807,Japan,4425,Communication Services,Wireless Telecommunication Services
+US92939U1060,BYY8XK8,WEC,Wec Energy Group Inc,USD,929,0.194446,United States,81.515,Utilities,Multi Utilities
+GB0005405286,0540528,HSBA GB,Hsbc Holdings Plc,GBP,9249,0.194073,United Kingdom,6.447,Financials,Banks
+US12503M1080,B5834C5,CBOE,Cboe Global Mkts Inc,USD,424,0.193845,United States,178.05,Financials,Capital Markets
+US0311621009,2023607,AMGN,Amgen Inc,USD,280,0.193659,United States,269.36,Health Care,Biotechnology
+JP3814000000,6356525,4901 JP,Fujifilm Holdings,JPY,3300,0.189479,Japan,3391,Information Technology,Technology Hardware Storage & Peripherals
+JP3386450005,B627LW9,5020 JP,Eneos Holdings Inc,JPY,14850,0.188585,Japan,750,Energy,Oil Gas & Consumable Fuels
+CH0044328745,B3BQMF6,CB,Chubb Limited,USD,296,0.188058,United States,247.43,Financials,Insurance
+FR0000120271,B15C557,TTE FR,Totalenergies Se,EUR,997,0.187340,France,67.4,Energy,Oil Gas & Consumable Fuels
+US4824801009,2480138,KLAC,Kla Corp,USD,105,0.186524,United States,691.83,Information Technology,Semiconductors & Semiconductor Equipment
+US49456B1017,B3NQ4P8,KMI,Kinder Morgan Inc Del,USD,3935,0.186059,United States,18.415,Energy,Oil Gas & Consumable Fuels
+JP3249600002,6499260,6971 JP,Kyocera Corp,JPY,5600,0.185423,Japan,1955.5,Information Technology,Electronic Equipment Instruments & Components
+US3695501086,2365161,GD,General Dynamics Corp,USD,248,0.183626,United States,288.36,Industrials,Aerospace & Defense
+US7433151039,2705024,PGR,Progressive Corp,USD,346,0.182190,United States,205.07,Financials,Insurance
+IE00BTN1Y115,BTN1Y11,MDT,Medtronic Plc,USD,845,0.181313,United States,83.565,Health Care,Health Care Equipment & Supplies
+US9694571004,2967181,WMB,Williams Cos Inc,USD,1805,0.180592,United States,38.965,Energy,Oil Gas & Consumable Fuels
+US49338L1035,BQZJ0Q9,KEYS,Keysight Technologies Inc,USD,430,0.176029,United States,159.43,Information Technology,Electronic Equipment Instruments & Components
+US5007541064,BYRY499,KHC,Kraft Heinz Co,USD,1840,0.174928,United States,37.025,Consumer Staples,Food Products
+SG1S04926220,B0F9V20,O39 SG,Oversea Chinese Bk,SGD,6622,0.174520,Singapore,13.81,Financials,Banks
+JP3756600007,6639550,7974 JP,Nintendo Co Ltd,JPY,1300,0.173500,Japan,7882,Communication Services,Entertainment
+JP3733000008,6640400,6701 JP,Nec Corp,JPY,900,0.172964,Japan,11350,Information Technology,It Services
+US0255371017,2026242,AEP,American Elec Pwr Co Inc,USD,788,0.171763,United States,84.89,Utilities,Electric Utilities
+GB0002374006,0237400,DGE GB,Diageo Plc,GBP,1872,0.171147,United Kingdom,28.09,Consumer Staples,Beverages
+US6092071058,B8CKK03,MDLZ,Mondelez Intl Inc,USD,985,0.170986,United States,67.605,Consumer Staples,Food Products
+US1713401024,2195841,CHD,Church & Dwight Co Inc,USD,656,0.170846,United States,101.427,Consumer Staples,Household Products
+US1273871087,2302232,CDNS,Cadence Design System Inc,USD,213,0.168704,United States,308.46,Information Technology,Software
+US0758871091,2087807,BDX,Becton Dickinson & Co,USD,268,0.167729,United States,243.74,Health Care,Health Care Equipment & Supplies
+US4943681035,2491839,KMB,Kimberly Clark Corp,USD,510,0.167162,United States,127.65,Consumer Staples,Household Products
+US68389X1054,2661568,ORCL,Oracle Corp,USD,531,0.167044,United States,122.515,Information Technology,Software
+FR0000052292,5253973,RMS FR,Hermes Intl,EUR,26,0.165411,France,2282,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US5010441013,2497406,KR,Kroger Co,USD,1166,0.165341,United States,55.225,Consumer Staples,Consumer Staples Distribution & Retail
+US4581401001,2463247,INTC,Intel Corp,USD,1675,0.163973,United States,38.125,Information Technology,Semiconductors & Semiconductor Equipment
+US8716071076,2867719,SNPS,Synopsys Inc,USD,112,0.163483,United States,568.47,Information Technology,Software
+ES0113900J37,5705946,SAN ES,Banco Santander,EUR,12834,0.163353,Spain,4.566,Financials,Banks
+IE000S9YS762,BNZHB81,LIN,Linde Plc,USD,139,0.163016,United States,456.74,Materials,Chemicals
+US4878361082,2486813,K,Kellanova,USD,1105,0.162267,United States,57.19,Consumer Staples,Food Products
+US38141G1040,2407966,GS,Goldman Sachs Group Inc,USD,154,0.161766,United States,409.09,Financials,Capital Markets
+US9884981013,2098876,YUM,Yum Brands Inc,USD,458,0.160138,United States,136.17,Consumer Discretionary,Hotels Restaurants & Leisure
+CA8911605092,2897222,TD CA,Toronto Dominion Bk Ont,CAD,1063,0.160064,Canada,79.71,Financials,Banks
+FR0000120578,5671735,SAN FR,Sanofi,EUR,655,0.159270,France,87.22,Health Care,Pharmaceuticals
+US6516391066,2636607,NEM,Newmont Corp,USD,1566,0.159052,United States,39.555,Materials,Metals & Mining
+US88579Y1010,2595708,MMM,3M Co,USD,666,0.158150,United States,92.48,Industrials,Industrial Conglomerates
+US61174X1090,BZ07BW4,MNST,Monster Beverage Corp New,USD,1102,0.157751,United States,55.75,Consumer Staples,Beverages
+CH0011075394,5983816,ZURN CH,Zurich Insurance,CHF,117,0.156528,Switzerland,470.8,Financials,Insurance
+GB00B2B0DG97,B2B0DG9,REL GB,Relx Plc,GBP,1446,0.156249,United Kingdom,33.2,Industrials,Professional Services
+US1924461023,2257019,CTSH,Cognizant Technology Soluti,USD,854,0.155934,United States,71.111,Information Technology,It Services
+AU000000FMG4,6086253,FMG AU,Fortescue Ltd,AUD,3618,0.155419,Australia,25.26,Materials,Metals & Mining
+US0533321024,2065955,AZO,Autozone Inc,USD,20,0.155271,United States,3023.52,Consumer Discretionary,Specialty Retail
+US89417E1091,2769503,TRV,Travelers Companies Inc,USD,270,0.155184,United States,223.84,Financials,Insurance
+AU000000CBA7,6215035,CBA AU,Cmnwlth Bk Of Aust,AUD,765,0.155009,Australia,119.15,Financials,Banks
+US98389B1008,2614807,XEL,Xcel Energy Inc,USD,1109,0.154325,United States,54.195,Utilities,Electric Utilities
+AU000000WBC1,6076146,WBC AU,Westpac Bkg Corp,AUD,3422,0.153575,Australia,26.39,Financials,Banks
+NL00150001Q9,BMD8KX7,STLAM IT,Stellantis N.V,EUR,2195,0.153445,Italy,25.075,Consumer Discretionary,Automobiles
+DE0007100000,5529027,MBG DE,Mercedes Benz,EUR,699,0.148455,Germany,76.18,Consumer Discretionary,Automobiles
+NL0011585146,BD6G507,RACE IT,Ferrari Nv,EUR,138,0.148313,Italy,385.5,Consumer Discretionary,Automobiles
+US67103H1077,B65LWX6,ORLY,Oreilly Automotive Inc,USD,53,0.148247,United States,1089.34,Consumer Discretionary,Specialty Retail
+AU000000ANZ3,6065586,ANZ AU,Anz Group Hldgs Li,AUD,2946,0.147343,Australia,29.41,Financials,Banks
+US0326541051,2032067,ADI,Analog Devices Inc,USD,282,0.146513,United States,202.34,Information Technology,Semiconductors & Semiconductor Equipment
+US0404131064,BN33VM5,ANET,Arista Networks Inc,USD,191,0.143677,United States,292.96,Information Technology,Communications Equipment
+JP3371200001,6804585,4063 JP,Shin Etsu Chemical,JPY,1300,0.142352,Japan,6467,Materials,Chemicals
+US2855121099,2310194,EA,Electronic Arts Inc,USD,423,0.141807,United States,130.56,Communication Services,Entertainment
+JP3902900004,6335171,8306 JP,Mitsubishi Ufj Fin,JPY,5400,0.141496,Japan,1547.5,Financials,Banks
+FR0000131104,7309681,BNP FR,Bnp Paribas,EUR,750,0.139339,France,66.64,Financials,Banks
+NL0000009082,5956078,KPN NL,Kon Kpn Nv,EUR,14473,0.139205,Netherlands,3.45,Communication Services,Diversified Telecommunication Services
+US2310211063,2240202,CMI,Cummins Inc,USD,180,0.138929,United States,300.59,Industrials,Machinery
+US3635761097,2359506,AJG,Gallagher Arthur J & Co,USD,221,0.138161,United States,243.47,Financials,Insurance
+US00971T1016,2507457,AKAM,Akamai Technologies Inc,USD,503,0.137816,United States,106.705,Information Technology,It Services
+US98978V1035,B95WG16,ZTS,Zoetis Inc,USD,320,0.136537,United States,166.17,Health Care,Pharmaceuticals
+CA13646K1084,BMBQR09,CP CA,Canadian Pacific Kansas Cit,CAD,591,0.134397,Canada,120.38,Industrials,Ground Transportation
+US8793601050,2503477,TDY,Teledyne Technologies Inc,USD,126,0.134269,United States,415.01,Information Technology,Electronic Equipment Instruments & Components
+US60855R1005,2212706,MOH,Molina Healthcare Inc,USD,137,0.133478,United States,379.44,Health Care,Health Care Providers & Services
+IE00BK9ZQ967,BK9ZQ96,TT,Trane Technologies Plc,USD,172,0.132560,United States,300.15,Industrials,Building Products
+US3453708600,2615468,F,Ford Mtr Co Del,USD,3784,0.130732,United States,13.455,Consumer Discretionary,Automobiles
+US1252691001,B0G4K50,CF,Cf Inds Hldgs Inc,USD,622,0.129015,United States,80.78,Materials,Chemicals
+GB0008706128,0870612,LLOY GB,Lloyds Banking Gp,GBP,74316,0.127856,United Kingdom,0.529,Financials,Banks
+JP3188220002,B5LTM93,4578 JP,Otsuka Hldgs Co,JPY,1200,0.127257,Japan,6263,Health Care,Pharmaceuticals
+US1696561059,B0X7DZ3,CMG,Chipotle Mexican Grill Inc,USD,17,0.126938,United States,2908,Consumer Discretionary,Hotels Restaurants & Leisure
+US4448591028,2445063,HUM,Humana Inc,USD,155,0.126028,United States,316.657,Health Care,Health Care Providers & Services
+IL0010824113,2181334,CHKP,Check Point Software Tech L,USD,300,0.125476,United States,162.89,Information Technology,Software
+US4404521001,2437264,HRL,Hormel Foods Corp,USD,1383,0.124928,United States,35.179,Consumer Staples,Food Products
+JP3854600008,6435145,7267 JP,Honda Motor Co,JPY,3900,0.124512,Japan,1885.5,Consumer Discretionary,Automobiles
+JP3830800003,6132101,5108 JP,Bridgestone Corp,JPY,1100,0.123842,Japan,6649,Consumer Discretionary,Automobile Components
+US91913Y1001,2041364,VLO,Valero Energy Corp,USD,269,0.122181,United States,176.89,Energy,Oil Gas & Consumable Fuels
+AU0000297962,BRDVMB3,NEM AU,Newmont Corporatio,AUD,1206,0.122173,Australia,59.57,Materials,Metals & Mining
+DE0007664039,5497168,VOW3 DE,Volkswagen Ag,EUR,350,0.121726,Germany,124.75,Consumer Discretionary,Automobiles
+GB0031348658,3134865,BARC GB,Barclays Plc,GBP,19786,0.121647,United Kingdom,1.889,Financials,Banks
+CA1363751027,2180632,CNR CA,Canadian Natl Ry Co,CAD,364,0.121516,Canada,176.72,Industrials,Ground Transportation
+US49271V1008,BD3W133,KDP,Keurig Dr Pepper Inc,USD,1532,0.121375,United States,30.855,Consumer Staples,Beverages
+US8326964058,2951452,SJM,Smucker J M Co,USD,404,0.121308,United States,116.94,Consumer Staples,Food Products
+JP3914400001,6610403,6981 JP,Murata Mfg Co,JPY,2600,0.121067,Japan,2750,Information Technology,Electronic Equipment Instruments & Components
+US2058871029,2215460,CAG,Conagra Brands Inc,USD,1514,0.121038,United States,31.135,Consumer Staples,Food Products
+JP3890350006,6563024,8316 JP,Sumitomo Mitsui Fg,JPY,800,0.120532,Japan,8898,Financials,Banks
+US5951121038,2588184,MU,Micron Technology Inc,USD,384,0.119957,United States,121.66,Information Technology,Semiconductors & Semiconductor Equipment
+US34959E1091,B5B2106,FTNT,Fortinet Inc,USD,686,0.119629,United States,67.915,Information Technology,Software
+US12514G1085,BBM5MD6,CDW,Cdw Corp,USD,182,0.118149,United States,252.82,Information Technology,Electronic Equipment Instruments & Components
+US23331A1097,2250687,DHI,D R Horton Inc,USD,290,0.117485,United States,157.775,Consumer Discretionary,Household Durables
+AU000000CSL8,6185495,CSL AU,Csl Ltd,AUD,246,0.117171,Australia,280.08,Health Care,Biotechnology
+US6174464486,2262314,MS,Morgan Stanley,USD,483,0.116108,United States,93.62,Financials,Capital Markets
+HK2388011192,6536112,2388 HK,Boc Hong Kong Hldg,HKD,15500,0.115880,Hong Kong,22.8,Financials,Banks
+US7445731067,2707677,PEG,Public Svc Enterprise Grp I,USD,670,0.115153,United States,66.935,Utilities,Multi Utilities
+US48203R1041,2431846,JNPR,Juniper Networks Inc,USD,1205,0.115023,United States,37.175,Information Technology,Communications Equipment
+CH0012221716,7108899,ABBN CH,Abb Ltd,CHF,962,0.114623,Switzerland,41.93,Industrials,Electrical Equipment
+GB0000456144,0045614,ANTO GB,Antofagasta Plc,GBP,1538,0.113580,United Kingdom,22.69,Materials,Metals & Mining
+DE0008404005,5231485,ALV DE,Allianz Se,EUR,154,0.113345,Germany,264,Financials,Insurance
+CH0114405324,B3Z5T14,GRMN,Garmin Ltd,USD,297,0.112683,United States,147.76,Consumer Discretionary,Household Durables
+AU000000NST8,6717456,NST AU,Nthn Star Res Ltd,AUD,4327,0.112070,Australia,15.23,Materials,Metals & Mining
+US74834L1008,2702791,DGX,Quest Diagnostics Inc,USD,330,0.112019,United States,132.2,Health Care,Health Care Providers & Services
+US5260571048,2511920,LEN,Lennar Corp,USD,261,0.110706,United States,165.19,Consumer Discretionary,Household Durables
+JP3898400001,6596785,8058 JP,Mitsubishi Corp,JPY,1800,0.110667,Japan,3631,Industrials,Trading Companies & Distributors
+CA7800871021,2754383,RY CA,Royal Bk Cda,CAD,421,0.110642,Canada,139.12,Financials,Banks
+US45337C1027,2471950,INCY,Incyte Corp,USD,774,0.109924,United States,55.31,Health Care,Biotechnology
+US2193501051,2224701,GLW,Corning Inc,USD,1310,0.108782,United States,32.34,Information Technology,Electronic Equipment Instruments & Components
+US45167R1041,2456612,IEX,Idex Corp,USD,176,0.108664,United States,240.45,Industrials,Machinery
+ES0113211835,5501906,BBVA ES,Banco Bilbao Vizca,EUR,3663,0.107022,Spain,10.48,Financials,Banks
+US1264081035,2160753,CSX,Csx Corp,USD,1161,0.106649,United States,35.775,Industrials,Ground Transportation
+US64125C1099,2623911,NBIX,Neurocrine Biosciences Inc,USD,299,0.106287,United States,138.44,Health Care,Biotechnology
+US03076C1062,B0J7D57,AMP,Ameriprise Finl Inc,USD,96,0.105603,United States,428.41,Financials,Capital Markets
+US3848021040,2380863,GWW,Grainger W W Inc,USD,41,0.105370,United States,1000.89,Industrials,Trading Companies & Distributors
+US3021301094,2325507,EXPD,Expeditors Intl Wash Inc,USD,340,0.105348,United States,120.67,Industrials,Air Freight & Logistics
+US0010551028,2026361,AFL,Aflac Inc,USD,496,0.105332,United States,82.705,Financials,Insurance
+US8835561023,2886907,TMO,Thermo Fisher Scientific In,USD,70,0.105050,United States,584.455,Health Care,Life Sciences Tools & Services
+BE0003739530,5596991,UCB BE,Ucb,EUR,330,0.104927,Belgium,114.05,Health Care,Pharmaceuticals
+GB0007980591,0798059,BP GB,Bp,GBP,6178,0.103876,United Kingdom,5.166,Energy,Oil Gas & Consumable Fuels
+US8923561067,2900335,TSCO,Tractor Supply Co,USD,160,0.103742,United States,252.515,Consumer Discretionary,Specialty Retail
+BE0003565737,4497749,KBC BE,Kbc Groep Nv,EUR,537,0.103599,Belgium,69.2,Financials,Banks
+GB0002875804,0287580,BATS GB,Brit Amer Tobacco,GBP,1363,0.102830,United Kingdom,23.18,Consumer Staples,Tobacco
+US12572Q1058,2965839,CME,Cme Group Inc,USD,191,0.102481,United States,208.96,Financials,Capital Markets
+SG1M31001969,6916781,U11 SG,Utd O/S Bank,SGD,1800,0.101747,Singapore,29.62,Financials,Banks
+US7043261079,2674458,PAYX,Paychex Inc,USD,314,0.101629,United States,126.05,Industrials,Professional Services
+US00846U1016,2520153,A,Agilent Technologies Inc,USD,270,0.101365,United States,146.21,Health Care,Life Sciences Tools & Services
+CH0244767585,BRJL176,UBSG CH,Ubs Group Ag,CHF,1281,0.101305,Switzerland,27.83,Financials,Capital Markets
+US6687711084,BJN4XN5,GEN,Gen Digital Inc,USD,1745,0.100994,United States,22.54,Information Technology,Software
+US28176E1082,2567116,EW,Edwards Lifesciences Corp,USD,426,0.100678,United States,92.04,Health Care,Health Care Equipment & Supplies
+US89832Q1094,BKP7287,TFC,Truist Finl Corp,USD,1007,0.100557,United States,38.89,Financials,Banks
+US25754A2015,B01SD70,DPZ,Dominos Pizza Inc,USD,79,0.100324,United States,494.575,Consumer Discretionary,Hotels Restaurants & Leisure
+US4262811015,2469193,JKHY,Henry Jack & Assoc Inc,USD,225,0.099948,United States,173,Financials,Financial Services
+US1344291091,2162845,CPB,Campbell Soup Co,USD,881,0.099908,United States,44.165,Consumer Staples,Food Products
+US25746U1097,2542049,D,Dominion Energy Inc,USD,786,0.099599,United States,49.35,Utilities,Multi Utilities
+NL0011794037,BD0Q398,AD NL,Kon Ahold Delhaize,EUR,1311,0.099451,Netherlands,27.21,Consumer Staples,Consumer Staples Distribution & Retail
+SG1L01001701,6175203,D05 SG,Dbs Group Hldgs,SGD,1448,0.098899,Singapore,35.79,Financials,Banks
+US3119001044,2332262,FAST,Fastenal Co,USD,505,0.097784,United States,75.41,Industrials,Trading Companies & Distributors
+US7181721090,B2PKRQ3,PM,Philip Morris Intl Inc,USD,417,0.097127,United States,90.71,Consumer Staples,Tobacco
+US0258161092,2026082,AXP,American Express Co,USD,172,0.096966,United States,219.555,Financials,Consumer Finance
+US1729081059,2197137,CTAS,Cintas Corp,USD,56,0.096899,United States,673.88,Industrials,Commercial Services & Supplies
+AU0000224040,BMGT167,WDS AU,Woodside Energy Gr,AUD,1877,0.096527,Australia,30.24,Energy,Oil Gas & Consumable Fuels
+JP3548600000,6270948,6146 JP,Disco Corporation,JPY,100,0.095837,Japan,56600,Information Technology,Semiconductors & Semiconductor Equipment
+US35671D8570,2352118,FCX,Freeport Mcmoran Inc,USD,731,0.095718,United States,50.995,Materials,Metals & Mining
+US69351T1060,2680905,PPL,Ppl Corp,USD,1356,0.095628,United States,27.465,Utilities,Electric Utilities
+US92343E1029,2142922,VRSN,Verisign Inc,USD,197,0.095338,United States,188.475,Information Technology,It Services
+US2172041061,2208073,CPRT,Copart Inc,USD,658,0.095122,United States,56.3,Industrials,Commercial Services & Supplies
+US3156161024,2427599,FFIV,F5 Inc,USD,190,0.094968,United States,194.66,Information Technology,Communications Equipment
+IT0005239360,BYMXPS7,UCG IT,Unicredit Spa,EUR,979,0.094217,Italy,34.52,Financials,Banks
+US1258961002,2219224,CMS,Cms Energy Corp,USD,619,0.094030,United States,59.16,Utilities,Multi Utilities
+JP3946750001,BYT8165,7182 JP,Japan Post Bank Co,JPY,3500,0.093814,Japan,1583,Financials,Banks
+US74460D1090,2852533,PSA,Public Storage Oper Co,USD,124,0.093058,United States,292.27,Real Estate,Specialized Reits
+JP3143600009,6467803,8001 JP,Itochu Corp,JPY,800,0.092654,Japan,6840,Industrials,Trading Companies & Distributors
+US69370C1009,B95N910,PTC,Ptc Inc,USD,194,0.092389,United States,185.47,Information Technology,Software
+US22052L1044,BK73B42,CTVA,Corteva Inc,USD,626,0.091975,United States,57.22,Materials,Chemicals
+US6795801009,2656423,ODFL,Old Dominion Freight Line I,USD,162,0.091411,United States,219.755,Industrials,Ground Transportation
+US2546871060,2270726,DIS,Disney Walt Co,USD,299,0.090488,United States,117.862,Communication Services,Entertainment
+AU000000TLS2,6087289,TLS AU,Telstra Group Ltd,AUD,14032,0.090440,Australia,3.79,Communication Services,Diversified Telecommunication Services
+CA12532H1047,BJ2L575,GIB.A CA,Cgi Inc,CAD,330,0.090261,Canada,144.79,Information Technology,It Services
+US29530P1021,2311711,ERIE,Erie Indty Co,USD,89,0.089745,United States,392.71,Financials,Insurance
+US15135B1017,2807061,CNC,Centene Corp Del,USD,481,0.089703,United States,72.63,Health Care,Health Care Providers & Services
+AU000000S320,BWSW5D9,S32 AU,South32 Ltd,AUD,16230,0.089702,Australia,3.25,Materials,Metals & Mining
+US61945C1036,B3NPHP6,MOS,Mosaic Co New,USD,1050,0.088998,United States,33.01,Materials,Chemicals
+ES0178430E18,5732524,TEF ES,Telefonica Sa,EUR,8001,0.088644,Spain,3.974,Communication Services,Diversified Telecommunication Services
+SE0000115446,B1QH830,VOLV.B SE,Volvo Ab,SEK,1250,0.088467,Sweden,291.1,Industrials,Machinery
+KYG217651051,BW9P816,1 HK,Ck Hutchison Hldgs,HKD,7000,0.088025,Hong Kong,38.35,Industrials,Industrial Conglomerates
+JP3435000009,6821506,6758 JP,Sony Group Corpora,JPY,400,0.087236,Japan,12880,Consumer Discretionary,Household Durables
+CA56501R1064,2492519,MFC CA,Manulife Finl Corp,CAD,1383,0.087012,Canada,33.305,Financials,Insurance
+FI0009013403,B09M9D2,KNEBV FI,Kone Oyj,EUR,721,0.086654,Finland,43.11,Industrials,Machinery
+US14149Y1082,2175672,CAH,Cardinal Health Inc,USD,313,0.086422,United States,107.531,Health Care,Health Care Providers & Services
+US5500211090,B23FN39,LULU,Lululemon Athletica Inc,USD,94,0.085912,United States,355.94,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US9029733048,2736035,USB,Us Bancorp Del,USD,763,0.085821,United States,43.805,Financials,Banks
+SE0017486897,BLDBN52,ATCO.B SE,Atlas Copco Ab,SEK,2226,0.085806,Sweden,158.55,Industrials,Machinery
+US45866F1049,BFSSDS9,ICE,Intercontinental Exchange I,USD,247,0.085500,United States,134.81,Financials,Capital Markets
+US75513E1010,BM5M5Y3,RTX,Rtx Corporation,USD,329,0.085310,United States,100.985,Industrials,Aerospace & Defense
+NL0011821202,BZ57390,INGA NL,Ing Groep N.V.,EUR,1954,0.085221,Netherlands,15.644,Financials,Banks
+ES0140609019,B283W97,CABK ES,Caixabank Sa,EUR,6475,0.085168,Spain,4.718,Financials,Banks
+CA0636711016,2076009,BMO CA,Bank Montreal Que,CAD,338,0.085049,Canada,133.2,Financials,Banks
+CA01626P1484,BL56KN2,ATD CA,Alimentation Couche Tard In,CAD,596,0.085044,Canada,75.535,Consumer Staples,Consumer Staples Distribution & Retail
+US0200021014,2019952,ALL,Allstate Corp,USD,196,0.084560,United States,168.02,Financials,Insurance
+US7561091049,2724193,O,Realty Income Corp,USD,605,0.084120,United States,54.15,Real Estate,Retail Reits
+NL0000395903,5671519,WKL NL,Wolters Kluwer,EUR,215,0.084006,Netherlands,140.15,Industrials,Professional Services
+AU000000WOW2,6981239,WOW AU,Woolworths Grp Ltd,AUD,1527,0.083877,Australia,32.3,Consumer Staples,Consumer Staples Distribution & Retail
+US14040H1059,2654461,COF,Capital One Finl Corp,USD,227,0.083604,United States,143.435,Financials,Consumer Finance
+CA0641491075,2076281,BNS CA,Bank Nova Scotia Halifax,CAD,645,0.083378,Canada,68.43,Financials,Banks
+US2358511028,2250870,DHR,Danaher Corporation,USD,131,0.083191,United States,247.32,Health Care,Life Sciences Tools & Services
+US86800U1043,B1VQR35,SMCI,Super Micro Computer Inc,USD,36,0.083102,United States,899,Information Technology,Technology Hardware Storage & Peripherals
+DE0005190003,5756029,BMW DE,Bayer Motoren Werk,EUR,261,0.082842,Germany,113.85,Consumer Discretionary,Automobiles
+CH0024608827,B119QG0,PGHN CH,Partners Group Hlg,CHF,23,0.082678,Switzerland,1265,Financials,Capital Markets
+SG1T75931496,B02PY11,Z74 SG,Singapore Telecomm,SGD,17900,0.081984,Singapore,2.4,Communication Services,Diversified Telecommunication Services
+IT0003128367,7144569,ENEL IT,Enel Spa,EUR,5010,0.081360,Italy,5.825,Utilities,Electric Utilities
+NO0010063308,4732495,TEL NO,Telenor Asa,NOK,2779,0.081142,Norway,121.4,Communication Services,Diversified Telecommunication Services
+US09061G1013,2437071,BMRN,Biomarin Pharmaceutical Inc,USD,355,0.080753,United States,88.59,Health Care,Biotechnology
+US3724601055,2367480,GPC,Genuine Parts Co,USD,210,0.080748,United States,149.75,Consumer Discretionary,Distributors
+US64110D1046,2630643,NTAP,Netapp Inc,USD,303,0.080688,United States,103.71,Information Technology,Technology Hardware Storage & Peripherals
+DE0007236101,5727973,SIE DE,Siemens Ag,EUR,167,0.080610,Germany,173.14,Industrials,Industrial Conglomerates
+US0268747849,2027342,AIG,American Intl Group Inc,USD,415,0.080352,United States,75.405,Financials,Insurance
+FI4000552500,BMXX645,SAMPO FI,Sampo Plc,EUR,726,0.080212,Finland,39.63,Financials,Insurance
+US7595091023,2729068,RS,Reliance Inc,USD,93,0.079997,United States,335,Materials,Metals & Mining
+FR0000125486,B1XH026,DG FR,Vinci,EUR,250,0.079838,France,114.55,Industrials,Construction & Engineering
+CH0008038389,B083BH4,SPSN CH,Swiss Prime Site,CHF,329,0.079747,Switzerland,85.3,Real Estate,Real Estate Management & Development
+CH0418792922,BF2DSG3,SIKA CH,Sika Ag,CHF,105,0.079487,Switzerland,266.4,Materials,Chemicals
+AU000000MPL3,BRTNNQ5,MPL AU,Medibank Private L,AUD,12565,0.079275,Australia,3.71,Financials,Insurance
+US7458671010,2708841,PHM,Pulte Group Inc,USD,268,0.079144,United States,115.01,Consumer Discretionary,Household Durables
+US3696043013,BL59CR9,GE,Ge Aerospace,USD,199,0.078468,United States,153.565,Industrials,Aerospace & Defense
+US6934751057,2692665,PNC,Pnc Finl Svcs Group Inc,USD,190,0.078405,United States,160.71,Financials,Banks
+DE0005140008,5750355,DBK DE,Deutsche Bank Ag,EUR,1925,0.078375,Germany,14.604,Financials,Capital Markets
+US25179M1036,2480677,DVN,Devon Energy Corp New,USD,563,0.077673,United States,53.73,Energy,Oil Gas & Consumable Fuels
+FR0000127771,4834777,VIV FR,Vivendi Se,EUR,2805,0.077606,France,9.924,Communication Services,Media
+CH0025751329,B18ZRK2,LOGN CH,Logitech Intl,CHF,340,0.076617,Switzerland,79.3,Information Technology,Technology Hardware Storage & Peripherals
+FR0000120628,7088429,CS FR,Axa Sa,EUR,811,0.076557,France,33.86,Financials,Insurance
+US5705351048,2566436,MKL,Markel Group Inc,USD,20,0.076495,United States,1489.56,Financials,Insurance
+GB0004544929,0454492,IMB GB,Imperial Brands Pl,GBP,1381,0.076411,United Kingdom,17,Consumer Staples,Tobacco
+JP3893600001,6597302,8031 JP,Mitsui & Co,JPY,600,0.076338,Japan,7514,Industrials,Trading Companies & Distributors
+US6819191064,2279303,OMC,Omnicom Group Inc,USD,317,0.076236,United States,93.66,Communication Services,Media
+US91307C1027,2430412,UTHR,United Therapeutics Corp De,USD,125,0.076235,United States,237.52,Health Care,Biotechnology
+FR0000121972,4834108,SU FR,Schneider Electric,EUR,131,0.075472,France,206.65,Industrials,Electrical Equipment
+US09062X1037,2455965,BIIB,Biogen Inc,USD,142,0.075165,United States,206.15,Health Care,Biotechnology
+US87612E1064,2259101,TGT,Target Corp,USD,171,0.075098,United States,171.035,Consumer Staples,Consumer Staples Distribution & Retail
+US5950171042,2592174,MCHP,Microchip Technology Inc.,USD,322,0.074999,United States,90.71,Information Technology,Semiconductors & Semiconductor Equipment
+US90384S3031,B28TS42,ULTA,Ulta Beauty Inc,USD,64,0.074254,United States,451.848,Consumer Discretionary,Specialty Retail
+CA1363851017,2171573,CNQ CA,Canadian Nat Res Ltd,CAD,357,0.074190,Canada,110.01,Energy,Oil Gas & Consumable Fuels
+US30040W1080,BVVN4Q8,ES,Eversource Energy,USD,481,0.073968,United States,59.89,Utilities,Electric Utilities
+JP3173400007,6136749,4684 JP,Obic Co Ltd,JPY,200,0.073741,Japan,21775,Information Technology,It Services
+ES0173093024,BD6FXN3,RED ES,Redeia Corp Sa,EUR,1706,0.073673,Spain,15.49,Utilities,Electric Utilities
+US3802371076,BWFRFC6,GDDY,Godaddy Inc,USD,229,0.073571,United States,125.12,Information Technology,It Services
+JP3519400000,6196408,4519 JP,Chugai Pharm Co,JPY,800,0.073121,Japan,5398,Health Care,Pharmaceuticals
+US64110L1061,2857817,NFLX,Netflix Inc,USD,46,0.072935,United States,617.49,Communication Services,Entertainment
+US83088M1027,2961053,SWKS,Skyworks Solutions Inc,USD,267,0.072634,United States,105.945,Information Technology,Semiconductors & Semiconductor Equipment
+US6703461052,2651086,NUE,Nucor Corp,USD,142,0.072617,United States,199.16,Materials,Metals & Mining
+JP3788600009,6429104,6501 JP,Hitachi,JPY,300,0.072411,Japan,14255,Industrials,Industrial Conglomerates
+SE0015811963,BMV7PQ4,INVE.B SE,Investor Ab,SEK,1132,0.071941,Sweden,261.4,Financials,Financial Services
+FI0009007884,5701513,ELISA FI,Elisa Oyj,EUR,613,0.071777,Finland,42,Communication Services,Diversified Telecommunication Services
+US4364401012,2433530,HOLX,Hologic Inc,USD,357,0.071455,United States,77.95,Health Care,Health Care Equipment & Supplies
+US36266G1076,BL6JPG8,GEHC,Ge Healthcare Technologies,USD,321,0.071329,United States,86.54,Health Care,Health Care Equipment & Supplies
+US7739031091,2754060,ROK,Rockwell Automation Inc,USD,97,0.070737,United States,284.005,Industrials,Electrical Equipment
+US45168D1046,2459202,IDXX,Idexx Labs Inc,USD,53,0.070640,United States,519.075,Health Care,Health Care Equipment & Supplies
+HK0388045442,6267359,388 HK,Hong Kong Exchange,HKD,931,0.070579,Hong Kong,231.2,Financials,Capital Markets
+US0865161014,2094670,BBY,Best Buy Inc,USD,334,0.070565,United States,82.28,Consumer Discretionary,Specialty Retail
+IE00BLP1HW54,BLP1HW5,AON,Aon Plc,USD,86,0.070217,United States,317.98,Financials,Insurance
+US5797802064,2550161,MKC,Mccormick & Co Inc,USD,362,0.070113,United States,75.43,Consumer Staples,Food Products
+IE0001827041,0182704,CRH GB,Crh,GBP,326,0.070028,United Kingdom,66,Materials,Construction Materials
+US92936U1097,B826YT8,WPC,Wp Carey Inc,USD,476,0.069841,United States,57.142,Real Estate,Diversified Reits
+US65339F1012,2328915,NEE,Nextera Energy Inc,USD,414,0.069134,United States,65.035,Utilities,Electric Utilities
+JP3752900005,BYT8143,6178 JP,Japan Post Hold Co,JPY,2700,0.068896,Japan,1507,Financials,Insurance
+US7611521078,2732903,RMD,Resmed Inc,USD,140,0.068880,United States,191.61,Health Care,Health Care Equipment & Supplies
+US5486611073,2536763,LOW,Lowes Cos Inc,USD,110,0.068844,United States,243.74,Consumer Discretionary,Specialty Retail
+US1423391002,2176318,CSL,Carlisle Cos Inc,USD,68,0.068466,United States,392.12,Industrials,Building Products
+FR0000130809,5966516,GLE FR,Societe Generale,EUR,979,0.068152,France,24.97,Financials,Banks
+US0091581068,2011602,APD,Air Prods & Chems Inc,USD,111,0.068036,United States,238.71,Materials,Chemicals
+US3841091040,2380443,GGG,Graco Inc,USD,287,0.067975,United States,92.24,Industrials,Machinery
+US12541W2098,2116228,CHRW,C H Robinson Worldwide Inc,USD,362,0.067466,United States,72.582,Industrials,Air Freight & Logistics
+US2600031080,2278407,DOV,Dover Corp,USD,149,0.067451,United States,176.3,Industrials,Machinery
+NO0010096985,7133608,EQNR NO,Equinor Asa,NOK,941,0.067319,Norway,297.45,Energy,Oil Gas & Consumable Fuels
+HK0027032686,6465874,27 HK,Galaxy Entertainme,HKD,5000,0.066973,Hong Kong,40.85,Consumer Discretionary,Hotels Restaurants & Leisure
+SE0017486889,BLDBN41,ATCO.A SE,Atlas Copco Ab,SEK,1509,0.066808,Sweden,182.1,Industrials,Machinery
+US30034W1062,BFMXGR0,EVRG,Evergy Inc,USD,491,0.066731,United States,52.93,Utilities,Electric Utilities
+US4464131063,B40SSC9,HII,Huntington Ingalls Inds Inc,USD,94,0.066110,United States,273.9,Industrials,Aerospace & Defense
+US7757111049,2747305,ROL,Rollins Inc,USD,571,0.065721,United States,44.825,Industrials,Commercial Services & Supplies
+US3377381088,2342034,FI,Fiserv Inc,USD,165,0.065489,United States,154.575,Financials,Financial Services
+HK0000069689,B4TX8S1,1299 HK,Aia Group Ltd,HKD,3800,0.065042,Hong Kong,52.2,Financials,Insurance
+US24703L2025,BHKD3S6,DELL,Dell Technologies Inc,USD,206,0.065013,United States,122.91,Information Technology,Technology Hardware Storage & Peripherals
+CH0126881561,B545MG5,SREN CH,Swiss Re Ag,CHF,215,0.064822,Switzerland,106.1,Financials,Insurance
+HK0011000095,6408374,11 HK,Hang Seng Bank,HKD,2100,0.064762,Hong Kong,94.05,Financials,Banks
+US74144T1088,2702337,TROW,Price T Rowe Group Inc,USD,212,0.064747,United States,118.943,Financials,Capital Markets
+JP3771800004,6405870,6965 JP,Hamamatsu Photonic,JPY,700,0.064704,Japan,5459,Information Technology,Electronic Equipment Instruments & Components
+US2441991054,2261203,DE,Deere & Co,USD,61,0.064403,United States,411.175,Industrials,Machinery
+US8581191009,2849472,STLD,Steel Dynamics Inc,USD,170,0.063792,United States,146.14,Materials,Metals & Mining
+CH0030170408,B1WGG93,GEBN CH,Geberit Ag,CHF,43,0.063344,Switzerland,518.4,Industrials,Building Products
+US8064071025,2416962,HSIC,Henry Schein Inc,USD,337,0.063125,United States,72.95,Health Care,Health Care Providers & Services
+JP3973400009,6738220,7752 JP,Ricoh Co,JPY,2700,0.063090,Japan,1380,Information Technology,Technology Hardware Storage & Peripherals
+JP3402600005,6858849,5713 JP,Sumitomo Metal Mng,JPY,700,0.062665,Japan,5287,Materials,Metals & Mining
+CA1360691010,2170525,CM CA,Canadian Imperial Bk Comm T,CAD,487,0.062540,Canada,67.98,Financials,Banks
+CA8672241079,B3NB1P2,SU CA,Suncor Energy Inc New,CAD,629,0.062293,Canada,52.425,Energy,Oil Gas & Consumable Fuels
+DE0008430026,5294121,MUV2 DE,Muenchener Rueckve,EUR,54,0.062266,Germany,413.6,Financials,Insurance
+AU0000030678,BYWR0T5,COL AU,Coles Group Ltd,AUD,2264,0.062180,Australia,16.15,Consumer Staples,Consumer Staples Distribution & Retail
+DE000BASF111,5086577,BAS DE,Basf Se,EUR,416,0.062163,Germany,53.6,Materials,Chemicals
+US59156R1086,2573209,MET,Metlife Inc,USD,333,0.062085,United States,72.61,Financials,Insurance
+AU000000BXB1,B1FJ0C0,BXB AU,Brambles Ltd,AUD,2290,0.061920,Australia,15.9,Industrials,Commercial Services & Supplies
+US0718131099,2085102,BAX,Baxter Intl Inc,USD,564,0.061888,United States,42.735,Health Care,Health Care Equipment & Supplies
+US5404241086,2523022,L,Loews Corp,USD,321,0.061715,United States,74.875,Financials,Insurance
+GB00BH4HKS39,BH4HKS3,VOD GB,Vodafone Group,GBP,27858,0.061673,United Kingdom,0.68,Communication Services,Wireless Telecommunication Services
+JP3122400009,6870490,6857 JP,Advantest Corp,JPY,600,0.061272,Japan,6031,Information Technology,Semiconductors & Semiconductor Equipment
+US12008R1077,B0BV2M7,BLDR,Builders Firstsource Inc,USD,120,0.061092,United States,198.27,Industrials,Building Products
+US62944T1051,2637785,NVR,Nvr Inc,USD,3,0.060900,United States,7905.83,Consumer Discretionary,Household Durables
+CH0024638212,B11WWH2,SCHN CH,Schindler Hldg Ag,CHF,98,0.060709,Switzerland,218,Industrials,Machinery
+JP3830000000,6146500,6448 JP,Brother Industries,JPY,1200,0.060428,Japan,2974,Information Technology,Technology Hardware Storage & Peripherals
+IL0006046119,6076425,LUMI IL,Bk Leumi Le Israel,ILS,2850,0.060276,Israel,30.45,Financials,Banks
+US92345Y1064,B4P9W92,VRSK,Verisk Analytics Inc,USD,102,0.059772,United States,228.22,Industrials,Professional Services
+IE00B8KQN827,B8KQN82,ETN,Eaton Corp Plc,USD,74,0.059666,United States,314.015,Industrials,Electrical Equipment
+JP3414750004,6616508,6724 JP,Seiko Epson Corp,JPY,1300,0.059642,Japan,2709.5,Information Technology,Technology Hardware Storage & Peripherals
+IT0000072618,4076836,ISP IT,Intesa Sanpaolo,EUR,6460,0.059639,Italy,3.312,Financials,Banks
+JP3837800006,6441506,7741 JP,Hoya Corp,JPY,200,0.059450,Japan,17555,Health Care,Health Care Equipment & Supplies
+NL0000226223,5962332,STMPA FR,Stmicroelectronics,EUR,538,0.059381,France,39.59,Information Technology,Semiconductors & Semiconductor Equipment
+US35137L1052,BJJMGL2,FOXA,Fox Corp,USD,740,0.059217,United States,31.165,Communication Services,Media
+IE00BDB6Q211,BDB6Q21,WTW,Willis Towers Watson Plc Lt,USD,87,0.059020,United States,264.2,Financials,Insurance
+US6098391054,B01Z7J1,MPWR,Monolithic Pwr Sys Inc,USD,34,0.058850,United States,674.1,Information Technology,Semiconductors & Semiconductor Equipment
+AU000000SHL7,6821120,SHL AU,Sonic Healthcare,AUD,1199,0.058662,Australia,28.77,Health Care,Health Care Providers & Services
+GB00B24CGK77,B24CGK7,RKT GB,Reckitt Benck Grp,GBP,425,0.058650,United Kingdom,42.4,Consumer Staples,Household Products
+US31428X1063,2142784,FDX,Fedex Corp,USD,83,0.058395,United States,274,Industrials,Air Freight & Logistics
+JP3404600003,6858946,8053 JP,Sumitomo Corp,JPY,900,0.058244,Japan,3822,Industrials,Trading Companies & Distributors
+US1011371077,2113434,BSX,Boston Scientific Corp,USD,332,0.058054,United States,68.1,Health Care,Health Care Equipment & Supplies
+CA11271J1075,BPCPYT4,BN CA,Brookfield Corp,CAD,546,0.056987,Canada,55.25,Financials,Capital Markets
+DK0060079531,B1WT5G2,DSV DK,Dsv A/S,DKK,132,0.056883,Denmark,1153,Industrials,Air Freight & Logistics
+US9553061055,2950482,WST,West Pharmaceutical Svsc In,USD,57,0.056741,United States,387.68,Health Care,Life Sciences Tools & Services
+US9224751084,BFH3N85,VEEV,Veeva Sys Inc,USD,103,0.056739,United States,214.535,Health Care,Health Care Technology
+DE000ENAG999,4942904,EOAN DE,E.On Se,EUR,1628,0.056688,Germany,12.49,Utilities,Multi Utilities
+CH0012214059,7110753,HOLN CH,Holcim Ltd,CHF,252,0.056686,Switzerland,79.16,Materials,Construction Materials
+ES0173516115,5669354,REP ES,Repsol Sa,EUR,1285,0.056603,Spain,15.8,Energy,Oil Gas & Consumable Fuels
+US2333311072,2280220,DTE,Dte Energy Co,USD,201,0.056592,United States,109.65,Utilities,Multi Utilities
+JP3436100006,6770620,9984 JP,Softbank Group Co,JPY,386,0.056045,Japan,8575,Communication Services,Wireless Telecommunication Services
+AU000000NAB4,6624608,NAB AU,Natl Australia Bk,AUD,951,0.056006,Australia,34.63,Financials,Banks
+GB00BD6K4575,BD6K457,CPG GB,Compass Group,GBP,781,0.055897,United Kingdom,21.99,Consumer Discretionary,Hotels Restaurants & Leisure
+DE0005552004,4617859,DHL DE,Deutsche Post Ag,EUR,505,0.055091,Germany,39.13,Industrials,Air Freight & Logistics
+JP3421800008,6791591,9735 JP,Secom Co,JPY,300,0.054988,Japan,10825,Industrials,Commercial Services & Supplies
+AU000000AZJ1,B87CVM3,AZJ AU,Aurizon Holdings,AUD,8036,0.054937,Australia,4.02,Industrials,Ground Transportation
+US0079031078,2007849,AMD,Advanced Micro Devices Inc,USD,126,0.054696,United States,169.06,Information Technology,Semiconductors & Semiconductor Equipment
+SE0000667891,B1VQ252,SAND SE,Sandvik Ab,SEK,920,0.054263,Sweden,242.6,Industrials,Machinery
+JP3188200004,6267058,4768 JP,Otsuka Corp,JPY,1000,0.054184,Japan,3200,Information Technology,It Services
+US3666511072,2372763,IT,Gartner Inc,USD,45,0.054028,United States,467.58,Information Technology,It Services
+US79466L3024,2310525,CRM,Salesforce Inc,USD,70,0.053963,United States,300.23,Information Technology,Software
+FR0000039299,4572709,BOL FR,Bollore Se,EUR,3073,0.053845,France,6.285,Communication Services,Entertainment
+US5627501092,2239471,MANH,Manhattan Associates Inc,USD,86,0.053422,United States,241.92,Information Technology,Software
+NL0012969182,BZ1HM42,ADYEN NL,Adyen Nv,EUR,13,0.053327,Netherlands,1471.4,Financials,Financial Services
+DE0005200000,5107401,BEI DE,Beiersdorf Ag,EUR,148,0.053309,Germany,129.2,Consumer Staples,Personal Care Products
+JP3351500008,BP38QJ6,5831 JP,Shizuoka Financial,JPY,2200,0.053288,Japan,1430.5,Financials,Banks
+US60770K1079,BGSXTS3,MRNA,Moderna Inc,USD,185,0.052951,United States,111.47,Health Care,Biotechnology
+JP3585800000,6895404,9501 JP,Tokyo Elec Power H,JPY,3000,0.052829,Japan,1040,Utilities,Electric Utilities
+US9426222009,2943039,WSO,Watsco Inc,USD,47,0.052452,United States,434.63,Industrials,Trading Companies & Distributors
+PTJMT0AE0001,B1Y1SQ7,JMT PT,Jeronimo Martins,EUR,1028,0.052447,Portugal,18.3,Consumer Staples,Consumer Staples Distribution & Retail
+NO0005052605,B11HK39,NHY NO,Norsk Hydro Asa,NOK,3179,0.052389,Norway,68.52,Materials,Metals & Mining
+US7443201022,2819118,PRU,Prudential Finl Inc,USD,179,0.052273,United States,113.73,Financials,Insurance
+US04621X1081,2331430,AIZ,Assurant Inc,USD,114,0.052098,United States,177.98,Financials,Insurance
+US87165B1035,BP96PS6,SYF,Synchrony Financial,USD,479,0.052069,United States,42.335,Financials,Consumer Finance
+FR0000125007,7380482,SGO FR,Cie De St Gobain,EUR,254,0.051877,France,73.26,Industrials,Building Products
+US29109X1063,BP2V812,AZPN,Aspen Technology Inc,USD,95,0.051856,United States,212.585,Information Technology,Software
+BE0974320526,BF44466,UMI BE,Umicore,EUR,874,0.051705,Belgium,21.22,Materials,Chemicals
+US2910111044,2313405,EMR,Emerson Elec Co,USD,176,0.051448,United States,113.844,Industrials,Electrical Equipment
+DE0006048408,5002465,HEN DE,Henkel Ag&Co. Kgaa,EUR,281,0.051352,Germany,65.55,Consumer Staples,Household Products
+US9314271084,BTN1Y44,WBA,Walgreens Boots Alliance In,USD,1046,0.051313,United States,19.105,Consumer Staples,Consumer Staples Distribution & Retail
+US0236081024,2050832,AEE,Ameren Corp,USD,271,0.051312,United States,73.74,Utilities,Multi Utilities
+FR0000120073,B1YXBJ7,AI FR,Air Liquide(L'),EUR,98,0.051184,France,187.34,Materials,Chemicals
+US9344231041,BM8JYX3,WBD,Warner Bros Discovery Inc,USD,2285,0.050898,United States,8.675,Communication Services,Entertainment
+DE000BAY0017,5069211,BAYN DE,Bayer Ag,EUR,666,0.050865,Germany,27.395,Health Care,Pharmaceuticals
+LU1598757687,BYPBS67,MT NL,Arcelormittal,EUR,710,0.050772,Netherlands,25.65,Materials,Metals & Mining
+FR0000121485,5505072,KER FR,Kering,EUR,50,0.050768,France,364.2,Consumer Discretionary,Textiles Apparel & Luxury Goods
+CH0016440353,7635610,EMSN CH,Ems Chemie Hldg Ag,CHF,25,0.050723,Switzerland,714,Materials,Chemicals
+CH0025238863,B142S60,KNIN CH,Kuehne&Nagel Intl,CHF,70,0.050684,Switzerland,254.8,Industrials,Marine Transportation
+CA29250N1050,2466149,ENB CA,Enbridge Inc,CAD,559,0.050423,Canada,47.75,Energy,Oil Gas & Consumable Fuels
+JP3180400008,6661768,9532 JP,Osaka Gas Co,JPY,900,0.050396,Japan,3307,Utilities,Gas Utilities
+US8085131055,2779397,SCHW,Schwab Charles Corp,USD,272,0.050311,United States,72.035,Financials,Capital Markets
+US16411R2085,2654364,LNG,Cheniere Energy Inc,USD,125,0.050212,United States,156.44,Energy,Oil Gas & Consumable Fuels
+US7010941042,2671501,PH,Parker Hannifin Corp,USD,35,0.050132,United States,557.825,Industrials,Machinery
+US21037T1097,BMH4FS1,CEG,Constellation Energy Corp,USD,104,0.049849,United States,186.67,Utilities,Electric Utilities
+NL0000334118,5165294,ASM NL,Asm Intl Nv,EUR,31,0.049729,Netherlands,575.4,Information Technology,Semiconductors & Semiconductor Equipment
+JP3183200009,6743882,8697 JP,Japan Exchange Gp,JPY,700,0.049710,Japan,4194,Financials,Capital Markets
+IT0003132476,7145056,ENI IT,Eni Spa,EUR,1154,0.049693,Italy,15.446,Energy,Oil Gas & Consumable Fuels
+SE0015658117,BMD58W3,EPI.B SE,Epiroc Ab,SEK,1033,0.049476,Sweden,197,Industrials,Machinery
+US0995021062,B5367T7,BAH,Booz Allen Hamilton Hldg Co,USD,134,0.049369,United States,143.485,Industrials,Professional Services
+GB00BMVP7Y09,BMVP7Y0,RPRX,Royalty Pharma Plc,USD,649,0.049268,United States,29.565,Health Care,Pharmaceuticals
+CA87971M1032,2381093,T CA,Telus Corporation,CAD,1171,0.049263,Canada,22.27,Communication Services,Diversified Telecommunication Services
+JP3910660004,6513126,8766 JP,Tokio Marine Hldg,JPY,600,0.049212,Japan,4844,Financials,Insurance
+JP3357200009,6804369,7701 JP,Shimadzu Corp,JPY,700,0.048857,Japan,4122,Information Technology,Electronic Equipment Instruments & Components
+US74736K1016,BR9YYP4,QRVO,Qorvo Inc,USD,164,0.048629,United States,115.48,Information Technology,Semiconductors & Semiconductor Equipment
+DK0010244425,4253059,MAERSK.A DK,A.P. Moller Maersk,DKK,14,0.048191,Denmark,9210,Industrials,Marine Transportation
+GB0006776081,0677608,PSON GB,Pearson,GBP,1477,0.048120,United Kingdom,10.01,Consumer Discretionary,Diversified Consumer Services
+AU000000IAG3,6271026,IAG AU,Insurance Aust Grp,AUD,4334,0.047834,Australia,6.49,Financials,Insurance
+US40434L1052,BYX4D52,HPQ,Hp Inc,USD,624,0.047731,United States,29.79,Information Technology,Technology Hardware Storage & Peripherals
+US4612021034,2459020,INTU,Intuit,USD,29,0.047454,United States,637.28,Information Technology,Software
+US2547091080,B1YLC43,DFS,Discover Finl Svcs,USD,147,0.047327,United States,125.385,Financials,Consumer Finance
+US2566771059,B5B1S13,DG,Dollar Gen Corp New,USD,120,0.047290,United States,153.475,Consumer Staples,Consumer Staples Distribution & Retail
+AU000000ASX7,6129222,ASX AU,Asx Ltd,AUD,438,0.047150,Australia,63.3,Financials,Capital Markets
+US73278L1052,2781585,POOL,Pool Corp,USD,46,0.047150,United States,399.185,Consumer Discretionary,Distributors
+US42824C1099,BYVYWS0,HPE,Hewlett Packard Enterprise,USD,1023,0.047111,United States,17.935,Information Technology,Technology Hardware Storage & Peripherals
+US74251V1026,2803014,PFG,Principal Financial Group I,USD,220,0.046652,United States,82.585,Financials,Insurance
+JP3900000005,6597067,7011 JP,Mitsubishi Hvy Ind,JPY,2000,0.046581,Japan,1375.5,Industrials,Machinery
+GB00BLGZ9862,BLGZ986,TSCO GB,Tesco,GBP,4976,0.046562,United Kingdom,2.875,Consumer Staples,Consumer Staples Distribution & Retail
+CA15135U1093,B57FG04,CVE CA,Cenovus Energy Inc,CAD,843,0.046556,Canada,29.235,Energy,Oil Gas & Consumable Fuels
+AU000000SOL3,6821807,SOL AU,Washington H Soul,AUD,794,0.046544,Australia,34.47,Financials,Financial Services
+JP3750500005,6371863,2702 JP,Mcdonald's Holding,JPY,400,0.046530,Japan,6870,Consumer Discretionary,Hotels Restaurants & Leisure
+US5024311095,BK9DTN5,LHX,L3Harris Technologies Inc,USD,88,0.046502,United States,205.8,Industrials,Aerospace & Defense
+GB00B1YW4409,B1YW440,III GB,3I Group,GBP,514,0.046457,United Kingdom,27.77,Financials,Capital Markets
+DE000PAH0038,7101069,PAH3 DE,Porsche Auto Hl Se,EUR,324,0.046410,Germany,51.38,Consumer Discretionary,Automobiles
+GB00B1XZS820,B1XZS82,AAL GB,Anglo American,GBP,648,0.046220,United Kingdom,21.915,Materials,Metals & Mining
+US50212V1008,B75JX34,LPLA,Lpl Finl Hldgs Inc,USD,69,0.045820,United States,258.62,Financials,Capital Markets
+GB00BL6K5J42,BL6K5J4,EDV GB,Endeavour Mining P,GBP,802,0.045706,United Kingdom,17.51,Materials,Metals & Mining
+US6937181088,2665861,PCAR,Paccar Inc,USD,150,0.045691,United States,118.63,Industrials,Machinery
+US92338C1036,BPGMZQ5,VLTO,Veralto Corp,USD,199,0.045592,United States,89.225,Industrials,Commercial Services & Supplies
+US5261071071,2442053,LII,Lennox Intl Inc,USD,37,0.045456,United States,478.46,Industrials,Building Products
+US2605571031,BHXCF84,DOW,Dow Inc,USD,295,0.045293,United States,59.795,Materials,Chemicals
+US6951561090,2504566,PKG,Packaging Corp Amer,USD,93,0.045179,United States,189.195,Materials,Containers & Packaging
+AU000000CPU5,6180412,CPU AU,Computershare Ltd,AUD,1002,0.045037,Australia,26.43,Industrials,Professional Services
+JP3142500002,B1FF8P7,5019 JP,Idemitsu Kosan Co,JPY,2500,0.044934,Japan,1061.5,Energy,Oil Gas & Consumable Fuels
+US0304201033,B2R3PV1,AWK,American Wtr Wks Co Inc New,USD,144,0.044816,United States,121.207,Utilities,Water Utilities
+IT0000062072,4056719,G IT,Assic Generali Spa,EUR,703,0.044666,Italy,22.79,Financials,Insurance
+DK0060252690,B44XTX8,PNDORA DK,Pandora A/S,DKK,111,0.044577,Denmark,1074.5,Consumer Discretionary,Textiles Apparel & Luxury Goods
+JP3476480003,B601QS4,8750 JP,Dai Ichi Life Hold,JPY,700,0.044234,Japan,3732,Financials,Insurance
+US2435371073,2267278,DECK,Deckers Outdoor Corp,USD,20,0.044154,United States,859.79,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US88160R1014,B616C79,TSLA,Tesla Inc,USD,98,0.044031,United States,174.98,Consumer Discretionary,Automobiles
+US0640581007,B1Z77F6,BK,Bank New York Mellon Corp,USD,300,0.043818,United States,56.883,Financials,Capital Markets
+US4039491000,BMZQ9C1,DINO,Hf Sinclair Corp,USD,278,0.043650,United States,61.15,Energy,Oil Gas & Consumable Fuels
+US6907421019,B1FW7Q2,OC,Owens Corning New,USD,100,0.043548,United States,169.6,Industrials,Building Products
+JP3566800003,6183552,9022 JP,Central Japan Rlwy,JPY,700,0.043499,Japan,3670,Industrials,Ground Transportation
+ES0130960018,7383072,ENG ES,Enagas Sa,EUR,1149,0.043469,Spain,13.57,Utilities,Gas Utilities
+GB0004082847,0408284,STAN GB,Standard Chart Plc,GBP,1972,0.043182,United Kingdom,6.728,Financials,Banks
+US3167731005,2336747,FITB,Fifth Third Bancorp,USD,462,0.043004,United States,36.251,Financials,Banks
+US4435106079,BDFG6S3,HUBB,Hubbell Inc,USD,41,0.042977,United States,408.235,Industrials,Electrical Equipment
+JP3526600006,6195609,9502 JP,Chubu Elec Power,JPY,1300,0.042968,Japan,1952,Utilities,Electric Utilities
+JE00BJ1F3079,BJ1F307,AMCR,Amcor Plc,USD,1790,0.042860,United States,9.325,Materials,Containers & Packaging
+JP3890310000,B2Q4CS1,8725 JP,Ms&Ad Ins Gp Hldgs,JPY,900,0.042593,Japan,2795,Financials,Insurance
+SE0012673267,BJXSCH4,EVO SE,Evolution Ab,SEK,135,0.042455,Sweden,1293.5,Consumer Discretionary,Hotels Restaurants & Leisure
+FI0009000681,5902941,NOKIA FI,Nokia Oyj,EUR,4723,0.042445,Finland,3.224,Information Technology,Communications Equipment
+US78409V1044,BYV2325,SPGI,S&P Global Inc,USD,38,0.042248,United States,432.99,Financials,Capital Markets
+JP3818000006,6356945,6702 JP,Fujitsu,JPY,1000,0.042238,Japan,2494.5,Information Technology,It Services
+US9024941034,2909730,TSN,Tyson Foods Inc,USD,277,0.042149,United States,59.26,Consumer Staples,Food Products
+FR0000131906,4712798,RNO FR,Renault Sa,EUR,298,0.042038,France,50.6,Consumer Discretionary,Automobiles
+FI4000297767,BFM0SV9,NDA.FI FI,Nordea Bank Abp,EUR,1364,0.041620,Finland,10.945,Financials,Banks
+JP3893200000,6597603,8801 JP,Mitsui Fudosan Co,JPY,1500,0.041603,Japan,1638,Real Estate,Real Estate Management & Development
+CA00208D4084,B6463M8,ARX CA,Arc Res Ltd Cda,CAD,871,0.041595,Canada,25.28,Energy,Oil Gas & Consumable Fuels
+JP3955000009,6986427,6841 JP,Yokogawa Electric,JPY,700,0.041591,Japan,3509,Information Technology,Electronic Equipment Instruments & Components
+GB0002634946,0263494,BA GB,Bae Systems,GBP,999,0.041521,United Kingdom,12.77,Industrials,Aerospace & Defense
+JP3753000003,6643960,9101 JP,Nippon Yusen Kk,JPY,600,0.041511,Japan,4086,Industrials,Marine Transportation
+CA21037X1006,B15C4L6,CSU CA,Constellation Software Inc,CAD,6,0.041293,Canada,3643.15,Information Technology,Software
+CA87241L1094,BDRXBF4,TFII CA,Tfi Intl Inc,CAD,100,0.041138,Canada,217.77,Industrials,Ground Transportation
+CH0210483332,BCRWZ18,CFR CH,Comp.Fin.Richemont,CHF,108,0.041078,Switzerland,133.85,Consumer Discretionary,Textiles Apparel & Luxury Goods
+GB00BM8PJY71,BM8PJY7,NWG GB,Natwest Group Plc,GBP,4570,0.041052,United Kingdom,2.76,Financials,Banks
+IL0002810146,6455530,ICL IL,Icl Group Ltd,ILS,3072,0.041031,Israel,19.23,Materials,Chemicals
+JP3877600001,6569464,8002 JP,Marubeni Corp,JPY,900,0.040948,Japan,2687,Industrials,Trading Companies & Distributors
+AU000000DXS1,B033YN6,DXS AU,Dexus,AUD,3177,0.040683,Australia,7.53,Real Estate,Office Reits
+US59522J1034,2589132,MAA,Mid Amer Apt Cmntys Inc,USD,117,0.040667,United States,135.365,Real Estate,Residential Reits
+HK0066009694,6290054,66 HK,Mtr Corp,HKD,4813,0.040559,Hong Kong,25.7,Industrials,Ground Transportation
+JP3756100008,6644800,9843 JP,Nitori Holdings,JPY,100,0.040316,Japan,23810,Consumer Discretionary,Specialty Retail
+US30161N1019,2670519,EXC,Exelon Corp,USD,414,0.040209,United States,37.825,Utilities,Electric Utilities
+US96145D1054,BYR0914,WRK,Westrock Co,USD,318,0.040133,United States,49.15,Materials,Containers & Packaging
+NL0009434992,B3SPXZ3,LYB,Lyondellbasell Industries N,USD,149,0.040015,United States,104.59,Materials,Chemicals
+HK0823032773,B0PB4M7,823 HK,Link Real Estate I,HKD,3541,0.039942,Hong Kong,34.4,Real Estate,Retail Reits
+US4456581077,2445416,JBHT,Hunt J B Trans Svcs Inc,USD,80,0.039853,United States,194.01,Industrials,Ground Transportation
+AU0000088338,BM91201,ALD AU,Ampol Ltd,AUD,581,0.039828,Australia,40.31,Energy,Oil Gas & Consumable Fuels
+CA67077M1086,BDRJLN0,NTR CA,Nutrien Ltd,CAD,276,0.039781,Canada,76.3,Materials,Chemicals
+US5184391044,2320524,EL,Lauder Estee Cos Inc,USD,105,0.039714,United States,147.3,Consumer Staples,Personal Care Products
+CA45823T1066,B04YJV1,IFC CA,Intact Finl Corp,CAD,95,0.039548,Canada,220.37,Financials,Insurance
+US3024913036,2328603,FMC,Fmc Corp,USD,243,0.039468,United States,63.255,Materials,Chemicals
+IL0006625771,6075808,POLI IL,Bank Hapoalim B.M.,ILS,1661,0.039433,Israel,34.18,Financials,Banks
+HK0003000038,6436557,3 HK,Hongkong&China Gas,HKD,20000,0.039414,Hong Kong,6.01,Utilities,Gas Utilities
+AU000000BSL0,6533232,BSL AU,Bluescope Steel,AUD,978,0.039401,Australia,23.69,Materials,Metals & Mining
+CA5394811015,2521800,L CA,Loblaw Companies Ltd,CAD,140,0.039382,Canada,148.91,Consumer Staples,Consumer Staples Distribution & Retail
+US2786421030,2293819,EBAY,Ebay Inc.,USD,295,0.039199,United States,51.75,Consumer Discretionary,Broadline Retail
+AU000000GMG2,B03FYZ4,GMG AU,Goodman Group,AUD,724,0.039166,Australia,31.81,Real Estate,Industrial Reits
+US0394831020,2047317,ADM,Archer Daniels Midland Co,USD,240,0.039110,United States,63.465,Consumer Staples,Food Products
+JP3196000008,6656106,9007 JP,Odakyu Elec Rlwy,JPY,1200,0.039022,Japan,1920.5,Industrials,Ground Transportation
+JP3639650005,6269861,7532 JP,Pan Pacific Intl H,JPY,600,0.038860,Japan,3825,Consumer Discretionary,Broadline Retail
+GB00BVYVFW23,BVYVFW2,AUTO GB,Auto Trader Group,GBP,1726,0.038739,United Kingdom,6.896,Communication Services,Interactive Media & Services
+JP3762600009,6643108,8604 JP,Nomura Holdings,JPY,2400,0.038630,Japan,950.6,Financials,Capital Markets
+US1746101054,BQRX1X3,CFG,Citizens Finl Group Inc,USD,429,0.038483,United States,34.935,Financials,Banks
+IT0005090300,BZ0P4R4,INW IT,Infrastrutture Wir,EUR,1371,0.038451,Italy,10.06,Communication Services,Diversified Telecommunication Services
+JP3400400002,6858474,9719 JP,Scsk Corp,JPY,800,0.038430,Japan,2837,Information Technology,It Services
+US0188021085,2973821,LNT,Alliant Energy Corp,USD,300,0.038396,United States,49.845,Utilities,Electric Utilities
+JP3902400005,6597045,6503 JP,Mitsubishi Elec Cp,JPY,900,0.038365,Japan,2517.5,Industrials,Electrical Equipment
+US8330341012,2818740,SNA,Snap On Inc,USD,51,0.038335,United States,292.74,Industrials,Machinery
+US4165151048,2476193,HIG,Hartford Finl Svcs Group In,USD,149,0.038005,United States,99.335,Financials,Insurance
+US69331C1080,2689560,PCG,Pg&E Corp,USD,874,0.038005,United States,16.935,Utilities,Electric Utilities
+JP3358000002,6804820,7309 JP,Shimano Inc,JPY,100,0.037937,Japan,22405,Consumer Discretionary,Leisure Products
+ES0144580Y14,B288C92,IBE ES,Iberdrola Sa,EUR,1223,0.037932,Spain,11.125,Utilities,Electric Utilities
+AU0000219529,BNRQW72,TLC AU,Lottery Corporatio,AUD,4298,0.037861,Australia,5.18,Consumer Discretionary,Hotels Restaurants & Leisure
+US2810201077,2829515,EIX,Edison Intl,USD,207,0.037746,United States,71.015,Utilities,Electric Utilities
+US40412C1018,B4MGBG6,HCA,Hca Healthcare Inc,USD,45,0.037680,United States,326.1,Health Care,Health Care Providers & Services
+JP3689500001,6141680,4716 JP,Oracle Corp Japan,JPY,200,0.037675,Japan,11125,Information Technology,Software
+NL0015000IY2,BNZGVV1,UMG NL,Universal Music Gr,EUR,496,0.037529,Netherlands,27.14,Communication Services,Entertainment
+CA4969024047,B03Z841,K CA,Kinross Gold Corp,CAD,2261,0.037287,Canada,8.73,Materials,Metals & Mining
+US65249B1098,BBGVT40,NWSA,News Corp New,USD,568,0.037147,United States,25.47,Communication Services,Media
+US6293775085,2212922,NRG,Nrg Energy Inc,USD,200,0.037115,United States,72.273,Utilities,Electric Utilities
+BMG611881274,BS71BR5,LBTYK,Liberty Global Ltd,USD,806,0.037097,United States,17.925,Communication Services,Diversified Telecommunication Services
+JP3944130008,6171494,4732 JP,Uss Co Ltd,JPY,1800,0.037092,Japan,1217,Consumer Discretionary,Specialty Retail
+CA89156V1067,B3QJ0H8,TOU CA,Tourmaline Oil Corp,CAD,295,0.036975,Canada,66.35,Energy,Oil Gas & Consumable Fuels
+US26614N1028,BK0VN47,DD,Dupont De Nemours Inc,USD,187,0.036886,United States,76.82,Materials,Chemicals
+JP3381000003,6642569,5401 JP,Nippon Steel Corp,JPY,600,0.036879,Japan,3630,Materials,Metals & Mining
+DE0006048432,5076705,HEN3 DE,Henkel Ag&Co. Kgaa,EUR,183,0.036876,Germany,72.28,Consumer Staples,Household Products
+US26875P1012,2318024,EOG,Eog Res Inc,USD,104,0.036483,United States,136.62,Energy,Oil Gas & Consumable Fuels
+DE0006231004,5889505,IFX DE,Infineon Technolog,EUR,389,0.036379,Germany,33.545,Information Technology,Semiconductors & Semiconductor Equipment
+DK0060448595,B8FMRX8,COLO.B DK,Coloplast,DKK,106,0.036226,Denmark,914.4,Health Care,Health Care Equipment & Supplies
+FR0010208488,B0C2CQ3,ENGI FR,Engie,EUR,818,0.035872,France,15.73,Utilities,Multi Utilities
+JP3762800005,6390921,4307 JP,Nomura Research In,JPY,500,0.035820,Japan,4231,Information Technology,It Services
+GB00B19NLV48,B19NLV4,EXPN GB,Experian Plc,GBP,326,0.035757,United Kingdom,33.7,Industrials,Professional Services
+US7237871071,2690830,PXD,Pioneer Nat Res Co,USD,51,0.035445,United States,270.665,Energy,Oil Gas & Consumable Fuels
+US0126531013,2046853,ALB,Albemarle Corp,USD,107,0.035379,United States,128.77,Materials,Chemicals
+SG1J26887955,6303866,S68 SG,Singapore Exchange,SGD,2000,0.035267,Singapore,9.24,Financials,Capital Markets
+US14448C1045,BK4N0D7,CARR,Carrier Global Corporation,USD,239,0.035250,United States,57.44,Industrials,Building Products
+NZMELE0002S7,BWFD052,MEL NZ,Meridian Energy Lt,NZD,3873,0.035235,New Zealand,5.85,Utilities,Independent Power And Renewable Electricity Producers
+US12504L1098,B6WVMH3,CBRE,Cbre Group Inc,USD,143,0.035202,United States,95.87,Real Estate,Real Estate Management & Development
+JP3979200007,6506267,6920 JP,Lasertec Corp,JPY,50,0.035202,Japan,41580,Information Technology,Semiconductors & Semiconductor Equipment
+KYG7800X1079,B5B23W2,1928 HK,Sands China Ltd,HKD,4800,0.035177,Hong Kong,22.35,Consumer Discretionary,Hotels Restaurants & Leisure
+CH0024638196,B11TCY0,SCHP CH,Schindler Hldg Ag,CHF,55,0.035165,Switzerland,225,Industrials,Machinery
+CH0012549785,7156036,SOON CH,Sonova Holding Ag,CHF,48,0.035164,Switzerland,257.8,Health Care,Health Care Equipment & Supplies
+JP3726800000,6474535,2914 JP,Japan Tobacco Inc,JPY,500,0.035008,Japan,4135,Consumer Staples,Tobacco
+NL0010773842,BNG8PQ9,NN NL,Nn Group N.V.,EUR,289,0.034992,Netherlands,43.43,Financials,Insurance
+US4932671088,2490911,KEY,Keycorp,USD,875,0.034589,United States,15.395,Financials,Banks
+US1890541097,2204026,CLX,Clorox Co Del,USD,94,0.034576,United States,143.25,Consumer Staples,Household Products
+US29414B1044,B44Z3T8,EPAM,Epam Sys Inc,USD,49,0.034440,United States,273.73,Information Technology,It Services
+US31620M1062,2769796,FIS,Fidelity Natl Information S,USD,181,0.034213,United States,73.615,Financials,Financial Services
+AU000000TCL6,6200882,TCL AU,Transurban Group,AUD,1498,0.034009,Australia,13.35,Industrials,Transportation Infrastructure
+US70450Y1038,BYW36M8,PYPL,Paypal Hldgs Inc,USD,198,0.033921,United States,66.72,Financials,Financial Services
+US2533931026,2969637,DKS,Dicks Sporting Goods Inc,USD,64,0.033822,United States,205.81,Consumer Discretionary,Specialty Retail
+US49177J1025,BQ84ZQ6,KVUE,Kenvue Inc,USD,644,0.033717,United States,20.39,Consumer Staples,Personal Care Products
+US74340W1036,B44WZD7,PLD,Prologis Inc.,USD,104,0.033587,United States,125.775,Real Estate,Industrial Reits
+NL0010832176,BNHKYX4,ARGX BE,Argenx Se,EUR,34,0.033489,Belgium,353.3,Health Care,Biotechnology
+JP3866800000,6572707,6752 JP,Panasonic Hldgs Co,JPY,1400,0.033282,Japan,1404,Consumer Discretionary,Household Durables
+JP3422950000,B0FS5D6,3382 JP,Seven & I Holdings,JPY,900,0.033221,Japan,2180,Consumer Staples,Consumer Staples Distribution & Retail
+JP3892100003,6431897,8309 JP,Sumitomo Mitsui Tr,JPY,600,0.033160,Japan,3264,Financials,Banks
+JP3463000004,6870445,4502 JP,Takeda Pharmaceuti,JPY,467,0.032942,Japan,4166,Health Care,Pharmaceuticals
+JP3165000005,B62G7K6,8630 JP,Sompo Holdings Inc,JPY,600,0.032927,Japan,3241,Financials,Insurance
+DE000DTR0CK8,BP6VLQ4,DTG DE,Daimler Truck Hold,EUR,260,0.032836,Germany,45.3,Industrials,Machinery
+US37940X1028,2712013,GPN,Global Pmts Inc,USD,100,0.032781,United States,127.665,Financials,Financial Services
+JP3197600004,6660107,4528 JP,Ono Pharmaceutical,JPY,800,0.032761,Japan,2418.5,Health Care,Pharmaceuticals
+US8926721064,BJXMVK2,TW,Tradeweb Mkts Inc,USD,124,0.032685,United States,102.655,Financials,Capital Markets
+US05722G1004,BDHLTQ5,BKR,Baker Hughes Company,USD,374,0.032670,United States,34.02,Energy,Energy Equipment & Services
+US02005N1000,B72XK05,ALLY,Ally Finl Inc,USD,322,0.032402,United States,39.19,Financials,Consumer Finance
+US78467J1007,B58YSC6,SSNC,Ss&C Technologies Hldgs Inc,USD,200,0.032202,United States,62.705,Industrials,Professional Services
+JP3162770006,BFFY885,9143 JP,Sg Holdings Co Ltd,JPY,1000,0.032121,Japan,1897,Industrials,Air Freight & Logistics
+US92556V1061,BMWS3X9,VTRS,Viatris Inc,USD,1061,0.031929,United States,11.72,Health Care,Pharmaceuticals
+IE00BY7QL619,BY7QL61,JCI,Johnson Ctls Intl Plc,USD,190,0.031809,United States,65.2,Industrials,Building Products
+FR0000121667,7212477,EL FR,Essilorluxottica,EUR,56,0.031802,France,203.7,Health Care,Health Care Equipment & Supplies
+DK0060636678,BXDZ972,TRYG DK,Tryg A/S,DKK,600,0.031440,Denmark,140.2,Financials,Insurance
+GB00BDR05C01,BDR05C0,NG GB,National Grid,GBP,929,0.031219,United Kingdom,10.325,Utilities,Multi Utilities
+US1508701034,B05MZT4,CE,Celanese Corp Del,USD,73,0.031146,United States,166.16,Materials,Chemicals
+CA7063271034,B4PT2P8,PPL CA,Pembina Pipeline Corp,CAD,339,0.030861,Canada,48.19,Energy,Oil Gas & Consumable Fuels
+FR0000120172,5641567,CA FR,Carrefour Sa,EUR,692,0.030781,France,15.955,Consumer Staples,Consumer Staples Distribution & Retail
+HK0012000102,6420538,12 HK,Henderson Land Dev,HKD,4000,0.030691,Hong Kong,23.4,Real Estate,Real Estate Management & Development
+DE000ENER6Y0,BMTVQK9,ENR DE,Siemens Energy Ag,EUR,617,0.030653,Germany,17.82,Industrials,Electrical Equipment
+JP3362700001,6597584,9104 JP,Mitsui O.S.K.Lines,JPY,400,0.030587,Japan,4516,Industrials,Marine Transportation
+CH0531751755,BMFY8R3,BCVN CH,Bqe Cant Vaudoise,CHF,108,0.030567,Switzerland,99.6,Financials,Banks
+BMG3223R1088,2556868,EG,Everest Group Ltd,USD,32,0.030504,United States,371.25,Financials,Insurance
+US8807701029,2884183,TER,Teradyne Inc,USD,108,0.030499,United States,109.98,Information Technology,Semiconductors & Semiconductor Equipment
+US5658491064,2910970,MRO,Marathon Oil Corp,USD,406,0.030446,United States,29.205,Energy,Oil Gas & Consumable Fuels
+NL0000235190,4012250,AIR FR,Airbus Se,EUR,66,0.030301,France,164.68,Industrials,Aerospace & Defense
+JP3573000001,6895448,9531 JP,Tokyo Gas Co,JPY,500,0.030114,Japan,3557,Utilities,Gas Utilities
+US26884L1098,2319414,EQT,Eqt Corp,USD,312,0.030078,United States,37.545,Energy,Oil Gas & Consumable Fuels
+JP3505000004,6251363,1925 JP,Daiwa House Inds,JPY,400,0.030052,Japan,4437,Real Estate,Real Estate Management & Development
+US34959J1088,BYT3MK1,FTV,Fortive Corp,USD,139,0.030016,United States,84.1,Industrials,Machinery
+NZTELE0001S4,6881436,SPK NZ,Spark New Zealand,NZD,4094,0.029955,New Zealand,4.705,Communication Services,Diversified Telecommunication Services
+US0536111091,2066408,AVY,Avery Dennison Corp,USD,53,0.029760,United States,218.68,Materials,Containers & Packaging
+US0357108390,BPMQ7X2,NLY,Annaly Capital Management I,USD,597,0.029716,United States,19.385,Financials,Mortgage Real Estate Investment Trusts (Reits)
+US50540R4092,2586122,LH,Laboratory Corp Amer Hldgs,USD,55,0.029712,United States,210.39,Health Care,Health Care Providers & Services
+JP3388200002,6480048,8267 JP,Aeon Co Ltd,JPY,500,0.029682,Japan,3506,Consumer Staples,Consumer Staples Distribution & Retail
+US29364G1031,2317087,ETR,Entergy Corp New,USD,109,0.029681,United States,106.05,Utilities,Electric Utilities
+JP3783600004,6298542,9020 JP,East Japan Railway,JPY,600,0.029640,Japan,2917.5,Industrials,Ground Transportation
+US8636671013,2853688,SYK,Stryker Corporation,USD,33,0.029516,United States,348.33,Health Care,Health Care Equipment & Supplies
+NO0010161896,BNG7113,DNB NO,Dnb Bank Asa,NOK,561,0.029279,Norway,217,Financials,Banks
+US1858991011,BYVZ186,CLF,Cleveland Cliffs Inc New,USD,523,0.029094,United States,21.665,Materials,Metals & Mining
+JP3672400003,6642860,7201 JP,Nissan Motor Co,JPY,2900,0.029016,Japan,590.9,Consumer Discretionary,Automobiles
+JP3486800000,6250508,1878 JP,Daito Trust Const,JPY,100,0.029005,Japan,17130,Real Estate,Real Estate Management & Development
+AU000000JHX1,B60QWJ2,JHX AU,James Hardie Indus,AUD,290,0.028949,Australia,58.7,Materials,Construction Materials
+JP3778630008,B0JDQD4,7832 JP,Bandai Namco Hldgs,JPY,600,0.028746,Japan,2829.5,Consumer Discretionary,Leisure Products
+NL0000009538,5986622,PHIA NL,Koninklijke Philip,EUR,539,0.028709,Netherlands,19.105,Health Care,Health Care Equipment & Supplies
+US4461501045,2445966,HBAN,Huntington Bancshares Inc,USD,800,0.028707,United States,13.975,Financials,Banks
+IE00BFRT3W74,BFRT3W7,ALLE,Allegion Plc,USD,84,0.028687,United States,133,Industrials,Building Products
+BMG507361001,6472119,J36 SG,Jardine Matheson,USD,300,0.028571,Singapore,37.09,Industrials,Industrial Conglomerates
+US16119P1084,BZ6VT82,CHTR,Charter Communications Inc,USD,41,0.028485,United States,270.57,Communication Services,Media
+FR0000124141,4031879,VIE FR,Veolia Environneme,EUR,351,0.028368,France,28.99,Utilities,Multi Utilities
+DK0010272202,4595739,GMAB DK,Genmab As,DKK,37,0.028321,Denmark,2048,Health Care,Biotechnology
+US22822V1017,BTGQCX1,CCI,Crown Castle Inc,USD,108,0.028163,United States,101.558,Real Estate,Specialized Reits
+FR001400AJ45,BPBPJ01,ML FR,Michelin (Cgde),EUR,285,0.028135,France,35.41,Consumer Discretionary,Automobile Components
+US83444M1018,BMTQB43,SOLV,Solventum Corp,USD,166,0.027974,United States,65.63,Health Care,Health Care Equipment & Supplies
+US4062161017,2405302,HAL,Halliburton Co,USD,268,0.027953,United States,40.62,Energy,Energy Equipment & Services
+SE0007100599,BXDZ9Q1,SHB.A SE,Svenska Handelsbkn,SEK,1043,0.027919,Sweden,110.1,Financials,Banks
+NO0003733800,B1VQF42,ORK NO,Orkla Asa,NOK,1516,0.027765,Norway,76.15,Consumer Staples,Food Products
+AU000000RHC8,6041995,RHC AU,Ramsay Health Care,AUD,304,0.027664,Australia,53.51,Health Care,Health Care Providers & Services
+CH1300646267,BQ6BPG9,BG,Bunge Global Sa,USD,101,0.027638,United States,106.57,Consumer Staples,Food Products
+FR0014003TT8,BM8H5Y5,DSY FR,Dassault Systemes,EUR,248,0.027621,France,39.95,Information Technology,Software
+CA87807B1076,BJMY6G0,TRP CA,Tc Energy Corp,CAD,281,0.027497,Canada,51.8,Energy,Oil Gas & Consumable Fuels
+JP3027680002,6397580,8952 JP,Japan Real Estate,JPY,3,0.027430,Japan,540000,Real Estate,Office Reits
+US09857L1089,BDRXDB4,BKNG,Booking Holdings Inc,USD,3,0.027396,United States,3556.43,Consumer Discretionary,Hotels Restaurants & Leisure
+US7782961038,2746711,ROST,Ross Stores Inc,USD,76,0.027254,United States,139.66,Consumer Discretionary,Specialty Retail
+DE000CBK1001,B90LKT4,CBK DE,Commerzbank Ag,EUR,735,0.027253,Germany,13.3,Financials,Banks
+US8545021011,B3Q2FJ4,SWK,Stanley Black & Decker Inc,USD,109,0.027067,United States,96.71,Industrials,Machinery
+US5303073051,BRTLC06,LBRDK,Liberty Broadband Corp,USD,202,0.027018,United States,52.09,Communication Services,Media
+US31620R3030,BNBRDD4,FNF,Fidelity National Financial,USD,200,0.027007,United States,52.59,Financials,Insurance
+US34964C1062,B3MC7D6,FBIN,Fortune Brands Innovations,USD,130,0.026888,United States,80.55,Industrials,Building Products
+JP3047550003,B98BC67,3283 JP,Nippon Prologis Re,JPY,6,0.026811,Japan,263900,Real Estate,Industrial Reits
+FI0009005987,5051252,UPM FI,Upm Kymmene Corp,EUR,304,0.026765,Finland,31.58,Materials,Paper & Forest Products
+JP3637300009,6125286,4704 JP,Trend Micro Inc,JPY,200,0.026750,Japan,7899,Information Technology,Software
+GB0032089863,3208986,NXT GB,Next,GBP,94,0.026745,United Kingdom,87.42,Consumer Discretionary,Broadline Retail
+BE0974293251,BYYHL23,ABI BE,Anheuser Busch Inb,EUR,172,0.026719,Belgium,55.72,Consumer Staples,Beverages
+GB0006825383,0682538,PSN GB,Persimmon,GBP,640,0.026600,United Kingdom,12.77,Consumer Discretionary,Household Durables
+AT0000652011,5289837,EBS AT,Erste Group Bk Ag,EUR,223,0.026453,Austria,42.55,Financials,Banks
+US55261F1049,2340168,MTB,M & T Bk Corp,USD,73,0.026392,United States,140.8,Financials,Banks
+US7591EP1005,B01R311,RF,Regions Financial Corp New,USD,500,0.026383,United States,20.55,Financials,Banks
+CH0012032113,7108918,RO CH,Roche Hldgs Ag,CHF,39,0.026332,Switzerland,237.6,Health Care,Pharmaceuticals
+JP3336560002,BBD7Q84,2587 JP,Suntory Beverage &,JPY,300,0.026303,Japan,5178,Consumer Staples,Beverages
+US8552441094,2842255,SBUX,Starbucks Corp,USD,118,0.026225,United States,86.555,Consumer Discretionary,Hotels Restaurants & Leisure
+JP3799000009,6428725,6806 JP,Hirose Electric,JPY,100,0.026169,Japan,15455,Information Technology,Electronic Equipment Instruments & Components
+CH0311864901,BYZWMR9,VACN CH,Vat Group Ag,CHF,19,0.026137,Switzerland,484.1,Industrials,Machinery
+US2788651006,2304227,ECL,Ecolab Inc,USD,45,0.026037,United States,225.335,Materials,Chemicals
+US4606901001,2466321,IPG,Interpublic Group Cos Inc,USD,319,0.025920,United States,31.645,Communication Services,Media
+NZFAPE0001S2,6340250,FPH NZ,Fisher & Paykel He,NZD,650,0.025898,New Zealand,25.62,Health Care,Health Care Equipment & Supplies
+US2199481068,BMX5GK7,CPAY,Corpay Inc,USD,33,0.025851,United States,305.085,Financials,Financial Services
+DK0010274414,4588825,DANSKE DK,Danske Bank A/S,DKK,336,0.025756,Denmark,205.1,Financials,Banks
+ES0105066007,BX90C05,CLNX ES,Cellnex Telecom Sa,EUR,297,0.025503,Spain,30.8,Communication Services,Diversified Telecommunication Services
+NL0015001WM6,BMHCW17,QIA DE,Qiagen Nv,EUR,239,0.025503,Germany,38.275,Health Care,Life Sciences Tools & Services
+US6935061076,2698470,PPG,Ppg Inds Inc,USD,70,0.025431,United States,141.49,Materials,Chemicals
+JP3347200002,6804682,4507 JP,Shionogi & Co,JPY,200,0.025399,Japan,7500,Health Care,Pharmaceuticals
+FI0009013296,B06YV46,NESTE FI,Neste Oyj,EUR,334,0.025337,Finland,27.21,Energy,Oil Gas & Consumable Fuels
+AU000000STO6,6776703,STO AU,Santos Limited,AUD,1928,0.025214,Australia,7.69,Energy,Oil Gas & Consumable Fuels
+CA3039011026,2566351,FFH CA,Fairfax Finl Hldgs Ltd,CAD,9,0.025129,Canada,1478.03,Financials,Insurance
+BMG0112X1056,BPH0Y27,AGN NL,Aegon Limited,EUR,1554,0.025128,Netherlands,5.8,Financials,Insurance
+ES0109067019,B3MSM28,AMS ES,Amadeus It Group,EUR,158,0.025125,Spain,57.04,Consumer Discretionary,Hotels Restaurants & Leisure
+JP3294460005,B10RB15,1605 JP,Inpex Corporation,JPY,600,0.025068,Japan,2467.5,Energy,Oil Gas & Consumable Fuels
+US9892071054,2989356,ZBRA,Zebra Technologies Corporat,USD,32,0.024987,United States,304.1,Information Technology,Electronic Equipment Instruments & Components
+JP3598600009,6895200,9602 JP,Toho Co Ltd,JPY,300,0.024957,Japan,4913,Communication Services,Entertainment
+JP3397200001,6865504,7269 JP,Suzuki Motor Corp,JPY,800,0.024891,Japan,1837.5,Consumer Discretionary,Automobiles
+US09260D1072,BKF2SL7,BX,Blackstone Inc,USD,74,0.024823,United States,130.64,Financials,Capital Markets
+US3030751057,2329770,FDS,Factset Resh Sys Inc,USD,22,0.024786,United States,438.775,Financials,Capital Markets
+US8574771031,2842040,STT,State Str Corp,USD,126,0.024695,United States,76.33,Financials,Capital Markets
+US03027X1000,B7FBFL2,AMT,American Tower Corp New,USD,50,0.024644,United States,191.95,Real Estate,Specialized Reits
+SE0000872095,B1CC9H0,SOBI SE,Swedish Orphan Bio,SEK,380,0.024612,Sweden,266.4,Health Care,Biotechnology
+HK0016000132,6859927,16 HK,Sun Hung Kai Prop,HKD,1000,0.024412,Hong Kong,74.45,Real Estate,Real Estate Management & Development
+JP3684000007,6641801,6988 JP,Nitto Denko Corp,JPY,100,0.024408,Japan,14415,Materials,Chemicals
+KYG9593A1040,BF0GWS4,1997 HK,Wharf Real Estate,HKD,3000,0.024396,Hong Kong,24.8,Real Estate,Real Estate Management & Development
+IE00BF0L3536,BF0L353,A5G IE,Aib Group Plc,EUR,1750,0.024209,Ireland,4.962,Financials,Banks
+SE0015961909,BNZFHC1,HEXA.B SE,Hexagon Ab,SEK,806,0.024171,Sweden,123.35,Information Technology,Electronic Equipment Instruments & Components
+US9581021055,2954699,WDC,Western Digital Corp.,USD,130,0.024161,United States,72.38,Information Technology,Technology Hardware Storage & Peripherals
+DE000A1EWWW0,4031976,ADS DE,Adidas Ag,EUR,43,0.024096,Germany,201,Consumer Discretionary,Textiles Apparel & Luxury Goods
+US2538681030,B03GQS4,DLR,Digital Rlty Tr Inc,USD,65,0.024054,United States,144.12,Real Estate,Specialized Reits
+CH1175448666,BQ7ZV06,STMN CH,Straumann Hldg,CHF,59,0.024042,Switzerland,143.4,Health Care,Health Care Equipment & Supplies
+NL0012866412,BG0SCK9,BESI NL,Be Semiconductor,EUR,59,0.023883,Netherlands,145.2,Information Technology,Semiconductors & Semiconductor Equipment
+SE0000242455,4846523,SWED.A SE,Swedbank Ab,SEK,448,0.023788,Sweden,218.4,Financials,Banks
+DE000A1ML7J1,BBJPFY1,VNA DE,Vonovia Se,EUR,335,0.023788,Germany,25.47,Real Estate,Real Estate Management & Development
+GB00BPQY8M80,BPQY8M8,AV GB,Aviva,GBP,1482,0.023688,United Kingdom,4.911,Financials,Insurance
+GB00BKFB1C65,BKFB1C6,MNG GB,M&G Plc,GBP,3452,0.023347,United Kingdom,2.078,Financials,Financial Services
+JP3970300004,BQRRZ00,6098 JP,Recruit Hldgs Co L,JPY,200,0.022970,Japan,6783,Industrials,Professional Services
+SE0000667925,5978384,TELIA SE,Telia Company Ab,SEK,3555,0.022947,Sweden,26.55,Communication Services,Diversified Telecommunication Services
+GB0007908733,0790873,SSE GB,Sse Plc,GBP,438,0.022902,United Kingdom,16.065,Utilities,Electric Utilities
+DK0010181759,4169219,CARL.B DK,Carlsberg,DKK,66,0.022881,Denmark,927.6,Consumer Staples,Beverages
+US11133T1034,B1VP7R6,BR,Broadridge Finl Solutions I,USD,43,0.022799,United States,206.495,Industrials,Professional Services
+US88262P1021,BM99VY2,TPL,Texas Pacific Land Corporat,USD,15,0.022674,United States,588.695,Energy,Oil Gas & Consumable Fuels
+US0534841012,2131179,AVB,Avalonbay Cmntys Inc,USD,47,0.022634,United States,187.55,Real Estate,Residential Reits
+DE0007664005,5497102,VOW DE,Volkswagen Ag,EUR,55,0.022632,Germany,147.6,Consumer Discretionary,Automobiles
+NL0014332678,BMC4ZZ3,JDEP NL,Jde Peets N.V.,EUR,426,0.022625,Netherlands,19.05,Consumer Staples,Food Products
+GB00BMWC6P49,BMWC6P4,MNDI GB,Mondi Plc,GBP,488,0.022617,United Kingdom,14.24,Materials,Paper & Forest Products
+CH0010645932,5980613,GIVN CH,Givaudan Sa,CHF,2,0.022602,Switzerland,3977,Materials,Chemicals
+US0130911037,BYNQ369,ACI,Albertsons Companies Inc,USD,421,0.022566,United States,20.875,Consumer Staples,Consumer Staples Distribution & Retail
+US8740541094,2122117,TTWO,Take Two Interactive Softwa,USD,57,0.022478,United States,153.58,Communication Services,Entertainment
+US6745991058,2655408,OXY,Occidental Pete Corp,USD,128,0.022458,United States,68.33,Energy,Oil Gas & Consumable Fuels
+US29444U7000,BVLZX12,EQIX,Equinix Inc,USD,11,0.022449,United States,794.795,Real Estate,Specialized Reits
+US1152361010,2692687,BRO,Brown & Brown Inc,USD,104,0.022440,United States,84.03,Financials,Insurance
+JP3260800002,6492968,9041 JP,Kintetsu Group Hol,JPY,300,0.022381,Japan,4406,Industrials,Ground Transportation
+DE000SYM9999,B1JB4K8,SY1 DE,Symrise Ag,EUR,75,0.022352,Germany,106.9,Materials,Chemicals
+US2166485019,BQPDXR3,COO,Cooper Cos Inc,USD,88,0.022273,United States,98.57,Health Care,Health Care Equipment & Supplies
+AU000000COH5,6211798,COH AU,Cochlear Ltd,AUD,41,0.022247,Australia,319.07,Health Care,Health Care Equipment & Supplies
+JP3200450009,6661144,8591 JP,Orix Corp,JPY,400,0.022181,Japan,3275,Financials,Financial Services
+US02209S1033,2692632,MO,Altria Group Inc,USD,205,0.022147,United States,42.075,Consumer Staples,Tobacco
+JP3104890003,B2Q4CR0,3626 JP,Tis Inc.,JPY,400,0.021904,Japan,3234,Information Technology,It Services
+US30225T1025,B02HWR9,EXR,Extra Space Storage Inc,USD,56,0.021761,United States,151.335,Real Estate,Specialized Reits
+JP3937200008,6985543,6845 JP,Azbil Corp,JPY,300,0.021756,Japan,4283,Information Technology,Electronic Equipment Instruments & Components
+US8718291078,2868165,SYY,Sysco Corp,USD,109,0.021621,United States,77.25,Consumer Staples,Consumer Staples Distribution & Retail
+HK0101000591,6030506,101 HK,Hang Lung Prop,HKD,8000,0.021615,Hong Kong,8.24,Real Estate,Real Estate Management & Development
+IL0006290147,6882172,TEVA IL,Teva Pharma Ind,ILS,600,0.021475,Israel,51.53,Health Care,Pharmaceuticals
+CA9528451052,2951098,WFG CA,West Fraser Timber Co Ltd,CAD,100,0.021416,Canada,113.37,Materials,Paper & Forest Products
+SG1F60858221,6043214,S63 SG,Singapore Tech Eng,SGD,2800,0.021320,Singapore,3.99,Industrials,Aerospace & Defense
+BMG0450A1053,2740542,ACGL,Arch Cap Group Ltd,USD,91,0.021228,United States,90.85,Financials,Insurance
+US1156372096,2146838,BF.B,Brown Forman Corp,USD,161,0.021005,United States,50.81,Consumer Staples,Beverages
+JP3205800000,6483809,4452 JP,Kao Corp,JPY,200,0.020851,Japan,6157,Consumer Staples,Personal Care Products
+JP3659000008,6957995,9021 JP,West Japan Railway,JPY,400,0.020847,Japan,3078,Industrials,Ground Transportation
+JP3675600005,6641760,2897 JP,Nissin Foods Hldg,JPY,300,0.020705,Japan,4076,Consumer Staples,Food Products
+FR0013451333,BG0SC10,FDJ FR,La Francaise Des,EUR,198,0.020512,France,37.16,Consumer Discretionary,Hotels Restaurants & Leisure
+US9297401088,2955733,WAB,Wabtec,USD,54,0.020439,United States,147.41,Industrials,Machinery
+DE0007037129,4768962,RWE DE,Rwe Ag,EUR,236,0.020416,Germany,31.03,Utilities,Independent Power And Renewable Electricity Producers
+FI0009003727,4525189,WRT1V FI,Wartsila Oyj Abp,EUR,482,0.020385,Finland,15.17,Industrials,Machinery
+HK0002007356,6097017,2 HK,Clp Holdings Ltd,HKD,1000,0.020346,Hong Kong,62.05,Utilities,Electric Utilities
+AT0000743059,4651459,OMV AT,Omv Ag,EUR,166,0.020307,Austria,43.88,Energy,Oil Gas & Consumable Fuels
+JP3233250004,BYT8154,7181 JP,Japan Post Insuran,JPY,400,0.020275,Japan,2993.5,Financials,Insurance
+US21036P1084,2170473,STZ,Constellation Brands Inc,USD,30,0.020241,United States,262.765,Consumer Staples,Beverages
+ES0130670112,5271782,ELE ES,Endesa Sa,EUR,419,0.020203,Spain,17.295,Utilities,Electric Utilities
+NL0012059018,BMJ1825,EXO NL,Exor Nv,EUR,73,0.020107,Netherlands,98.8,Financials,Financial Services
+CA2908761018,2650050,EMA CA,Emera Inc,CAD,221,0.019893,Canada,47.65,Utilities,Electric Utilities
+CA05534B7604,B188TH2,BCE CA,Bce Inc,CAD,234,0.019850,Canada,44.905,Communication Services,Diversified Telecommunication Services
+FR0000045072,7262610,ACA FR,Credit Agricole Sa,EUR,505,0.019802,France,14.065,Financials,Banks
+DE000PAG9113,BJN59B8,P911 DE,Dr.Ing. F.Porsche,EUR,75,0.019713,Germany,94.28,Consumer Discretionary,Automobiles
+US1331311027,2166320,CPT,Camden Ppty Tr,USD,74,0.019603,United States,103.17,Real Estate,Residential Reits
+US4601461035,2465254,IP,International Paper Co,USD,200,0.019599,United States,38.165,Materials,Containers & Packaging
+AU000000REA9,6198578,REA AU,Rea Group Limited,AUD,63,0.019508,Australia,182.08,Communication Services,Interactive Media & Services
+US8168511090,2138158,SRE,Sempra,USD,106,0.019474,United States,71.55,Utilities,Multi Utilities
+GB00B019KW72,B019KW7,SBRY GB,Sainsbury(J),GBP,2257,0.019452,United Kingdom,2.648,Consumer Staples,Consumer Staples Distribution & Retail
+US9022521051,2909644,TYL,Tyler Technologies Inc,USD,18,0.019442,United States,420.645,Information Technology,Software
+US7703231032,2110703,RHI,Robert Half Inc.,USD,99,0.019271,United States,75.81,Industrials,Professional Services
+GB0000536739,0053673,AHT GB,Ashtead Group,GBP,103,0.019249,United Kingdom,57.42,Industrials,Trading Companies & Distributors
+IE0004906560,4519579,KRZ IE,Kerry Group,EUR,87,0.019149,Ireland,78.95,Consumer Staples,Food Products
+JP3116000005,6054409,2502 JP,Asahi Group Hldgs,JPY,200,0.019107,Japan,5642,Consumer Staples,Beverages
+JP3228600007,6483489,9503 JP,Kansai Elec Power,JPY,500,0.019083,Japan,2254,Utilities,Electric Utilities
+CA7751092007,2169051,RCI.B CA,Rogers Communications Inc,CAD,186,0.019026,Canada,54.15,Communication Services,Wireless Telecommunication Services
+AU000000SUN6,6585084,SUN AU,Suncorp Group Ltd,AUD,675,0.018849,Australia,16.42,Financials,Insurance
+FI0009014377,B17NY40,ORNBV FI,Orion Corporation,EUR,203,0.018642,Finland,32.94,Health Care,Pharmaceuticals
+DE0005439004,4598589,CON DE,Continental Ag,EUR,100,0.018540,Germany,66.5,Consumer Discretionary,Automobile Components
+US1720621010,2196888,CINF,Cincinnati Finl Corp,USD,60,0.018432,United States,119.64,Financials,Insurance
+AN8068571086,2779201,SLB,Schlumberger Ltd,USD,133,0.018426,United States,53.955,Energy,Energy Equipment & Services
+HK0000063609,B67C2G0,1972 HK,Swire Properties L,HKD,3600,0.018391,Hong Kong,15.58,Real Estate,Real Estate Management & Development
+CA8787422044,2124533,TECK,Teck Resources Ltd,CAD,146,0.018371,United States,49.005,Materials,Metals & Mining
+JP3940000007,6985565,9064 JP,Yamato Holdings Co,JPY,500,0.018363,Japan,2169,Industrials,Air Freight & Logistics
+IT0004965148,BGLP232,MONC IT,Moncler Spa,EUR,101,0.018359,Italy,65.2,Consumer Discretionary,Textiles Apparel & Luxury Goods
+GB00B0744B38,B0744B3,BNZL GB,Bunzl,GBP,190,0.018255,United Kingdom,29.52,Industrials,Trading Companies & Distributors
+BE0003717312,4820301,SOF BE,Sofina Sa,EUR,30,0.018233,Belgium,218,Financials,Financial Services
+US0844231029,2093644,WRB,Berkley W R Corp,USD,84,0.018081,United States,83.83,Financials,Insurance
+GB0030913577,3091357,BT.A GB,Bt Group,GBP,5160,0.018003,United Kingdom,1.072,Communication Services,Diversified Telecommunication Services
+JP3814800003,6356406,7270 JP,Subaru Corporation,JPY,300,0.017962,Japan,3536,Consumer Discretionary,Automobiles
+US1651677353,BMZ5LZ5,CHK,Chesapeake Energy Corp,USD,78,0.017901,United States,89.38,Energy,Oil Gas & Consumable Fuels
+GB00B033F229,B033F22,CNA GB,Centrica,GBP,4346,0.017886,United Kingdom,1.264,Utilities,Multi Utilities
+HK0669013440,B0190C7,669 HK,Techtronic Industr,HKD,500,0.017854,Hong Kong,108.9,Industrials,Machinery
+AU000000MIN4,B17ZL56,MIN AU,Mineral Res Ltd,AUD,147,0.017822,Australia,71.29,Materials,Metals & Mining
+JP3256000005,6499550,4151 JP,Kyowa Kirin Co Ltd,JPY,400,0.017816,Japan,2630.5,Health Care,Pharmaceuticals
+US92556H2067,BKTNTR9,PARA,Paramount Global,USD,628,0.017814,United States,11.047,Communication Services,Media
+US60871R2094,B067BM3,TAP,Molson Coors Beverage Co,USD,103,0.017738,United States,67.07,Consumer Staples,Beverages
+CH1256740924,BMBQHZ4,SGSN CH,Sgs Sa,CHF,75,0.017732,Switzerland,83.2,Industrials,Professional Services
+CH0130293662,B76D410,BKW CH,Bkw Ag,CHF,45,0.017698,Switzerland,138.4,Utilities,Electric Utilities
+FR0000121329,4162791,HO FR,Thales Sa,EUR,41,0.017671,France,154.6,Industrials,Aerospace & Defense
+FR0010259150,B0R7JF1,IPN FR,Ipsen Sa,EUR,57,0.017496,France,110.1,Health Care,Pharmaceuticals
+CH0009002962,5476929,BARN CH,Barry Callebaut Ag,CHF,5,0.017476,Switzerland,1230,Consumer Staples,Food Products
+GB0004052071,0405207,HLMA GB,Halma,GBP,234,0.017471,United Kingdom,22.94,Information Technology,Electronic Equipment Instruments & Components
+CA8849038085,BPLLTY3,TRI CA,Thomson Reuters Corp.,CAD,44,0.017380,Canada,209.1,Industrials,Professional Services
+CA5592224011,2554475,MG CA,Magna Intl Inc,CAD,128,0.017301,Canada,71.55,Consumer Discretionary,Automobile Components
+US1270971039,2162340,CTRA,Coterra Energy Inc,USD,241,0.017216,United States,27.82,Energy,Oil Gas & Consumable Fuels
+DE000A0D9PT0,B09DHL9,MTX DE,Mtu Aero Engines A,EUR,28,0.017072,Germany,218.7,Industrials,Aerospace & Defense
+SE0000108656,5959378,ERIC.B SE,Ericsson(Lm)Tel,SEK,1261,0.017021,Sweden,55.52,Information Technology,Communications Equipment
+US2567461080,2272476,DLTR,Dollar Tree Inc,USD,52,0.017019,United States,127.46,Consumer Staples,Consumer Staples Distribution & Retail
+IE00BKVD2N49,BKVD2N4,STX,Seagate Technology Hldngs P,USD,74,0.016913,United States,89.01,Information Technology,Technology Hardware Storage & Peripherals
+DE0005785604,4352097,FRE DE,Fresenius Se&Kgaa,EUR,239,0.016911,Germany,25.38,Health Care,Health Care Providers & Services
+JP3386030005,6543792,5411 JP,Jfe Holdings Inc,JPY,400,0.016882,Japan,2492.5,Materials,Metals & Mining
+US57060D1081,B03Q9D0,MKTX,Marketaxess Hldgs Inc,USD,29,0.016824,United States,225.93,Financials,Capital Markets
+GB0005603997,0560399,LGEN GB,Legal & General Gp,GBP,2040,0.016732,United Kingdom,2.52,Financials,Insurance
+NL0013654783,BJDS7L3,PRX NL,Prosus N.V.,EUR,204,0.016664,Netherlands,29.3,Consumer Discretionary,Broadline Retail
+US36828A1016,BP6H4Y1,GEV,Ge Vernova Inc,USD,49,0.016592,United States,131.87,Industrials,Electrical Equipment
+DE000KBX1006,BD2P9X9,KBX DE,Knorr Bremse Ag,EUR,86,0.016579,Germany,69.15,Industrials,Machinery
+FR0000120644,B1Y9TB3,BN FR,Danone,EUR,103,0.016529,France,57.56,Consumer Staples,Food Products
+SE0020050417,BPYTZ57,BOL SE,Boliden Ab,SEK,198,0.016507,Sweden,342.9,Materials,Metals & Mining
+US29472R1086,2563125,ELS,Equity Lifestyle Pptys Inc,USD,100,0.016426,United States,63.97,Real Estate,Residential Reits
+US70432V1026,BL95MY0,PAYC,Paycom Software Inc,USD,31,0.016354,United States,205.45,Industrials,Professional Services
+US0235865062,BP0VMC3,UHAL.B,U Haul Holding Company,USD,96,0.016196,United States,65.705,Industrials,Ground Transportation
+JP3500610005,6421553,8308 JP,Resona Holdings,JPY,1000,0.016170,Japan,955,Financials,Banks
+DE0008402215,4511809,HNR1 DE,Hannover Rueck Se,EUR,25,0.016128,Germany,231.4,Financials,Insurance
+US7140461093,2305844,RVTY,Revvity Inc,USD,57,0.016028,United States,109.51,Health Care,Life Sciences Tools & Services
+FR0014000MR3,BNDPYV1,ERF FR,Eurofins Scientifi,EUR,95,0.016018,France,60.48,Health Care,Life Sciences Tools & Services
+JP3429800000,6014908,9202 JP,Ana Holdings Inc,JPY,300,0.015991,Japan,3148,Industrials,Passenger Airlines
+JP3574200006,6896548,9005 JP,Tokyu Corp,JPY,500,0.015836,Japan,1870.5,Industrials,Ground Transportation
+DE000LEG1110,B9G6L89,LEG DE,Leg Immobilien Se,EUR,74,0.015782,Germany,76.5,Real Estate,Real Estate Management & Development
+US2371941053,2289874,DRI,Darden Restaurants Inc,USD,39,0.015761,United States,157.39,Consumer Discretionary,Hotels Restaurants & Leisure
+FR0013280286,BF0LBX7,BIM FR,Biomerieux,EUR,53,0.015692,France,106.2,Health Care,Health Care Equipment & Supplies
+US0905722072,2098508,BIO,Bio Rad Labs Inc,USD,18,0.015510,United States,335.58,Health Care,Life Sciences Tools & Services
+GB00BJFFLV09,BJFFLV0,CRDA GB,Croda Intl,GBP,101,0.015450,United Kingdom,47,Materials,Chemicals
+JP3868400007,6900308,7261 JP,Mazda Motor Corp,JPY,500,0.015447,Japan,1824.5,Consumer Discretionary,Automobiles
+US0970231058,2108601,BA,Boeing Co,USD,34,0.015431,United States,176.75,Industrials,Aerospace & Defense
+CH0102484968,B4R2R50,BAER CH,Julius Baer Gruppe,CHF,103,0.015425,Switzerland,52.7,Financials,Capital Markets
+GB00B0SWJX34,B0SWJX3,LSEG GB,London Stock Exch,GBP,51,0.015254,United Kingdom,91.9,Financials,Capital Markets
+DE000SHL1006,BD594Y4,SHL DE,Siemens Healthinee,EUR,100,0.015211,Germany,54.56,Health Care,Health Care Equipment & Supplies
+FI0009007132,5579550,FORTUM FI,Fortum Oyj,EUR,441,0.014809,Finland,12.045,Utilities,Electric Utilities
+DK0060336014,B798FW0,NSIS.B DK,Novonesis B,DKK,104,0.014704,Denmark,378.3,Materials,Chemicals
+DE0005785802,5129074,FME DE,Fresenius Medical,EUR,148,0.014602,Germany,35.39,Health Care,Health Care Providers & Services
+US1488061029,BP96PQ4,CTLT,Catalent Inc,USD,100,0.014583,United States,56.793,Health Care,Pharmaceuticals
+US1431301027,2983563,KMX,Carmax Inc,USD,68,0.014507,United States,83.085,Consumer Discretionary,Specialty Retail
+SE0005190238,B97C733,TEL2.B SE,Tele2 Ab,SEK,653,0.014501,Sweden,91.34,Communication Services,Wireless Telecommunication Services
+AT0000937503,4943402,VOE AT,Voestalpine Ag,EUR,187,0.014087,Austria,27.02,Materials,Metals & Mining
+US95040Q1040,BYVYHH4,WELL,Welltower Inc,USD,60,0.014086,United States,91.43,Real Estate,Health Care Reits
+US5218652049,B570P91,LEA,Lear Corp,USD,38,0.013974,United States,143.22,Consumer Discretionary,Automobile Components
+GB0007099541,0709954,PRU GB,Prudential Plc,GBP,590,0.013834,United Kingdom,7.204,Financials,Insurance
+US5926881054,2126249,MTD,Mettler Toledo Internationa,USD,4,0.013622,United States,1326.31,Health Care,Life Sciences Tools & Services
+JP3539220008,6744294,8795 JP,T&D Holdings Inc,JPY,300,0.013436,Japan,2645,Financials,Insurance
+AU000000ORG5,6214861,ORG AU,Origin Energy,AUD,823,0.013310,Australia,9.51,Utilities,Electric Utilities
+DE000ZAL1111,BQV0SV7,ZAL DE,Zalando Se,EUR,180,0.013032,Germany,25.97,Consumer Discretionary,Specialty Retail
+US0997241064,2111955,BWA,Borgwarner Inc,USD,143,0.013029,United States,35.485,Consumer Discretionary,Automobile Components
+JP3305990008,BD97JW7,7186 JP,Concordia Financia,JPY,1000,0.012943,Japan,764.4,Financials,Banks
+US9026531049,2727910,UDR,Udr Inc,USD,132,0.012814,United States,37.805,Real Estate,Residential Reits
+GB00BMX86B70,BMX86B7,HLN GB,Haleon Plc,GBP,1211,0.012703,United Kingdom,3.223,Consumer Staples,Personal Care Products
+JP3621000003,6897143,3402 JP,Toray Inds Inc,JPY,1000,0.012613,Japan,744.9,Materials,Chemicals
+JP3351100007,6883807,6869 JP,Sysmex Corp,JPY,300,0.012603,Japan,2481,Health Care,Health Care Equipment & Supplies
+US98956P1021,2783815,ZBH,Zimmer Biomet Holdings Inc,USD,38,0.012561,United States,128.73,Health Care,Health Care Equipment & Supplies
+KYG960071028,BLLHKZ1,288 HK,Wh Group Ltd,HKD,7000,0.012486,Hong Kong,5.44,Consumer Staples,Food Products
+JP3399310006,B292RC1,3092 JP,Zozo Inc,JPY,200,0.012266,Japan,3622,Consumer Discretionary,Specialty Retail
+JP3165700000,6125639,9613 JP,Ntt Data Group Co,JPY,300,0.011993,Japan,2361,Information Technology,It Services
+SE0009922164,BF1K7P7,ESSITY.B SE,Essity Ab,SEK,189,0.011754,Sweden,255.8,Consumer Staples,Household Products
+US78410G1040,BZ6TS23,SBAC,Sba Communications Corp New,USD,21,0.011730,United States,217.545,Real Estate,Specialized Reits
+FR0013154002,BYZ2QP5,DIM FR,Sartorius Stedim B,EUR,16,0.011633,France,260.8,Health Care,Life Sciences Tools & Services
+GB0008782301,0878230,TW GB,Taylor Wimpey Plc,GBP,2687,0.011526,United Kingdom,1.318,Consumer Discretionary,Household Durables
+JP3918000005,B60DQV3,2269 JP,Meiji Holdings Co,JPY,200,0.011324,Japan,3344,Consumer Staples,Food Products
+US8522341036,BYNZGK1,SQ,Block Inc,USD,55,0.011178,United States,79.15,Financials,Financial Services
+NL0013267909,BJ2KSG2,AKZA NL,Akzo Nobel Nv,EUR,60,0.011147,Netherlands,66.64,Materials,Chemicals
+JP3932000007,6986041,6506 JP,Yaskawa Elec Corp,JPY,100,0.011131,Japan,6574,Industrials,Machinery
+IT0003497168,7634394,TIT IT,Telecom Italia Spa,EUR,16663,0.010945,Italy,0.236,Communication Services,Diversified Telecommunication Services
+US09073M1045,BSHZ3Q0,TECH,Bio Techne Corp,USD,60,0.010873,United States,70.575,Health Care,Life Sciences Tools & Services
+IT0003492391,B234WN9,DIA IT,Diasorin Spa,EUR,43,0.010643,Italy,88.78,Health Care,Health Care Equipment & Supplies
+DK0010244508,4253048,MAERSK.B DK,A.P. Moller Maersk,DKK,3,0.010508,Denmark,9372,Industrials,Marine Transportation
+JP3160400002,6307200,4523 JP,Eisai Co,JPY,100,0.010380,Japan,6130,Health Care,Pharmaceuticals
+JP3223800008,6484686,9107 JP,Kawasaki Kisen Kai,JPY,300,0.010264,Japan,2020.5,Industrials,Marine Transportation
+JP3027670003,6396800,8951 JP,Nippon Building Fd,JPY,1,0.010261,Japan,606000,Real Estate,Office Reits
+IE0004927939,4491235,KRX IE,Kingspan Group,EUR,44,0.010218,Ireland,83.3,Industrials,Building Products
+CH1243598427,BLPLD38,SDZ CH,Sandoz Group Ag,CHF,131,0.009679,Switzerland,26,Health Care,Pharmaceuticals
+JP3119600009,6010906,2802 JP,Ajinomoto Co Inc,JPY,100,0.009626,Japan,5685,Consumer Staples,Food Products
+US4180561072,2414580,HAS,Hasbro Inc,USD,65,0.009588,United States,57.45,Consumer Discretionary,Leisure Products
+AU0000154833,BNVS144,EDV AU,Endeavour Group Lt,AUD,1051,0.009473,Australia,5.3,Consumer Staples,Consumer Staples Distribution & Retail
+JP3218900003,6173694,9697 JP,Capcom Co Ltd,JPY,200,0.009157,Japan,2704,Communication Services,Entertainment
+NL0010558797,BD4TZK8,OCI NL,Oci N.V.,EUR,129,0.009135,Netherlands,25.4,Materials,Chemicals
+KYG8187G1055,B61X7R5,1308 HK,Sitc International,HKD,2000,0.009063,Hong Kong,13.82,Industrials,Marine Transportation
+DE0008232125,5287488,LHA DE,Deutsche Lufthansa,EUR,453,0.008974,Germany,7.106,Industrials,Passenger Airlines
+US03743Q1085,BNNF1C1,APA,Apa Corporation,USD,100,0.008934,United States,34.795,Energy,Oil Gas & Consumable Fuels
+IL0010811243,6308913,ESLT IL,Elbit Systems Ltd,ILS,17,0.008915,Israel,755,Industrials,Aerospace & Defense
+BMG4587L1090,6434915,H78 SG,Hongkong Land Hld,USD,1100,0.008728,Singapore,3.09,Real Estate,Real Estate Management & Development
+GB0031743007,3174300,BRBY GB,Burberry Group,GBP,214,0.008278,United Kingdom,11.885,Consumer Discretionary,Textiles Apparel & Luxury Goods
+JP3942400007,6985383,4503 JP,Astellas Pharma,JPY,300,0.008107,Japan,1596,Health Care,Pharmaceuticals
+DE0006062144,BYTBWY9,1COV DE,Covestro Ag,EUR,54,0.007759,Germany,51.54,Materials,Chemicals
+HK0006000050,6435327,6 HK,Power Assets Hldgs,HKD,500,0.007517,Hong Kong,45.85,Utilities,Electric Utilities
+JP3435750009,B02K2M3,2413 JP,M3 Inc,JPY,200,0.006934,Japan,2047.5,Health Care,Health Care Technology
+HK0000093390,B4TXDZ3,6823 HK,Hkt Trust And Hkt,HKD,2000,0.005928,Hong Kong,9.04,Communication Services,Diversified Telecommunication Services

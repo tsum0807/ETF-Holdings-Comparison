@@ -7,7 +7,7 @@ import traceback
 from typing import List
 from colorama import init, Fore, Style
 
-from holding import Holding
+from Coding.Old.holding import Holding
 
 TICKER_ALIAS = ["TICKER", "ASX CODE", "SYMBOL"]
 EXCHANGE_ALIAS = ["EXCHANGE", "COUNTRY CODE", "LOCAL CURRENCY"]

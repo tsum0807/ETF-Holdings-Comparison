@@ -8,19 +8,29 @@ generator client {
 }
 
 model ETF {
-  id          Int       @id @default(autoincrement())
+  id          Int      @id @default(autoincrement())
   name        String
   ticker      String
   description String?
   expenseRatio Float
-  holdings    Holding[] @relation("ETFHoldings")
+  holdings    ETF_Holding[]
 }
 
 model Holding {
-  id            Int       @id @default(autoincrement())
-  ticker        String
-  name          String
-  percentage    Float
-  exchangeCode  String
-  etfs          ETF[]     @relation("ETFHoldings")
+  id          Int      @id @default(autoincrement())
+  ticker      String
+  name        String
+  exchangeCode String
+  etfs        ETF_Holding[]
+}
+
+model ETF_Holding {
+  id          Int      @id @default(autoincrement())
+  etfId       Int
+  holdingId   Int
+  percentage  Float
+  ETF         ETF      @relation(fields: [etfId], references: [id])
+  Holding     Holding  @relation(fields: [holdingId], references: [id])
+
+  @@unique([etfId, holdingId]) // Ensures unique combinations of ETF and Holding
 }

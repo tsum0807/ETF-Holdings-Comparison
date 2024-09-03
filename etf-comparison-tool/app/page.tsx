@@ -2,7 +2,7 @@ import React from 'react';
 
 const LandingPage: React.FC = () => {
   return (
-    <div style={{ fontFamily: 'Arial, sans-serif', color: '#333' }}>
+    <div style={{ fontFamily: 'Roboto, sans-serif', color: '#333' }}>
       {/* Hero Section */}
       <section style={{
         background: 'linear-gradient(135deg, #0066cc, #00cc99)',
@@ -31,8 +31,12 @@ const LandingPage: React.FC = () => {
       </section>
 
       {/* Features Section */}
-      <section id="features" style={{ padding: '50px 20px', textAlign: 'center' }}>
-        <h2 style={{ fontSize: '2.5rem', margin: '0 0 20px' }}>Features</h2>
+      <section id="features" style={{
+        padding: '50px 20px',
+        textAlign: 'center',
+        background: '#f4f4f4' // Light background to contrast with dark text
+      }}>
+        <h2 style={{ fontSize: '2.5rem', margin: '0 0 20px', color: '#333' }}>Features</h2>
         <div style={{
           display: 'flex',
           flexDirection: 'row',
@@ -42,32 +46,35 @@ const LandingPage: React.FC = () => {
         }}>
           <div style={{
             flex: '1 1 300px',
-            background: '#f4f4f4',
+            background: '#fff', // White background for cards
             padding: '20px',
             borderRadius: '10px',
-            boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
+            boxShadow: '0 4px 8px rgba(0,0,0,0.1)',
+            color: '#333' // Dark text for readability
           }}>
-            <h3>Comprehensive Comparisons</h3>
+            <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>Comprehensive Comparisons</h3>
             <p>Get detailed insights into ETF holdings and identify overlaps across different funds.</p>
           </div>
           <div style={{
             flex: '1 1 300px',
-            background: '#f4f4f4',
+            background: '#fff',
             padding: '20px',
             borderRadius: '10px',
-            boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
+            boxShadow: '0 4px 8px rgba(0,0,0,0.1)',
+            color: '#333'
           }}>
-            <h3>Easy-to-Use Interface</h3>
+            <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>Easy-to-Use Interface</h3>
             <p>Our intuitive interface makes it simple to perform in-depth comparisons with just a few clicks.</p>
           </div>
           <div style={{
             flex: '1 1 300px',
-            background: '#f4f4f4',
+            background: '#fff',
             padding: '20px',
             borderRadius: '10px',
-            boxShadow: '0 4px 8px rgba(0,0,0,0.1)'
+            boxShadow: '0 4px 8px rgba(0,0,0,0.1)',
+            color: '#333'
           }}>
-            <h3>Real-Time Data</h3>
+            <h3 style={{ fontSize: '1.5rem', marginBottom: '10px' }}>Real-Time Data</h3>
             <p>Access up-to-date information to ensure your investment decisions are based on the latest data.</p>
           </div>
         </div>
@@ -103,7 +110,6 @@ const LandingPage: React.FC = () => {
           }}>Learn More About Us</a>
         </p>
       </section>
-
     </div>
   );
 };

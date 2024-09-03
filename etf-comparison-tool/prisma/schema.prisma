@@ -8,20 +8,19 @@ generator client {
 }
 
 model ETF {
-  id          Int      @id @default(autoincrement())
+  id          Int       @id @default(autoincrement())
   name        String
   ticker      String
   description String?
   expenseRatio Float
-  holdings    Holding[]
+  holdings    Holding[] @relation("ETFHoldings")
 }
 
 model Holding {
-  id      Int     @id @default(autoincrement())
-  ticker  String
-  name    String
-  percentage Float
-  etfId   Int
-  ETF     ETF     @relation(fields: [etfId], references: [id])
+  id            Int       @id @default(autoincrement())
+  ticker        String
+  name          String
+  percentage    Float
   exchangeCode  String
+  etfs          ETF[]     @relation("ETFHoldings")
 }

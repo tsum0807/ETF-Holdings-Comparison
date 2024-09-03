@@ -1,0 +1,26 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model ETF {
+  id          Int      @id @default(autoincrement())
+  name        String
+  ticker      String
+  description String?
+  expenseRatio Float
+  holdings    Holding[]
+}
+
+model Holding {
+  id      Int     @id @default(autoincrement())
+  ticker  String
+  name    String
+  percentage Float
+  etfId   Int
+  ETF     ETF     @relation(fields: [etfId], references: [id])
+}
